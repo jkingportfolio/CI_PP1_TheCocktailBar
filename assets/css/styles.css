@@ -1,4 +1,39 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+/* main styles */
+
 body {
     margin: 0;
-    background-color: black;
+    background-color: rgb(226, 86, 86);
+}
+
+h1 {
+
+}
+
+
+/* nav bar styles */
+
+#nav-bar {
+    list-style: none;
+    text-align: center;
+}
+
+#nav-bar li {
+    display: inline;
+    
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: yellow;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    margin-right: 20px;
+}
+
+#nav-bar a:hover {
+    color: blue;
 }
