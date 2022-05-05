@@ -31,8 +31,6 @@ h1 {
 #nav-bar a {
     text-decoration: none;
     color: yellow;
-    /*font-family: 'Lobster', cursive;*/
-    /*font-family: 'Bangers', cursive;*/
     font-family: 'Caveat', cursive;
     font-size: 1rem;
     margin-right: 20px;
@@ -93,22 +91,36 @@ footer {
     height: 50px;
     width: 100%;
     text-align: center;
-    top: 50;
     color: yellow;
 }
 
 #footer-left {
     display: inline-block;
     width: 32%;
+    vertical-align: middle;
 
 }
 
 #footer-center {
     display: inline-block;
     width: 32%;
+    vertical-align: middle;
 }
 
 #footer-right {
     display: inline-block;
     width: 32%;
+    vertical-align: middle;
+}
+
+/*.footer-socials {
+    list-style-type: none;
+    font-size: 100%;
+    font-family: 'Caveat', cursive;
+    font-weight: 300;
+    color: rgb(220, 190, 25);
+}*/
+
+#footer-right > .footer-socials > li {
+    display: inline;
 }
