@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
 
 
 /* main styles */
@@ -31,7 +32,7 @@ h1 {
 #nav-bar a {
     text-decoration: none;
     color: yellow;
-    font-family: 'Caveat', cursive;
+    font-family: 'Squada One', cursive;
     font-size: 1rem;
     margin-right: 20px;
 }
@@ -50,9 +51,22 @@ h1 {
     border: 2px solid rgb(114, 36, 36);
 }
 
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
+
 #hero-image {
     width: 100%;
     object-fit: contain;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 /* the worlds best bar section */
@@ -138,6 +152,7 @@ footer {
     display: block;
     width: 100%;
     text-align: left;
+    padding: 10px;
 }
 
 #footer-contact li {
