@@ -20,7 +20,8 @@ h1 {
 
 #nav-bar {
     list-style: none;
-    float: right;
+    text-align: center;
+    margin: 5px auto;
 }
 
 #nav-bar li {
@@ -45,7 +46,7 @@ h1 {
 
 #hero-image-wrapper {
     width: 100%;
-    height: 230px;
+    height: 200px;
     overflow: hidden;
     border: 2px solid rgb(114, 36, 36);
 }
@@ -59,8 +60,10 @@ h1 {
 
 #best-bar {
     width: 100%;
-    height: 600px;
+    height: auto;
     border: 2px solid black;
+    overflow: hidden;
+    position: relative;
 }
 
 #best-bar h2 {
@@ -70,57 +73,74 @@ h1 {
     color: yellow;
 }
 
+.best-bar-position {
+    display: block;
+
+}
+
+.best-bar-image {
+    width:100%;
+
+}
+
 /* the experience section */
 
 #the-experience {
     width: 100%;
-    height: 600px;
+    height: auto;
     border: 2px solid black;
+    overflow: hidden;
 }
 
-#the-experience h1 {
+#the-experience h2 {
     text-align: center;
     font-family: 'Caveat', cursive;
     font-size: 1rem;
     color: yellow;
 }
 
+.the-experience-position {
+    display: block;
+}
+
+.the-experience-image {
+    width:100%;
+    object-fit: contain;
+}
+
 /* footer */
 
 footer {
-    height: 50px;
+    height: 10px;
     width: 100%;
     text-align: center;
     color: yellow;
 }
 
-#footer-left {
-    display: inline-block;
-    width: 32%;
-    vertical-align: middle;
-
+#footer-contact {
+    display: block;
+    width: 100%;
 }
 
-#footer-center {
-    display: inline-block;
-    width: 32%;
-    vertical-align: middle;
+#footer-times {
+    display: block;
+    width: 100%;
 }
 
-#footer-right {
-    display: inline-block;
-    width: 32%;
-    vertical-align: middle;
+#footer-bottom {
+    display: block;
+    width: 100%;
 }
 
-/*.footer-socials {
-    list-style-type: none;
-    font-size: 100%;
-    font-family: 'Caveat', cursive;
-    font-weight: 300;
-    color: rgb(220, 190, 25);
-}*/
+#footer-socials {
+    width: auto;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-#footer-right > .footer-socials > li {
-    display: inline;
+#footer-socials > li {
+    float: left;
+    list-style: none;
+    margin-right: 1rem;
 }
