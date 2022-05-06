@@ -46,7 +46,7 @@ h1 {
 
 #hero-image-wrapper {
     width: 100%;
-    height: 200px;
+    height: auto;
     overflow: hidden;
     border: 2px solid rgb(114, 36, 36);
 }
@@ -66,7 +66,7 @@ h1 {
     position: relative;
 }
 
-#best-bar h2 {
+#best-bar > h2 {
     text-align: center;
     font-family: 'Caveat', cursive;
     font-size: 1rem;
@@ -75,12 +75,20 @@ h1 {
 
 .best-bar-position {
     display: block;
+    width: auto;
+}
 
+.best-bar-position > p {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 1rem;
+    color: yellow;
 }
 
 .best-bar-image {
     width:100%;
-
+    object-position: center;
+    border-color: aqua;
 }
 
 /* the experience section */
@@ -99,8 +107,18 @@ h1 {
     color: yellow;
 }
 
-.the-experience-position {
+.the-experience-text {
     display: block;
+    width: auto;
+    padding: 10px;
+}
+
+.the-experience-text > p {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 1rem;
+    color: yellow;
+    padding: 10px;
 }
 
 .the-experience-image {
