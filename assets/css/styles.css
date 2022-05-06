@@ -23,6 +23,7 @@ h1 {
     list-style: none;
     text-align: center;
     margin: 5px auto;
+    background-color: tan;
 }
 
 #nav-bar li {
@@ -31,7 +32,7 @@ h1 {
 
 #nav-bar a {
     text-decoration: none;
-    color: yellow;
+    color: black;
     font-family: 'Squada One', cursive;
     font-size: 1rem;
     margin-right: 20px;
@@ -145,7 +146,8 @@ footer {
     height: auto;
     width: 100%;
     text-align: center;
-    color: yellow;
+    color: black;
+    background-color:tan;
 }
 
 #footer-contact {
@@ -163,7 +165,8 @@ footer {
 #footer-times {
     display: block;
     width: 100%;
-    text-align: left
+    text-align: left;
+    padding: 10px;
 }
 
 #footer-times li {
