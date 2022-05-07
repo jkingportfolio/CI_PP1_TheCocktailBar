@@ -142,54 +142,20 @@ h1 {
 
 /* footer */
 
-footer {
-    height: auto;
-    width: 100%;
-    text-align: center;
-    color: black;
+.footer-container {
+    display: flex;
+    flex-direction: column;
     background-color:tan;
 }
 
-#footer-contact {
-    display: block;
-    width: 100%;
-    text-align: left;
-    padding: 10px;
+.footer-contact {
+    flex:1;
 }
 
-#footer-contact li {
-    list-style: none;
-    font-size: small;
-} 
-
-#footer-times {
-    display: block;
-    width: 100%;
-    text-align: left;
-    padding: 10px;
+.footer-times {
+    flex:1;
 }
 
-#footer-times li {
-    list-style: none;
-    font-size: small;
+.footer-socials {
+    flex:1;
 }
-
-#footer-socials {
-    width: 100%;
-    display: inblock;
-
-}
-
-#footer-socials li {
-    text-align: center;
-    list-style: none;
-}
-
-#socials-test {
-    list-style: none;
-    text-align: center;
-}
-
-#socials-test li {
-    display: inline;
-}    
