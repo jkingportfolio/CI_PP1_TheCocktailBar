@@ -50,6 +50,50 @@ a {
     color: blue;
 }
 
+/* footer */
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    background-color:tan;
+}
+
+.footer-contact {
+    flex:1;
+    text-align: center;
+}
+
+.footer-contact li {
+    list-style: none;
+    margin: 10px;
+    justify-content: left;
+    text-align: left;
+}
+
+.footer-times {
+    flex:1;
+    text-align: center;
+}
+
+.footer-times li {
+    list-style: none;
+    margin: 10px;
+    justify-content: left;
+    text-align: left;
+}
+
+.footer-socials {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.footer-socials div {
+    flex:1;
+    font-size: 50px;
+    color: black;
+
+}
 
 /* hero image */
 
@@ -160,19 +204,16 @@ a {
 .about-us {
     flex:1;
     text-align: center;
-    background-color: tan;
 }
 
 .our-reviews {
     flex:1;
     text-align: center;
-    background-color: tan;
 }
 
 .the-bartender {
     flex:1;
     text-align: center;
-    background-color: tan;
 }
 
 /* gallery page */
@@ -189,52 +230,33 @@ a {
     padding: 5px;
 }
 
-/* footer */
+/* contact us page */
 
-.footer-container {
+#contact-container {
     display: flex;
     flex-direction: column;
-    background-color:tan;
+    text-align: center;
+    color: red;
+    padding: 0 10px;
 }
 
-.footer-contact {
+#contact-form {
     flex:1;
     text-align: center;
 }
 
-.footer-contact li {
-    list-style: none;
-    margin: 10px;
-    justify-content: left;
-    text-align: left;
-}
-
-.footer-times {
+#map {
     flex:1;
     text-align: center;
 }
 
-.footer-times li {
-    list-style: none;
-    margin: 10px;
-    justify-content: left;
-    text-align: left;
-}
-
-.footer-socials {
-    display: flex;
-    text-align: center;
-    justify-content: space-around;
-}
-
-.footer-socials div {
+#find-us {
     flex:1;
-    font-size: 50px;
-    color: black;
-
+    text-align: center;
+    margin: 0 0 5px 0;
 }
 
-
+/* media quiries */
 
 @media only screen and (min-width: 600px) {
     .footer-container {
