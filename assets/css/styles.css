@@ -148,6 +148,33 @@ a {
     object-fit: contain;
 }
 
+/* about us page */
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: red;
+}
+
+.about-us {
+    flex:1;
+    text-align: center;
+    background-color: tan;
+}
+
+.our-reviews {
+    flex:1;
+    text-align: center;
+    background-color: tan;
+}
+
+.the-bartender {
+    flex:1;
+    text-align: center;
+    background-color: tan;
+}
+
 /* gallery page */
 
 #gallery-container {
