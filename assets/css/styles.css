@@ -1,7 +1,4 @@
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
@@ -54,50 +51,7 @@ a {
     color: blue;
 }
 
-/* footer */
 
-.footer-container {
-    display: flex;
-    flex-direction: column;
-    background-color:tan;
-}
-
-.footer-contact {
-    flex:1;
-    text-align: center;
-}
-
-.footer-contact li {
-    list-style: none;
-    margin: 10px;
-    justify-content: left;
-    text-align: left;
-}
-
-.footer-times {
-    flex:1;
-    text-align: center;
-}
-
-.footer-times li {
-    list-style: none;
-    margin: 10px;
-    justify-content: left;
-    text-align: left;
-}
-
-.footer-socials {
-    display: flex;
-    text-align: center;
-    justify-content: space-around;
-}
-
-.footer-socials div {
-    flex:1;
-    font-size: 50px;
-    color: black;
-
-}
 
 /* hero image */
 
@@ -105,7 +59,6 @@ a {
     width: 100%;
     height: auto;
     overflow: hidden;
-    border: 2px solid rgb(114, 36, 36);
 }
 
 @keyframes hero-zoom {
@@ -175,9 +128,14 @@ a {
 }
 
 .the-experience-text {
-    display: block;
+    display: flex;
+    flex-direction: column;
     width: auto;
-    padding: 10px;
+    margin: 10px;
+}
+
+.the-experience-text > p img {
+    flex: 1
 }
 
 .the-experience-text > p {
@@ -228,6 +186,7 @@ a {
     flex: 1;
     width: 100%;
     padding: 5px;
+    box-sizing: border-box;
 }
 
 /* contact us page */
@@ -235,28 +194,46 @@ a {
 #contact-container {
     display: block;
     box-sizing: border-box;
+    margin: 10px;
     text-align: center;
     color: red;
-    background-color: rgba(60, 60, 60, 0.5);
 }
 
 /* contact form */
 
 #contact-form {
     display: flex;
+    width: 100%;
     flex-direction: column;
+    border: 2px solid red;
 }
 
 .form-input {
     display: block;
+    margin: 10px;
+    margin-right: 30px;    
 }
 
 .form-label {
+    display: block;
     text-align: left;
+    margin: 5px;
+    width: 100%;
 }
 
 .form-control {
+    display: block;
     text-align: left;
+    margin: 5px;
+    width: 100%;
+}
+
+.submit-button {
+    margin: 0 0 10px 0;
+}
+
+#message {
+    margin: 10px;
 }
 
 /* find us */
@@ -264,19 +241,70 @@ a {
 #find-us {
     display: flex;
     flex-direction: column;
+
 }
 
-#contact-addres {
+#contact-address {
     display: flex;
     flex: 1;
+    border: 2px solid red;
 }
 
 #map {
-    width: 100%;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    border: 2px solid red;
+    box-sizing: border-box;
+    margin: 10px;
 }
 
 
+/* footer */
 
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    background-color:tan;
+}
+
+.footer-contact {
+    flex:1;
+    text-align: center;
+}
+
+.footer-contact li {
+    list-style: none;
+    margin: 10px;
+    justify-content: left;
+    text-align: left;
+}
+
+.footer-times {
+    flex:1;
+    text-align: center;
+}
+
+.footer-times li {
+    list-style: none;
+    margin: 10px;
+    box-sizing: border-box;
+    justify-content: left;
+    text-align: left;
+}
+
+.footer-socials {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.footer-socials div {
+    flex:1;
+    font-size: 50px;
+    color: black;
+
+}
 
 
 /* media quiries */
