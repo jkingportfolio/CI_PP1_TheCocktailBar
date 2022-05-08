@@ -12,10 +12,12 @@ body {
     font-family: 'Montserrat', sans-serif
 }
 
-h1 {
+h1, h2 {
     color: brown;
     text-align: center;
 }
+
+
 
 .center-text {
     text-align: center;
@@ -96,8 +98,9 @@ a {
 }
 
 .best-bar-position {
-    display: block;
-    width: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 
 .best-bar-position > p {
@@ -107,7 +110,9 @@ a {
 }
 
 .best-bar-image {
-    width:100%;
+    flex:1;
+    justify-content: center;
+    width:50%;
     object-position: center;
     border-color: aqua;
 }
@@ -148,6 +153,18 @@ a {
 .the-experience-image {
     width:100%;
     object-fit: contain;
+}
+
+/* menu page */
+
+.menu {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: grey;
+}
+
+.drink-list {
+    list-style:disc;
 }
 
 /* about us page */
