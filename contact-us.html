@@ -36,47 +36,53 @@
             </ul>
         </nav>
     </header>
-    </header>
     <!-- main area of the page -->
     <main>
         <div>
             <h1>Contact us!</h1>
         </div>
         <div id="contact-container">
+            <!-- contact form -->
             <div id="contact-form">
-                <p>
-                   If you have any questions or would like to book a table with us please enter 
-                   your information below and we will get back in touch asap!
-                </p>
-                <form action="https://formdump.codeinstitute.net" method="POST">
-                    <div>
+                <h2>Please fill out the form below to book a table with us or if you
+                    have any other questions.
+                </h2>
+                <form action="https://formdump.codeinstitute.net" method="POST" class="form-container">
+                    <div class="form-input">
                         <label for="name" class="form-label">Name</label>
-                        <input type="text" class="form" id="name" name="name" 
+                        <input type="text" class="form-control" id="name" name="name" 
                         aria-describedby="name" required>
                     </div>
-                    <div>
+                    <div class="form-input">
                         <label for="email" class="form-label">Email address</label>
-                        <input type="email" class="form" id="email" name="email" 
+                        <input type="email" class="form-control" id="email" name="email" 
                         aria-describedby="email" required>
                     </div>
-                    <div>
+                    <div class="form-input">
                         <label for="phone-number" class="form-label">Email address</label>
-                        <input type="tel" class="form" id="phone-number" name="phone-number" 
+                        <input type="tel" class="form-control" id="phone-number" name="phone-number" 
                         aria-describedby="phone" required>
                     </div>
-                    <p>Do you have any questions for us?</p>
-                    <textarea id="message" cols="40" rows="10" name="feedback" 
+                    <div>
+                    <p>Do you have any questions for us?</p>                      
+                    <textarea id="message" cols="35" rows="10" name="feedback" 
                     placeholder="Enter your message here"></textarea>
+                    </div>
                     <button typ="submit" class="submit-button">Submit</button>
                 </form>
             </div>
-            <div id="map">
-                <iframe title="Aberdeen Map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12243.653944770647!2d-2.0916764476805487!3d57.14744438651798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1651937478426!5m2!1sen!2suk" width="100%" height="" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
+            <!-- find us-->
             <div id="find-us">
+                <!-- map -->
+                <div id="map">
+                <iframe class="map-display" title="Aberdeen Map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12243.653944770647!2d-2.0916764476805487!3d57.14744438651798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1651937478426!5m2!1sen!2suk" width="150px" height="" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div id="contact-address">
+                <!-- address flexbox-->
+                <div >
                 <p>
                     This will be where i will have something similar to the footer info part.
                 </p>
+                </div>
             </div>
         </div>
     </main>
