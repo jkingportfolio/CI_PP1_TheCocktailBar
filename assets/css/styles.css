@@ -9,6 +9,7 @@ body {
     margin: 0;
     background-color:black;
     font-family: 'BIZ UDMincho', serif;
+    color: azure;
 }
 
 h1, h2 {
@@ -52,9 +53,6 @@ a {
     animation-fill-mode: forwards;
 }
 
-
-
-
 /* the experience section */
 
 #the-experience {
@@ -68,7 +66,6 @@ a {
     margin-top: 20px;
     text-align: center;
     font-size: 1rem;
-    color: yellow;
 }
 
 .the-experience-text {
@@ -86,14 +83,15 @@ a {
 .the-experience-text > p {
     text-align: center;
     font-size: 1rem;
-    color: yellow;
     padding: 10px;
 }
 
 .the-experience-image {
-    width:100%;
-    height: fit-content;
+    flex:1;
+    justify-content: center;
     object-fit: contain;
+    max-width: 100%;
+    height: auto;
 }
 
 /* menu page */
@@ -112,19 +110,30 @@ a {
 
 .about-container {
     display: flex;
+    justify-content: center;
     flex-direction: column;
     text-align: center;
     color: red;
 }
 
+.about-container img {
+    flex:1;
+    justify-content: center;
+    object-fit:cover;
+    max-width: 100%;
+}
+
 .about-us {
     flex:1;
     text-align: center;
+    margin: 10px;
+    box-sizing: border-box;
 }
 
 .our-reviews {
     flex:1;
     text-align: center;
+    font-style: italic;
 }
 
 .the-bartender {
@@ -132,22 +141,17 @@ a {
     text-align: center;
     margin: 10px;
     width: 100%;
+    box-sizing: border-box;
 }
 
-/.the-bartender p {
+.the-bartender p {
+    font-weight: 200;
     margin: 10px;
+    box-sizing: border-box;
 }
 
-.the-experience-image {
-    flex:1;
-    justify-content: center;
-    object-fit: contain;
-    width: 100%;
-}
 
-.our-reviews q {
-    font-style: italic;
-}
+
 
 /* gallery page */
 
@@ -282,7 +286,11 @@ a {
     font-size: 50px;
     color: black;
     justify-content:center;
+}
 
+.author-info {
+    margin: 10px;
+    text-align: center;
 }
 
 
