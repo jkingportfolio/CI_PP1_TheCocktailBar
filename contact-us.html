@@ -55,14 +55,14 @@
     <!-- main area of the page -->
     <main>
         <div>
-            <h1>Contact us!</h1>
+            <h1>Make a reservation!</h1>
         </div>
         <div id="contact-container">
             <!-- contact form -->
             <div id="contact-form">
-                <h2>Please fill out the form below to book a table with us or if you
+                <p>Please fill out the form below to book a table with us or if you
                     have any other questions.
-                </h2>
+                </p>
                 <form action="https://formdump.codeinstitute.net" method="POST" class="form-container">
                     <div class="form-input">
                         <label for="name" class="form-label">Name</label>
@@ -79,10 +79,15 @@
                         <input type="tel" class="form-control" id="phone-number" name="phone-number" 
                         aria-describedby="phone" required>
                     </div>
-                    <div>
-                    <p>Do you have any questions for us?</p>                      
-                    <textarea id="message" cols="35" rows="10" name="feedback" 
-                    placeholder="Enter your message here"></textarea>
+                    <div class="form-input">
+                        <label for="date-time" class="form-label">Date and time</label>
+                        <input type="datetime-local" class="form-control" id="date-time" name="date-time" 
+                        aria-describedby="date time" required>
+                    </div>             
+                    <div class="form-input">
+                        <label for="message" class="form-label">Do you have extra requirements?</label>                      
+                        <textarea id="message" rows="10" name="message" 
+                        placeholder="Enter your message here"></textarea>
                     </div>
                     <button typ="submit" class="submit-button">Submit</button>
                 </form>
@@ -127,7 +132,7 @@
                     </ul>
             </div>
             <hr>
-            <h2 class="center-text">Lets Connect!</h2>
+            <h2 class="center-text">Socials</h2>
             <div class="footer-socials">
                     <div>
                         <a href="https://www.github.com" target="_blank"><i class="fa-brands fa-github"></i></a>
@@ -135,7 +140,11 @@
                     <div>
                         <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
                     </div>
-                    </ul>
+            </div>
+            <div class="author-info">
+                <address>
+                <p>This website was created by Jamie King for Code Institutes Full Stack Developer Diploma course.</p>
+                </address>
             </div>
         </div>
     </footer>

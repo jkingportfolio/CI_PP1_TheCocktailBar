@@ -186,6 +186,7 @@ a {
     width: 100%;
     flex-direction: column;
     border: 2px solid red;
+    text-align: center;
 }
 
 .form-input {
@@ -214,6 +215,8 @@ a {
 
 #message {
     margin: 5px;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 /* find us */
