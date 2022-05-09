@@ -112,15 +112,14 @@ a {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    width: 100%;
     text-align: center;
     color: red;
 }
 
 .about-container img {
     flex:1;
-    justify-content: center;
-    object-fit:cover;
-    max-width: 100%;
+    width: 100%;
 }
 
 .about-us {
@@ -139,8 +138,8 @@ a {
 .the-bartender {
     flex:1;
     text-align: center;
-    margin: 10px;
     width: 100%;
+    margin: 10px;
     box-sizing: border-box;
 }
 
