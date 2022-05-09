@@ -1,15 +1,14 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&display=swap');
 /* main styles */
 
 body {
     box-sizing: border-box;
     margin: 0;
     background-color:black;
-    font-family: 'Montserrat', sans-serif
+    font-family: 'BIZ UDMincho', serif;
 }
 
 h1, h2 {
@@ -131,6 +130,19 @@ a {
 .the-bartender {
     flex:1;
     text-align: center;
+    margin: 10px;
+    width: 100%;
+}
+
+/.the-bartender p {
+    margin: 10px;
+}
+
+.the-experience-image {
+    flex:1;
+    justify-content: center;
+    object-fit: contain;
+    width: 100%;
 }
 
 .our-reviews q {
