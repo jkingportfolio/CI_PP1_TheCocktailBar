@@ -13,13 +13,17 @@ body {
 }
 
 h1, h2 {
-    color: brown;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 
 .center-text {
     text-align: center;
+}
+
+a {
+    color: inherit;
 }
 
 /* hero image */
@@ -30,9 +34,6 @@ h1, h2 {
     overflow: hidden;
 }
 
-.test a {
-    color: yellow;
-}
 
 @keyframes hero-zoom {
     from {
@@ -53,48 +54,7 @@ h1, h2 {
 }
 
 
-/* the worlds best bar section */
 
-#best-bar {
-    width: 100%;
-    box-sizing: border-box;
-    height: auto;
-    border: 2px solid black;
-    overflow: hidden;
-    position: relative;
-}
-
-#awards-container {
-    display: flex;
-}
-
-#best-bar > h2 {
-    text-align: center;
-    font-size: 1rem;
-    color: yellow;
-}
-
-.best-bar-position {
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-    width: 100%;
-}
-
-.best-bar-position > p {
-    text-align: center;
-    font-size: 1rem;
-    color: yellow;
-}
-
-.best-bar-image {
-    flex:1;
-    justify-content: center;
-    width:50%;
-    object-position: center;
-    border-color: aqua;
-    box-sizing: border-box;
-}
 
 /* the experience section */
 
@@ -106,6 +66,7 @@ h1, h2 {
 }
 
 #the-experience h2 {
+    margin-top: 20px;
     text-align: center;
     font-size: 1rem;
     color: yellow;
@@ -114,12 +75,13 @@ h1, h2 {
 .the-experience-text {
     display: flex;
     flex-direction: column;
+    flex: 1;
     width: auto;
     margin: 10px;
 }
 
 .the-experience-text > p img {
-    flex: 1
+    flex: 1;
 }
 
 .the-experience-text > p {
@@ -131,6 +93,7 @@ h1, h2 {
 
 .the-experience-image {
     width:100%;
+    height: fit-content;
     object-fit: contain;
 }
 
@@ -170,20 +133,26 @@ h1, h2 {
     text-align: center;
 }
 
+.our-reviews q {
+    font-style: italic;
+}
+
 /* gallery page */
 
 #gallery-container {
     display: flex;
+    justify-content: center;
     flex-direction: column;
     width: 100%;
 }
 
-#gallery-container img {
+#gallery-container > div img {
     flex: 1;
     width: 100%;
     padding: 5px;
     box-sizing: border-box;
 }
+
 
 /* contact us page */
 
@@ -268,6 +237,7 @@ h1, h2 {
 .footer-contact {
     flex:1;
     text-align: center;
+    margin-top: 10px;
 }
 
 .footer-contact li {
