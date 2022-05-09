@@ -27,34 +27,6 @@ a {
     color: inherit;
 }
 
-
-/* nav bar styles */
-
-#nav-bar {
-    list-style: none;
-    text-align: center;
-    margin: 5px auto;
-    background-color: tan;
-}
-
-#nav-bar li {
-    display: inline;    
-}
-
-#nav-bar a {
-    text-decoration: none;
-    color: black;
-    font-family: 'Squada One', cursive;
-    font-size: 1rem;
-    margin-right: 20px;
-}
-
-#nav-bar a:hover {
-    color: blue;
-}
-
-
-
 /* hero image */
 
 #hero-image-wrapper {
@@ -81,14 +53,20 @@ a {
     animation-fill-mode: forwards;
 }
 
+
 /* the worlds best bar section */
 
 #best-bar {
     width: 100%;
+    box-sizing: border-box;
     height: auto;
     border: 2px solid black;
     overflow: hidden;
     position: relative;
+}
+
+#awards-container {
+    display: flex;
 }
 
 #best-bar > h2 {
@@ -100,6 +78,7 @@ a {
 .best-bar-position {
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
     width: 100%;
 }
 
@@ -115,6 +94,7 @@ a {
     width:50%;
     object-position: center;
     border-color: aqua;
+    box-sizing: border-box;
 }
 
 /* the experience section */
@@ -314,13 +294,13 @@ a {
 .footer-socials {
     display: flex;
     text-align: center;
-    justify-content: space-around;
 }
 
 .footer-socials div {
     flex:1;
     font-size: 50px;
     color: black;
+    justify-content:center;
 
 }
 
