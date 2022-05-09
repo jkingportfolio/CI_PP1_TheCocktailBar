@@ -18,13 +18,8 @@ h1, h2 {
 }
 
 
-
 .center-text {
     text-align: center;
-}
-
-a {
-    color: inherit;
 }
 
 /* hero image */
@@ -33,6 +28,10 @@ a {
     width: 100%;
     height: auto;
     overflow: hidden;
+}
+
+.test a {
+    color: yellow;
 }
 
 @keyframes hero-zoom {
