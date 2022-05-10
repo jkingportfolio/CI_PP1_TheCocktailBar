@@ -409,25 +409,31 @@ a {
 
 @media only screen and (min-width: 787px) {
     .footer-container {
+        display: flex;
         flex-direction: row;
     }
 
     .footer-contact {
+        flex: 1;
         order: 1;
     }
 
     .footer-times {
+        flex: 1;
         order: 2;
     }
 
-    .footer-socials {
+    .socials-flex {
+        flex: 1;
         order: 3;
     }
 
-    .author-info {
-        display: block;
-    }
-  }
+    /* .author-info {
+        display: flex;
+        flex: 1;
+        order: 1;
+    } */
+}
 
   @media only screen and (min-width: 1200px) {
     .footer-container {
