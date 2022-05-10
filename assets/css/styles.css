@@ -103,12 +103,21 @@ a {
     /* background-color: grey; */
 }
 
+.menu h2 {
+    background-color: grey;
+}
+
+.menu h3 {
+    text-decoration: underline;
+}
+
 .drink-list {
     flex: 1;
     flex-wrap: wrap;
     list-style:disc;
     width: 100%;
-    margin: 10px 0 0 0;
+    padding: 10px 0 0 10px;
+    box-sizing: border-box;
 }
 
 
@@ -117,6 +126,21 @@ a {
     justify-content: center;
     object-fit: contain;
     max-width: 100%;
+}
+
+#house-specials {
+    position: sticky !important;
+    top: 0;
+}
+
+#classics {
+    position: sticky !important;
+    top: 0;
+}
+
+#mocktails {
+    position: sticky !important;
+    top: 0;
 }
 
 /* about us page */
@@ -148,7 +172,7 @@ a {
 .our-reviews {
     flex:1;
     font-style: italic;
-    color: red;
+    color: gray;
     border: dotted;
     border-color: gray;
     margin-top: 10px;
