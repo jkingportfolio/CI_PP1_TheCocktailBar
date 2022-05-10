@@ -128,17 +128,7 @@ a {
     max-width: 100%;
 }
 
-#house-specials {
-    position: sticky !important;
-    top: 0;
-}
-
-#classics {
-    position: sticky !important;
-    top: 0;
-}
-
-#mocktails {
+#sticky-header {
     position: sticky !important;
     top: 0;
 }
