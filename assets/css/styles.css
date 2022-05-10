@@ -1,5 +1,6 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&display=swap');
+
 /* main styles */
 
 body {
@@ -8,7 +9,10 @@ body {
     background-color:black;
     font-family: 'BIZ UDMincho', serif;
     color: azure;
+    /* overflow-y: scroll !important; */
 }
+
+/* ***ADD SCROLL BAR TRANSPARENCY*** */
 
 h1, h2 {
     color: rgb(255, 255, 255);
@@ -23,6 +27,10 @@ h1, h2 {
 
 a {
     color: inherit;
+}
+
+a:hover {
+    background-color: gray;
 }
 
 /* hero image */
@@ -57,7 +65,6 @@ a {
 #the-experience {
     width: 100%;
     height: auto;
-    border: 2px solid black;
     overflow: hidden;
 }
 
@@ -126,7 +133,7 @@ a {
     max-width: 100%;
 }
 
-#sticky-header {
+.sticky-header {
     position: sticky !important;
     top: 0;
 }
@@ -283,6 +290,7 @@ a {
     flex-direction: column;
     background-color: rgb(204, 204, 204);
     color: black;
+    padding-top: 10px;
 }
 
 .footer-container h2 {
@@ -292,7 +300,7 @@ a {
 .footer-contact {
     flex:1;
     text-align: center;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 
 .footer-contact li {
@@ -311,7 +319,6 @@ a {
     list-style: none;
     margin: 10px;
     box-sizing: border-box;
-    justify-content: left;
     text-align: left;
 }
 
@@ -335,21 +342,33 @@ a {
 
 /* media queries */
 
+/* Table and desktops resposive design */
+
 @media only screen and (min-width: 787px) {
+
+    /* hero image */
+
+    /* the experience */
+
+    /* about */
+
+    /* menu */    
 
     /* gallery */
 
     #gallery-container {
-        display: block;
-        clear: both;
-        line-height: 0;
-        column-count: 2;
-        column-gap: 0;
+            display: block;
+            clear: both;
+            line-height: 0;
+            column-count: 2;
+            column-gap: 0;
     }
     
     #gallery-container > img {
         width: 50%;
     }
+
+    /* contact */
 
     /* footer */
 
@@ -373,18 +392,13 @@ a {
         order: 3;
     }
 
+
     /* .author-info {
         display: flex;
         flex: 1;
         order: 1;
     } */
 }
-
-  @media only screen and (min-width: 1200px) {
-    .footer-container {
-        flex-direction: row;
-    }
-  }
 
 
   
