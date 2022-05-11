@@ -339,6 +339,14 @@ a:hover {
 
     /* about */
 
+    .about-us {
+        display: flex;
+        width: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
     /* menu */ 
     
     /* .menu {
