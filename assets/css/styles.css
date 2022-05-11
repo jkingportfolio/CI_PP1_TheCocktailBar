@@ -9,17 +9,13 @@ body {
     background-color:black;
     font-family: 'BIZ UDMincho', serif;
     color: azure;
-    /* overflow-y: scroll !important; */
 }
-
-/* ***ADD SCROLL BAR TRANSPARENCY*** */
 
 h1, h2 {
     color: rgb(255, 255, 255);
     text-align: center;
     width: 100%;
 }
-
 
 .center-text {
     text-align: center;
@@ -31,6 +27,10 @@ a {
 
 a:hover {
     background-color: gray;
+}
+
+.background-color {
+    background-color: grey;
 }
 
 /* hero image */
@@ -62,17 +62,13 @@ a:hover {
 
 /* the experience section */
 
-#the-experience {
+#the-experience-container {
     width: 100%;
     height: auto;
     overflow: hidden;
 }
 
-#the-experience h1 {
-    text-align: center;
-}
-
-.the-experience-text {
+.the-experience {
     display: flex;
     flex-direction: column;
     flex: 1;
@@ -80,21 +76,11 @@ a:hover {
     margin: 10px;
 }
 
-.the-experience-text > p img {
-    flex: 1;
-}
-
-.the-experience-text > p {
-    text-align: center;
-    font-size: 1rem;
-    padding: 10px;
-}
-
 .the-experience-image {
     flex:1;
     justify-content: center;
     object-fit: contain;
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
@@ -106,10 +92,6 @@ a:hover {
     box-sizing: border-box;
     width: 100%;
     /* background-color: grey; */
-}
-
-.menu h2 {
-    background-color: grey;
 }
 
 .menu h3 {
@@ -220,7 +202,6 @@ a:hover {
     display: flex;
     width: 100%;
     flex-direction: column;
-
     text-align: center;
 }
 
@@ -369,6 +350,33 @@ a:hover {
     }
 
     /* contact */
+
+    #contact-container {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        order: 1;
+    }
+
+    #contact-form {
+        display: flex;
+        width: 50%;
+    }
+
+    #find-us {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        padding: 10px;
+    }
+
+
+
+    /* #contact-address {
+        display:;
+    } */
+
+
 
     /* footer */
 
