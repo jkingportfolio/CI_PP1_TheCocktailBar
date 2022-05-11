@@ -33,6 +33,10 @@ a {
     background-color: gray;
 }
 
+.list-style-none {
+    list-style: none;
+}
+
 /* hero image */
 
 #hero-image-wrapper {
@@ -119,6 +123,7 @@ a {
 .sticky-header {
     position: sticky !important;
     top: 0;
+    background-color: gray;
 }
 
 /* about us page */
@@ -130,7 +135,6 @@ a {
     width: 100%;
     text-align: center;
     color: darkgrey;
-
     padding: 10px;
 }
 
@@ -145,6 +149,7 @@ a {
 
 .about-us {
     flex:1;
+    flex-basis: 0;
 }
 
 .our-reviews {
@@ -330,6 +335,10 @@ a {
 
     /* hero image */
 
+    #hero-image-wrapper {
+        height: 700px;
+    }
+
     /* the experience */
 
     #the-experience-container {
@@ -342,10 +351,25 @@ a {
 
     .about-us {
         display: flex;
-        width: auto;
         flex-direction: row;
-        flex-wrap: wrap;
-        align-items: center;
+        flex-basis: 50%;
+    }
+
+    .about-us h1 {
+        padding-top: 5%;
+    }
+
+    .about-container p {
+        font-size: 24px;
+        text-align: center;
+        margin: auto;
+        width: 75%;
+    }
+
+    .about-us > div {
+        flex: 1;
+        justify-content: center;
+        vertical-align: middle;
     }
 
     /* menu */ 
@@ -358,6 +382,12 @@ a {
     #menu-sub-section {
         display: flex;
         flex-direction: row;
+        align-items: center;
+    }
+
+    #menu-sub-section-reverse {
+        display: flex;
+        flex-direction: row-reverse;
         align-items: center;
     }
 
