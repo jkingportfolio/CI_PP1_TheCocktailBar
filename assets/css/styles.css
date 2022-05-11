@@ -370,6 +370,12 @@ a:hover {
         padding: 10px;
     }
 
+    #contact-address {
+        display: unset !important;
+        padding-top: 30px;
+    }
+
+
     /* footer */
 
     .footer-container {
