@@ -340,14 +340,17 @@ a:hover {
         flex-direction: column;
     } */
 
-    #menu-house-specials {
+    #menu-sub-section {
         display: flex;
         flex-direction: row;
+        align-items: center;
     }
 
     .drink-list-flex-column {
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        padding: 20px;
     }
 
 
