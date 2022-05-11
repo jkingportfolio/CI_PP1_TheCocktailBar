@@ -333,7 +333,23 @@ a:hover {
 
     /* about */
 
-    /* menu */    
+    /* menu */ 
+    
+    /* .menu {
+        display: flex;
+        flex-direction: column;
+    } */
+
+    #menu-house-specials {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .drink-list-flex-column {
+        display: flex;
+        flex-direction: column;
+    }
+
 
     /* gallery */
 
