@@ -354,12 +354,12 @@ a:hover {
     #contact-container {
         display: flex;
         flex-direction: row;
-        width: 100%;
-        order: 1;
+        width: auto;
     }
 
     #contact-form {
         display: flex;
+        box-sizing: border-box;
         width: 50%;
     }
 
@@ -369,14 +369,6 @@ a:hover {
         width: 50%;
         padding: 10px;
     }
-
-
-
-    /* #contact-address {
-        display:;
-    } */
-
-
 
     /* footer */
 
