@@ -45,6 +45,29 @@ a {
     padding: auto;
 }
 
+.auto-margin {
+    margin: auto;
+}
+
+#video-container {
+
+} 
+
+#video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+
+#video-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
 /* input:focus {
     background-color: rgb(255, 0, 0);
 } */
@@ -555,9 +578,6 @@ textarea:focus {
         vertical-align: middle;
     }
 
-    .bartender-flex-2 {
-        margin: auto;
-    }
 
     /* rule to turn off h2 
     barman above image*/
