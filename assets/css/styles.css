@@ -93,6 +93,10 @@ input:focus {
     /* margin: 10px; */
 }
 
+.the-experience p {
+    padding-top: 10px;
+}
+
 .the-experience-image {
     flex:1;
     justify-content: center;
@@ -101,10 +105,11 @@ input:focus {
     height: auto;
 }
 
-#video {
-    height: auto;
-    width: auto;
-}
+
+/* #video {
+    height: 225px;
+    width: 300px;
+} */
 
 /* menu page */
 
@@ -378,7 +383,7 @@ textarea:focus {
 
 /* media queries */
 
-/* Table and desktops resposive design */
+/* Tablet and desktops resposive design */
 
 @media only screen and (min-width: 787px) {
 
@@ -399,6 +404,19 @@ textarea:focus {
 
 
     /* about */
+
+    .about-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #about-us-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+
 
     /* menu */ 
 
@@ -496,13 +514,7 @@ textarea:focus {
     } */
 }
 
-@media only screen and (min-width: 1200px) {
-
-    /* hero image */
-
-    /* #hero-image-wrapper {
-        height: 700px;
-    } */
+@media only screen and (min-width: 1000px) {
 
     .about-us {
         display: flex;
@@ -533,11 +545,37 @@ textarea:focus {
         vertical-align: middle;
     }
 
+    .our-reviews {
+        margin-top: 50px;
+     }
+
     .the-bartender {
         display: flex;
-        flex:1;
-        flex-direction: row-reverse;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .the-bartender > div {
+        flex: 1;
+        justify-content: center;
+        align-items: center;
+        vertical-align: middle;
+    }
+
+    .the-bartender-flex-1 {
+        flex: 0 0 30%;
+        order: 1;
+    }
+
+    .the-bartender-flex-2 {
+        flex: 0 0 59%;
+        order: 2;
+    }
+
+    .the-experience-image {
+        height: 100%;
         width: 100%;
+        object-fit: cover;
     }
 
 
