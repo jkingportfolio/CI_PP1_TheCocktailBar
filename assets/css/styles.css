@@ -193,6 +193,10 @@ a {
     font-weight: 200;
 }
 
+.h2-off-mobile {
+    display: none !important;
+}
+
 .star-color {
     color: gold;
 }
@@ -506,12 +510,6 @@ textarea:focus {
         order: 3;
     }
 
-
-    /* .author-info {
-        display: flex;
-        flex: 1;
-        order: 1;
-    } */
 }
 
 @media only screen and (min-width: 1000px) {
@@ -523,12 +521,6 @@ textarea:focus {
         height: 100%;
     }
 
-    #about-us-image {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 5% auto;
-    }
 
     .about-container p {
         font-size: 24px;
@@ -551,8 +543,9 @@ textarea:focus {
 
     .the-bartender {
         display: flex;
-        flex-direction: row;
         flex-wrap: wrap;
+        flex-direction: row;
+        height: 100%;
     }
 
     .the-bartender > div {
@@ -562,7 +555,24 @@ textarea:focus {
         vertical-align: middle;
     }
 
-    .the-bartender-flex-1 {
+    .bartender-flex-2 {
+        margin: auto;
+    }
+
+    /* rule to turn off h2 
+    barman above image*/
+
+    .h2-off-desktop {
+        display: none !important;
+    }
+
+    .h2-off-mobile {
+        display: unset !important;
+    }
+
+
+
+    /* .the-bartender-flex-1 {
         flex: 0 0 30%;
         order: 1;
     }
@@ -576,7 +586,7 @@ textarea:focus {
         height: 100%;
         width: 100%;
         object-fit: cover;
-    }
+    } */
 
 
 
