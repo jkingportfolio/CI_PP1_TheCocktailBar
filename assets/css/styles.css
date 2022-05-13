@@ -428,8 +428,21 @@ textarea:focus {
         align-items: center;
         padding: 10px;
     }
+/* 
+    #the-experience-container div {
+        display:flex;
+        justify-content:space-between;
+    } */
 
+    #the-experience-container p {
+        margin: 0 10px;
+        text-align: center;
+    }
 
+    .border-right {
+        border-right: 2px solid white;
+    }
+    
     /* about */
 
     .about-container {
@@ -536,6 +549,12 @@ textarea:focus {
 }
 
 @media only screen and (min-width: 1000px) {
+
+        /* hero image */
+
+        #hero-image-wrapper {
+            height: 700px;
+        }
 
     .about-us {
         display: flex;
