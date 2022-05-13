@@ -171,7 +171,7 @@ a {
     flex-direction: column;
     width: 100%;
     text-align: center;
-    color: darkgrey;
+    color: white;
     padding: 10px;
 }
 
@@ -193,7 +193,7 @@ a {
 .our-reviews {
     flex:1;
     font-style: italic;
-    color: gray;
+    color: white;
     border: dotted;
     border-color: gray;
     margin-top: 10px;
@@ -412,6 +412,20 @@ textarea:focus {
         height: auto;
     }
 
+    #weekly-offer {
+        font-size: 100%;
+        font-family: Oswald, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        width: 200px;
+        height: 100px;
+        background-color: black;
+        bottom: 300px;
+        left: 50px;
+        position: relative;
+        text-align: center;
+    }
+
     /* the experience */
 
     #the-experience-container {
@@ -534,11 +548,28 @@ textarea:focus {
     #contact-address {
         display: unset !important;
         padding-top: 30px;
-        flex-grow: 1;
+        flex-grow: 0 0 auto;
         text-align: left;
         box-sizing: border-box;
         line-height: normal;
         
+    }
+
+    #contact-address div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: baseline;
+    }
+
+    #contact-address p {
+        position: relative;
+        margin-bottom: 0;
+    }
+
+    #contact-address h3 {
+        position:relative;
+        margin-bottom: 0;
     }
 
 
@@ -583,6 +614,9 @@ textarea:focus {
         height: 100%;
     }
 
+    #contact-container {
+        margin: 5%;
+    }
 
     .about-container p {
         font-size: 24px;
@@ -602,6 +636,9 @@ textarea:focus {
     .our-reviews {
         margin-top: 50px;
      }
+
+
+
 
     /* .the-bartender {
         display: flex;
