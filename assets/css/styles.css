@@ -49,6 +49,10 @@ a {
     margin: auto;
 }
 
+.heading-bg-color {
+    background-color: gray;
+}
+
 #video-container {
     position: relative;
     width: 100%;
@@ -337,9 +341,9 @@ textarea:focus {
 }
 
 .footer-contact {
-    flex:1;
-    text-align: center;
-    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .footer-contact li {
@@ -619,57 +623,11 @@ textarea:focus {
         margin-top: 50px;
      }
 
-
-
-
-    /* .the-bartender {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-        height: 100%;
-    }
-
-    .the-bartender > div {
-        flex: 1;
-        justify-content: center;
-        align-items: center;
-        vertical-align: middle;
-    } */
-
-
-    /* rule to turn off h2 
-    barman above image*/
-
-    /* .h2-off-desktop {
-        display: none !important;
-    }
-
-    .h2-off-mobile {
-        display: unset !important;
-    } */
-
-
-
-    /* .the-bartender-flex-1 {
-        flex: 0 0 30%;
-        order: 1;
-    }
-
-    .the-bartender-flex-2 {
-        flex: 0 0 59%;
-        order: 2;
-    }
-
-    .the-experience-image {
-        height: 100%;
-        width: 100%;
-        object-fit: cover;
-    } */
-
-
-
 }
 
 
-  
+@media only screen and (min-width: 1200px) {
+
+
+} 
 
