@@ -614,6 +614,10 @@ textarea:focus {
         height: 100%;
     }
 
+    .about-us h1 p {
+        margin: auto;
+    }
+
     #contact-container {
         margin: 5%;
     }
