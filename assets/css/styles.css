@@ -70,6 +70,12 @@ a {
     height: 100%;
   }
 
+  .video-margins {
+      height: auto;
+      overflow: hidden;
+      margin: 0 20px;
+  }
+
 
 /* hero image */
 
