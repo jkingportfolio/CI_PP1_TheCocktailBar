@@ -120,13 +120,7 @@ a {
     height: auto;
 }
 
-
-/* #video {
-    height: 225px;
-    width: 300px;
-} */
-
-/* menu page */
+/* menu section */
 
 .menu {
     display: flex;
@@ -149,9 +143,8 @@ a {
     box-sizing: border-box;
 }
 
-
 .menu-image {
-    flex: 1;
+    display: flex;
     justify-content: center;
     object-fit: contain;
     max-width: 100%;
@@ -185,18 +178,10 @@ a {
 
 }
 
-.about-us {
-    flex:1;
-    flex-basis: 0;
-}
-
 .our-reviews {
-    flex:1;
     font-style: italic;
-    color: white;
     border: dotted;
     border-color: gray;
-    margin-top: 10px;
 }
 
 .the-bartender {
@@ -404,13 +389,13 @@ textarea:focus {
 
 /* Tablet and desktops resposive design */
 
-@media only screen and (min-width: 787px) {
+@media only screen and (min-width: 768px) {
 
     /* hero image */
 
-    #hero-image-wrapper {
+    /* #hero-image-wrapper {
         height: auto;
-    }
+    } */
 
     #weekly-offer {
         font-size: 100%;
@@ -434,11 +419,6 @@ textarea:focus {
         align-items: center;
         padding: 10px;
     }
-/* 
-    #the-experience-container div {
-        display:flex;
-        justify-content:space-between;
-    } */
 
     #the-experience-container p {
         margin: 0 10px;
@@ -603,9 +583,9 @@ textarea:focus {
 
         /* hero image */
 
-        #hero-image-wrapper {
-            height: 700px;
-        }
+        /* #hero-image-wrapper {
+            height: autopx;
+        } */
 
     .about-us {
         display: flex;
