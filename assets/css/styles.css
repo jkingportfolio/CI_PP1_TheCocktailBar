@@ -148,6 +148,7 @@ a {
     justify-content: center;
     object-fit: contain;
     max-width: 100%;
+    margin: auto;
 }
 
 .sticky-header {
@@ -348,8 +349,8 @@ textarea:focus {
 }
 
 .footer-times {
-    flex:1;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
     align-items: center;
 }
 
@@ -358,8 +359,9 @@ textarea:focus {
     list-style: none;
     margin: 10px;
     box-sizing: border-box;
-    text-align: left;
+    padding-right: 40px;
 }
+
 
 /* #socials-flex {
     width: 100%;
