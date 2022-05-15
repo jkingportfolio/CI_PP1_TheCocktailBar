@@ -192,8 +192,8 @@ a {
 
 .our-reviews {
     font-style: italic;
-    border: dotted;
-    border-color: gray;
+    color: white;
+    background-color: gray;
 }
 
 .the-bartender {
