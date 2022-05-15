@@ -330,6 +330,7 @@ textarea:focus {
     width: 100%;
     box-sizing: border-box;
     justify-content: center;
+    padding: 10px 25px 10px 10px;
 }
 
 
@@ -531,6 +532,10 @@ textarea:focus {
         box-shadow: inset 0px 0px 0px 3px grey;
         box-sizing: border-box;
         
+    }
+
+    #map {
+        padding: 0;
     }
 
     #contact-address div {
