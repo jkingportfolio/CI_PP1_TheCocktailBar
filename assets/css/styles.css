@@ -140,6 +140,10 @@ a {
     /* background-color: grey; */
 }
 
+.menu h2 {
+    color: rgb(255, 255, 255);
+}
+
 .menu h3 {
     text-decoration: underline;
 }
