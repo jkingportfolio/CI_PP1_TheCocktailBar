@@ -528,7 +528,6 @@ textarea:focus {
     #contact-address {
         display: unset !important;
         padding-top: 30px;
-        flex-grow: 0 0 auto;
         text-align: left;
         box-sizing: border-box;
         line-height: normal;
