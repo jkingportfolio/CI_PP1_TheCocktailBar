@@ -5,7 +5,7 @@
 
 body {
     box-sizing: border-box;
-    background-color:black;
+    background-color:rgb(0, 0, 0);
     font-family: 'BIZ UDMincho', serif;
     color: azure;
 }
@@ -26,11 +26,11 @@ a {
 }
 
 .nav-link {
-    color: white !important;
+    color: rgb(255, 255, 255) !important;
 } 
 
 .nav-link:hover {
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
 }
 
 .list-style-none {
@@ -46,7 +46,7 @@ a {
 }
 
 .heading-bg-color {
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
 }
 
 /* index page */
@@ -164,7 +164,7 @@ a {
 .sticky-header {
     position: sticky !important;
     top: 0;
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
 }
 
 /* about us page */
@@ -192,7 +192,7 @@ a {
 .our-reviews {
     font-style: italic;
     color: white;
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
     padding: 10px 0;
 }
 
@@ -210,9 +210,8 @@ a {
 }
 
 .star-color {
-    color: gold;
+    color: rgb(255, 215, 0);
 }
-
 
 /* gallery page */
 
@@ -340,12 +339,12 @@ textarea:focus {
     display: flex;
     flex-direction: column;
     background-color: rgb(204, 204, 204);
-    color: black;
+    color: rgb(0, 0, 0);
     padding-top: 10px;
 }
 
 .footer-container h2 {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .footer-contact {
@@ -382,7 +381,7 @@ textarea:focus {
 .footer-socials div {
     display: inline-block;
     font-size: 50px;
-    color: black;
+    color: rgb(0, 0, 0);
     margin: 0 30px;
 }
 
@@ -535,8 +534,8 @@ textarea:focus {
         box-sizing: border-box;
         line-height: normal;
 
-        border: 35px solid black;
-        box-shadow: inset 0px 0px 0px 3px grey;
+        border: 35px solid rgb(0, 0, 0);
+        box-shadow: inset 0px 0px 0px 3px rgb(128, 128, 128);
         box-sizing: border-box;
         
     }
@@ -631,9 +630,4 @@ textarea:focus {
 
 }
 
-
-@media only screen and (min-width: 1200px) {
-
-
-} 
 
