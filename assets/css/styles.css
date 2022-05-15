@@ -105,6 +105,9 @@ a {
     height: auto;
 }
 
+/* video embedding code credits to
+    tipswithpunch see READme */
+
 #video-container {
     position: relative;
     width: 100%;
