@@ -410,7 +410,7 @@ textarea:focus {
 
     #the-experience-container div {
         width: 95%;
-        align-items: center;
+        align-items: baseline;
         margin-top: 10px;
     }
 
