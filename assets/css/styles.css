@@ -191,10 +191,14 @@ a {
 
 .our-reviews {
     font-style: italic;
-    color: rgb(255, 255, 255);
-    color: ;
-    background-color: rgb(128, 128, 128);
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(204, 204, 204);
     padding: 10px 0;
+}
+
+.our-reviews h1 {
+    color: rgb(0, 0, 0)
 }
 
 .the-bartender {
@@ -211,7 +215,7 @@ a {
 }
 
 .star-color {
-    color: rgb(255, 215, 0);
+    color: rgb(0, 0, 0);
 }
 
 /* gallery page */
