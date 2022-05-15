@@ -424,6 +424,14 @@ textarea:focus {
         border-radius: 50%;
         border: 1px solid rgba(255, 255, 255, 0.37);
     }
+
+    /* to fit height of ratio */
+
+    .video-margins {
+        height: auto;
+        overflow: hidden;
+        margin: 0 20vh;
+    }
     
     /* about */
 
