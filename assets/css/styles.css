@@ -374,13 +374,6 @@ textarea:focus {
     padding-right: 40px;
 }
 
-
-/* #socials-flex {
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-} */
-
 .footer-socials {    
     text-align: center;
     justify-content:space-between;
@@ -415,13 +408,20 @@ textarea:focus {
         padding: 10px;
     }
 
+    #the-experience-container div {
+        width: 95%;
+        align-items: center;
+        margin-top: 10px;
+    }
+
     #the-experience-container p {
         margin: 0 10px;
         text-align: center;
     }
 
-    .border-right {
-        border-right: 2px dotted gray;
+    #the-experience-container img {
+        border-radius: 50%;
+        border: 1px solid rgba(255, 255, 255, 0.37);
     }
     
     /* about */
