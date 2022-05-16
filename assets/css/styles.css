@@ -59,7 +59,6 @@ a {
     overflow: hidden;
 }
 
-
 @keyframes hero-zoom {
     from {
         transform: scale(1);
@@ -129,8 +128,6 @@ a {
       margin: 0 20px;
   }
 
-
-
 /* about us page */
 
 .about-container {
@@ -149,7 +146,6 @@ a {
     width: 100%;
     height: auto;
     margin-bottom: 10px;
-
 }
 
 .our-reviews {
@@ -237,7 +233,6 @@ a {
     box-sizing: border-box;
 }
 
-
 /* contact us page */
 
 #contact-container {
@@ -246,7 +241,6 @@ a {
     margin: 10px;
     text-align: center;
 }
-
 
 /* contact form */
 
@@ -299,7 +293,6 @@ textarea:focus {
     border: 5px solid rgb(255, 0, 0);
 }
 
-
 #message {
     margin: 5px;
     box-sizing: border-box;
@@ -315,14 +308,12 @@ textarea:focus {
     display: none !important;
 }
 
-
 /* find us */
 
 #find-us {
     display: flex;
     flex-direction: column;
     width: 100%;
-
 }
 
 .map-display {
@@ -330,14 +321,11 @@ textarea:focus {
     padding: 0 35px;
 }
 
-
-
 #contact-address {
     display: flex;
     flex: 1;
     width: 100%;
 }
-
 
 /* footer */
 
@@ -371,7 +359,6 @@ textarea:focus {
     align-items: center;
 }
 
-
 .footer-times li {
     list-style: none;
     margin: 10px;
@@ -395,7 +382,6 @@ textarea:focus {
     margin: 10px;
     text-align: center;
 }
-
 
 /* media queries */
 
@@ -478,8 +464,6 @@ textarea:focus {
         display: unset !important;
     }
 
-
-
     /* menu */ 
 
     .menu-sub-section {
@@ -544,8 +528,7 @@ textarea:focus {
 
         border: 35px solid rgb(0, 0, 0);
         box-shadow: inset 0px 0px 0px 3px rgb(128, 128, 128);
-        box-sizing: border-box;
-        
+        box-sizing: border-box;        
     }
 
     #map {
@@ -588,7 +571,6 @@ textarea:focus {
         flex: 1;
         order: 3;
     }
-
 }
 
 @media only screen and (min-width: 1000px) {
