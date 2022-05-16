@@ -39,7 +39,9 @@ link to live webpage
 
 ## Project Goals
 
-### Sub sections
+### User Goals
+
+### Site Owner Goals
 
 ## User Experience
 
