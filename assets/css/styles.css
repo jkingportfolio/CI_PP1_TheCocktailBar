@@ -483,13 +483,13 @@ textarea:focus {
 
     /* menu */ 
 
-    #menu-sub-section {
+    .menu-sub-section {
         display: flex;
         flex-direction: row;
         align-items: center;
     }
 
-    #menu-sub-section-reverse {
+    .menu-sub-section-reverse {
         display: flex;
         flex-direction: row-reverse;
         align-items: center;
