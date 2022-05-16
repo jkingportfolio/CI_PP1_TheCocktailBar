@@ -93,12 +93,15 @@ link to live webpage
  Code from external sources were used in this project, they are credited below:
 - HTML code for the collapsable Nav Bar was taken from a [YouTube tutorial](https://www.youtube.com/watch?v=akXfF066MY0) by [A Designer Who Codes](https://www.youtube.com/channel/UCD00Is447lWaY04_gNTOaVA) and [Bootstrap v5.0.2 documentation](https://getbootstrap.com/docs/5.0/components/navbar/). External JavaScript file was also imported as per the [Bootstrap get started](https://getbootstrap.com/docs/5.2/getting-started/introduction/) page to allow use of the Bootstrap Tool kit. 
 - Guidance on how to create a favicon was taken from [W3Schools](https://www.w3schools.com/html/html_favicon.asp)
--  Code to embed a video from YouTube was taken from [tipswithpunch](https://www.youtube.com/watch?v=9YffrCViTVk) YouTube Channel
+- Code to embed a video from YouTube was taken from [tipswithpunch](https://www.youtube.com/watch?v=9YffrCViTVk) YouTube Channel
+- Markdown cheat sheet used to help format my READme file by [adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Literature
 
-- The use of "CSS Pocket Reference" written by Eric A. Meyer was used throughout the creation of the project
-- The use "HTML5 Pocket Reference" written by Jennifer Niederst Robbins was refered to throughout the creation of the project
+The use of reference books were used throughout the creation of this project and are credited below:
+
+- The use of "CSS Pocket Reference" written by Eric A. Meyer, Published by O'Reilly
+- The use "HTML5 Pocket Reference" written by Jennifer Niederst Robbins, Published by O'Reilly
 
 
 ## Acknowledgements
