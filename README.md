@@ -86,6 +86,11 @@ link to live webpage
 - The embedded video used on the index page was taken from Patrón Tequila Youtube Channel
     - [Index page embedded video](https://www.youtube.com/watch?v=qH4Cge_ED-4) Make Any Cocktail Simply Perfect | Patrón Tequila
 
+### Code
+
+ Code from external sources were used in this project, they are credited below:
+- HTML code for the collapsable Nav Bar was taken from bootstrap v5.0.2
+
 
 ## Acknowledgements
 
