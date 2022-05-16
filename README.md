@@ -81,6 +81,11 @@ link to live webpage
 - [menu-image-2](assets/images/menu-image-2.jpg): Anna Tis (https://pexels.com/@anna-tis-2762697/)
 - [menu-image-3](assets/images/menu-image-3.jpg): Ruslan Khmelevsky (https://pexels.com/@ruslanua/)
 
+### Video
+
+- The embedded video used on the index page was taken from Patrón Tequila Youtube Channel
+    - [Index page embedded video](https://www.youtube.com/watch?v=qH4Cge_ED-4) Make Any Cocktail Simply Perfect | Patrón Tequila
+
 
 ## Acknowledgements
 
