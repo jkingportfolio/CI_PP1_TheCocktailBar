@@ -1,37 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="The Cocktail Bar is the finest cocktail bar that the North East of Scotland has to offer">
-        <meta name="keywords" content="bar, cocktails, cocktail bar, Scotland, martini">
-        <meta name="author" content="Jamie King">
-    
-        <!-- bootstrap link see READme for credits-->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="The Cocktail Bar is the finest cocktail bar that the North East of Scotland has to offer">
+    <meta name="keywords" content="bar, cocktails, cocktail bar, Scotland, martini">
+    <meta name="author" content="Jamie King">
+
+    <!-- bootstrap link see READme for credits-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    
-        <!-- link to css style sheet -->
-        <link rel="stylesheet" href="assets/css/styles.css">
-    
-        <!-- favicon link see READme for credits -->
-        <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
-    
-        <title>The Cocktail Bar</title>
-    </head>
+
+    <!-- link to css style sheet -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <!-- favicon link see READme for credits -->
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+
+    <title>The Cocktail Bar</title>
+</head>
+
 <body>
     <header>
         <!-- navigation bar -->
         <nav class="navbar navbar-expand-md navbar-dark">
             <a href="index.html" class="navbar-brand" style="margin-left: 10px;">The Cocktail Bar</a>
-            <button class="navbar-toggler" 
-            type="button" 
-            data-bs-toggle="collapse" 
-            data-bs-target="#toggleMobileMenu" 
-            aria-controls="toggleMobileMenu"
-            aria-expanded="false"
-            aria-label="Toggle naviation">   
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggleMobileMenu"
+                aria-controls="toggleMobileMenu" aria-expanded="false" aria-label="Toggle naviation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="toggleMobileMenu">
@@ -65,32 +63,31 @@
             <!-- contact form and inputs -->
             <div id="contact-form">
                 <p><u>Please fill out the form below to book a table with us.
-                </u></p>
+                    </u></p>
                 <form action="https://formdump.codeinstitute.net" method="POST" class="form-container">
                     <div class="form-input">
                         <label for="name" class="form-label">Name</label>
-                        <input type="text" class="form-control" id="name" name="name" 
-                        aria-describedby="name" required>
+                        <input type="text" class="form-control" id="name" name="name" aria-describedby="name" required>
                     </div>
                     <div class="form-input">
                         <label for="email" class="form-label">Email address</label>
-                        <input type="email" class="form-control" id="email" name="email" 
-                        aria-describedby="email" required>
+                        <input type="email" class="form-control" id="email" name="email" aria-describedby="email"
+                            required>
                     </div>
                     <div class="form-input">
                         <label for="phone-number" class="form-label">Phone Number</label>
-                        <input type="tel" class="form-control" id="phone-number" name="phone-number" 
-                        aria-describedby="phone-number" required>
+                        <input type="tel" class="form-control" id="phone-number" name="phone-number"
+                            aria-describedby="phone-number" required>
                     </div>
                     <div class="form-input">
                         <label for="date-time" class="form-label">Date and time</label>
-                        <input type="datetime-local" class="form-control" id="date-time" name="date-time" 
-                        aria-describedby="date-time" required>
-                    </div>             
+                        <input type="datetime-local" class="form-control" id="date-time" name="date-time"
+                            aria-describedby="date-time" required>
+                    </div>
                     <div class="form-input">
-                        <label for="message" class="form-label">Do you have extra requirements?</label>                      
-                        <textarea id="message" rows="10" name="message" 
-                        placeholder="Enter your message here"></textarea>
+                        <label for="message" class="form-label">Do you have extra requirements?</label>
+                        <textarea id="message" rows="10" name="message"
+                            placeholder="Enter your message here"></textarea>
                     </div>
                     <!-- submit button -->
                     <button type="submit" class="submit-button">Submit</button>
@@ -100,36 +97,38 @@
             <div id="find-us">
                 <!-- embedded google map -->
                 <div>
-                    <iframe class="map-display" title="Aberdeen Map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12243.653944770647!2d-2.0916764476805487!3d57.14744438651798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1651937478426!5m2!1sen!2suk" 
-                    height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe class="map-display" title="Aberdeen Map"
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12243.653944770647!2d-2.0916764476805487!3d57.14744438651798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1651937478426!5m2!1sen!2suk"
+                        height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <!-- contact address only active on larger displays-->
                 <div id="contact-address">
                     <h2><u>Where to find us.</u></h2>
-                        <div>
-                            <h4><u>Address</u></h4>
-                        </div>
-                        <div class="block-newline">
-                            <p>1 Best Drink Road</p>
-                            <p>Alcoville</p>
-                            <p>Scotland</p>
-                        </div>
-                        <div>
-                            <h4><u>Phone</u></h4>
-                        </div>
-                        <div>
-                            <p>
-                                01234 56789
-                            </p>
-                        </div>
-                        <div>
-                            <h4><u>Email</u></h4>
-                        </div>
-                        <div>
-                            <a href="mailto:info@thecocktailbar.com">
-                                <p>info@thecocktailbar.com</p>
-                            </a>
-                        </div>                          
+                    <div>
+                        <h4><u>Address</u></h4>
+                    </div>
+                    <div class="block-newline">
+                        <p>1 Best Drink Road</p>
+                        <p>Alcoville</p>
+                        <p>Scotland</p>
+                    </div>
+                    <div>
+                        <h4><u>Phone</u></h4>
+                    </div>
+                    <div>
+                        <p>
+                            01234 56789
+                        </p>
+                    </div>
+                    <div>
+                        <h4><u>Email</u></h4>
+                    </div>
+                    <div>
+                        <a href="mailto:info@thecocktailbar.com">
+                            <p>info@thecocktailbar.com</p>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -142,54 +141,59 @@
                 <h2>Contact</h2>
                 <address>
                     <ul>
-                        <li><i class="fa-solid fa-at" aria-hidden="true"></i><a href="mailto:info@thecocktailbar.com"> : info@thecocktailbar.com</a></li>
+                        <li><i class="fa-solid fa-at" aria-hidden="true"></i><a href="mailto:info@thecocktailbar.com"> :
+                                info@thecocktailbar.com</a></li>
                         <li><i class="fa-solid fa-phone" aria-hidden="true"></i> : 01234 567890</li>
-                        <li><i class="fa-solid fa-location-dot" aria-hidden="true"></i> : 1 Best Drink Road, Alcoville, Scotland</li>
+                        <li><i class="fa-solid fa-location-dot" aria-hidden="true"></i> : 1 Best Drink Road, Alcoville,
+                            Scotland</li>
                     </ul>
                 </address>
             </div>
             <hr>
             <!-- times -->
             <div class="footer-times">
-                    <h2>Opening Times</h2>
-                        <ul>
-                            <li>Mon - Thurs - <b>Closed</b></li>
-                            <li>Fri - <b>16:00 - 01:00</b></li>
-                            <li>Sat - <b>16:00 - 03:00</b></li>
-                            <li>Sun - <b>16:00 - 11:00</b></li>
-                        </ul>
+                <h2>Opening Times</h2>
+                <ul>
+                    <li>Mon - Thurs - <b>Closed</b></li>
+                    <li>Fri - <b>16:00 - 01:00</b></li>
+                    <li>Sat - <b>16:00 - 03:00</b></li>
+                    <li>Sun - <b>16:00 - 11:00</b></li>
+                </ul>
             </div>
             <hr>
             <!-- Socials -->
             <div class="socials-flex">
-            <h2>Socials</h2>
+                <h2>Socials</h2>
                 <div class="footer-socials">
                     <div>
-                        <a href="https://www.github.com" target="_blank" rel="noopener" aria-label="Visit my Github page (opens in new tab)">
+                        <a href="https://www.github.com" target="_blank" rel="noopener"
+                            aria-label="Visit my Github page (opens in new tab)">
                             <i class="fa-brands fa-github" aria-hidden="true"></i></a>
                     </div>
                     <div>
-                        <a href="https://www.linkedin.com" target="_blank" rel="noopener" aria-label="Visit my Linkedin page (opens in new tab)">
+                        <a href="https://www.linkedin.com" target="_blank" rel="noopener"
+                            aria-label="Visit my Linkedin page (opens in new tab)">
                             <i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
         <!-- author -->
         <div class="author-info">
             <address>
-            <p>This website was created by Jamie King for Code Institutes Full Stack Developer Diploma course.</p>
+                <p>This website was created by Jamie King for Code Institutes Full Stack Developer Diploma course.</p>
             </address>
         </div>
-    </footer>   
+    </footer>
 
     <!-- font awesome link -->
     <script src="https://kit.fontawesome.com/2da9131e05.js" crossorigin="anonymous"></script>
 
     <!-- bootstrap java script -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" 
-    crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
 
 </body>
+
 </html>

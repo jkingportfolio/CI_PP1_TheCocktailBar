@@ -88,7 +88,6 @@ a {
 .the-experience {
     display: flex;
     flex-direction: column;
-    flex: 1;
     width: 100%;
     margin: auto;
 }
@@ -130,46 +129,7 @@ a {
       margin: 0 20px;
   }
 
-/* menu page */
 
-.menu {
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-    width: 100%;
-    /* background-color: grey; */
-}
-
-.menu h2 {
-    color: rgb(255, 255, 255);
-}
-
-.menu h3 {
-    text-decoration: underline;
-}
-
-.drink-list {
-    flex: 1;
-    flex-wrap: wrap;
-    list-style:disc;
-    width: 100%;
-    padding: 10px 0 0 10px;
-    box-sizing: border-box;
-}
-
-.menu-image {
-    display: flex;
-    justify-content: center;
-    object-fit: contain;
-    max-width: 100%;
-    margin: auto;
-}
-
-.sticky-header {
-    position: sticky !important;
-    top: 0;
-    background-color: rgb(128, 128, 128);
-}
 
 /* about us page */
 
@@ -184,7 +144,6 @@ a {
 }
 
 .about-container > div img {
-    flex:1;
     justify-content: center;
     object-fit: contain;
     width: 100%;
@@ -220,6 +179,46 @@ a {
 
 .star-color {
     color: rgb(0, 0, 0);
+}
+
+/* menu page */
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+    /* background-color: grey; */
+}
+
+.menu h2 {
+    color: rgb(255, 255, 255);
+}
+
+.menu h3 {
+    text-decoration: underline;
+}
+
+.drink-list {
+    flex-wrap: wrap;
+    list-style:disc;
+    width: 100%;
+    padding: 10px 0 0 10px;
+    box-sizing: border-box;
+}
+
+.menu-image {
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+    max-width: 100%;
+    margin: auto;
+}
+
+.sticky-header {
+    position: sticky !important;
+    top: 0;
+    background-color: rgb(128, 128, 128);
 }
 
 /* gallery page */
@@ -400,7 +399,7 @@ textarea:focus {
 
 /* media queries */
 
-/* Tablet and desktops resposive design */
+/* resposive design larger screens  */
 
 @media only screen and (min-width: 768px) {
 
@@ -430,7 +429,7 @@ textarea:focus {
         border: 2px solid rgba(255, 255, 255, 0.35);
     }
 
-    /* to fit height of ratio */
+    /* to fit height to width ratio */
 
     .video-margins {
         height: auto;
@@ -468,6 +467,8 @@ textarea:focus {
     .the-bartender p {
         margin: auto;
     }
+
+    /* to re arrange order of header */
 
     .h2-off-desktop {
         display: none !important;
