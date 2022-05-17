@@ -160,53 +160,6 @@ a {
 
 /* about us page */
 
-.about-container {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    width: 100%;
-    text-align: center;
-    color: rgb(255, 255, 255);
-    padding: 10px;
-}
-
-.about-container>div img {
-    justify-content: center;
-    object-fit: contain;
-    width: 100%;
-    height: auto;
-    margin-bottom: 10px;
-}
-
-.our-reviews {
-    font-style: italic;
-    font-size: 20px;
-    color: rgb(0, 0, 0);
-    background-color: rgb(204, 204, 204);
-    padding: 10px 10px;
-}
-
-.our-reviews h1 {
-    color: rgb(0, 0, 0)
-}
-
-.the-bartender {
-    flex: 1;
-    margin-top: 10px;
-}
-
-.the-bartender p {
-    font-weight: 200;
-}
-
-.h2-off-mobile {
-    display: none !important;
-}
-
-.star-color {
-    color: rgb(0, 0, 0);
-}
-
 /* menu page */
 
 .menu {
@@ -426,6 +379,8 @@ textarea:focus {
         font-size: 50px;
     }
 
+    /* index page */
+
     /* the experience */
 
     #the-experience-container {
@@ -460,45 +415,6 @@ textarea:focus {
     }
 
     /* about */
-
-    .about-container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    #about-us-image {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    .the-bartender {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-        height: 100%;
-    }
-
-    .the-bartender>div {
-        flex: 1;
-        justify-content: center;
-        align-items: center;
-        vertical-align: middle;
-    }
-
-    .the-bartender p {
-        margin: auto;
-    }
-
-    /* to re arrange order of header */
-
-    .h2-off-desktop {
-        display: none !important;
-    }
-
-    .h2-off-mobile {
-        display: unset !important;
-    }
 
     /* menu */
 
@@ -611,6 +527,8 @@ textarea:focus {
 
 @media only screen and (min-width: 1000px) {
 
+    /* index page */
+
     /* hero-image adjustment */
 
     #hero-image-wrapper {
@@ -622,36 +540,4 @@ textarea:focus {
     p {
         font-size: 20px;
     }
-
-    /* this is to better space out about us*/
-
-    .about-us {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-        height: 100%;
-    }
-
-    #contact-container {
-        margin: 5%;
-    }
-
-    .about-container p {
-        text-align: center;
-        width: 100%;
-        height: 100%;
-        padding: 10px
-    }
-
-    .about-us>div {
-        flex: 1;
-        justify-content: center;
-        align-items: center;
-        vertical-align: middle;
-    }
-
-    .our-reviews {
-        margin-top: 50px;
-    }
-
 }
