@@ -58,7 +58,7 @@ a {
 
 .page-not-found {
     text-align: center;
-    font-size: 8vw;
+    font-size: 4vw;
 }
 
 .error-button {
@@ -69,6 +69,7 @@ a {
     text-align: center;
     padding: 15px 30px;
     cursor: pointer;
+    margin: 10px auto;
 }
 
 /* index page */
