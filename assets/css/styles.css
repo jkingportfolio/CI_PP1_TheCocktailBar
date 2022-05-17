@@ -34,6 +34,10 @@ a {
     background-color: rgb(128, 128, 128);
 }
 
+.nav-text-size {
+    font-size: 1.5rem;
+}
+
 .list-style-none {
     list-style: none;
 }
