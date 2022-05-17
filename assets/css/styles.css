@@ -34,10 +34,6 @@ a {
     background-color: rgb(128, 128, 128);
 }
 
-.nav-text-size {
-    font-size: 1.5rem;
-}
-
 .list-style-none {
     list-style: none;
 }
@@ -59,17 +55,16 @@ a {
 .page-not-found {
     text-align: center;
     font-size: 4vw;
+    margin: 50px 0;
 }
 
-.error-button {
+.home-button {
     display: block;
     text-decoration: none;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     text-align: center;
-    padding: 15px 30px;
-    cursor: pointer;
-    margin: 10px auto;
+    padding: 1rem !important;
 }
 
 /* index page */
@@ -417,7 +412,7 @@ textarea:focus {
 
     .page-not-found {
         text-align: center;
-        font-size: 8vw;
+        font-size: 6vw;
     }
 
     /* the experience */
