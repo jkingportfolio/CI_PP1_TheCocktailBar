@@ -54,6 +54,11 @@ a {
     background-color: rgb(128, 128, 128);
 }
 
+.page-not-found {
+    text-align: center;
+    font-size: 8vw;
+}
+
 /* index page */
 
 /* hero image */
