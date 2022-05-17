@@ -54,9 +54,21 @@ a {
     background-color: rgb(128, 128, 128);
 }
 
+/* error 404 page*/
+
 .page-not-found {
     text-align: center;
     font-size: 8vw;
+}
+
+.error-button {
+    display: block;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px 30px;
+    cursor: pointer;
 }
 
 /* index page */
@@ -400,6 +412,12 @@ textarea:focus {
 
 @media only screen and (min-width: 768px) {
 
+    /* 404 error message */
+
+    .page-not-found {
+        text-align: center;
+        font-size: 8vw;
+    }
 
     /* the experience */
 
