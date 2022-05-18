@@ -453,10 +453,15 @@ textarea:focus {
 
     /* contact */
 
+    .header-margin {
+        margin-top: 50px;
+    }
+
     #contact-container {
         display: flex;
         flex-direction: row;
         width: auto;
+        margin-top: 50px;
     }
 
     #contact-form {
