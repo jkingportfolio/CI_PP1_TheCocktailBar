@@ -169,11 +169,11 @@ a {
     gap: 10px;
     height: 500px; 
     width: 100%;
+    margin: auto;
 }
 
 .review-box {
     flex: 1;
-    width: 33%;
     height: 100%;
     border: 1px solid white;
 }
