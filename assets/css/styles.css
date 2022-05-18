@@ -161,6 +161,18 @@ a {
 
 /* about us page */
 
+.owner-container {
+    width: 100%;
+}
+
+.flex-row {
+    display: flex;
+    flex-flow: row;
+    align-items: stretch;
+    justify-content: center;
+    width: 100%;
+}
+
 #reviews-container {
     display: flex;
     flex-flow: row;
