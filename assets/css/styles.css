@@ -79,10 +79,6 @@ a {
     margin: auto;
 }
 
-.margin-sides {
-    margin: 0 30px 0 30px;
-}
-
 .heading-bg-color {
     background-color: rgb(128, 128, 128);
 }
@@ -229,11 +225,15 @@ a {
 
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 40px;
     flex-wrap: wrap;
 
     justify-content: space-evenly;
     align-items: center;
+}
+
+.review-header {
+    margin: 30px 30px 0 30px;
 }
 
 .review-box {
@@ -245,6 +245,7 @@ a {
 
 .review-card {
     border-radius: inherit;
+    height: 600px;
     margin: 10px;
     color: rgb(0, 0, 0);
     background-color: rgb(128, 128, 128)
@@ -536,11 +537,13 @@ textarea:focus {
 
     .reviews-container {
         flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        vertical-align: middle;
     }
 
     .owner-block {
-        display: flex;
-        flex-direction: row;
+        display: inline-flex;
     }
 
     .bartender-image {
