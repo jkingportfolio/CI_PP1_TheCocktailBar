@@ -42,7 +42,11 @@ p {
     font-weight: 400;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     text-align: center;
 }
 
@@ -73,6 +77,10 @@ a {
 
 .auto-margin {
     margin: auto;
+}
+
+.margin-sides {
+    margin: 0 30px 0 30px;
 }
 
 .heading-bg-color {
@@ -194,16 +202,20 @@ a {
 .owner-container {
     width: 100%;
     height: 800px;
-  
+
     display: flex;
     flex-direction: column;
     gap: 16px;
-  
+
     justify-content: space-evenly;
     align-items: center;
 
     margin-top: 30px;
-  }
+}
+
+.owner-container p {
+    padding: 0 20px;
+}
 
 .bartender-image {
     width: 100%;
@@ -211,26 +223,22 @@ a {
     padding: 20px;
 }
 
-.owner-container p {
-    padding: 0 20px;
-}
-
 .reviews-container {
     width: 100%;
     padding: 20px;
-  
+
     display: flex;
     flex-direction: column;
     gap: 16px;
     flex-wrap: wrap;
-  
+
     justify-content: space-evenly;
     align-items: center;
-  }
+}
 
 .review-box {
-    flex: 1;
-    height: 300px;
+    display: inline-flex;
+    height: auto;
     width: 250px;
     border: 1px solid white;
 }
@@ -246,7 +254,7 @@ a {
     width: 100%;
     height: 200px;
     padding: 10px;
-    object-fit:cover;
+    object-fit: cover;
     border-radius: 50%;
 }
 
@@ -273,7 +281,7 @@ a {
     flex-direction: column;
     box-sizing: border-box;
     width: 100%;
-    /* background-color: grey; */
+    margin-top: 30px;
 }
 
 .menu h2 {
@@ -472,6 +480,10 @@ textarea:focus {
     text-align: center;
 }
 
+.author-info p {
+    font-size: 16px;
+}
+
 /* media queries */
 
 /* resposive design larger screens  */
@@ -526,7 +538,17 @@ textarea:focus {
         flex-direction: row;
     }
 
+    .owner-block {
+        display: flex;
+        flex-direction: row;
+    }
 
+    .bartender-image {
+        text-align: center;
+        padding: 20px;
+        object-fit: fill;
+
+    }
 
     /* menu */
 
