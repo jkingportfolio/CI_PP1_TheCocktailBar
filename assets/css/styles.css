@@ -10,11 +10,36 @@ body {
     color: rgb(255, 255, 255);
 }
 
-h1,
+/* typography */
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
 h2 {
-    color: rgb(255, 255, 255);
-    text-align: center;
-    width: 100%;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
 }
 
 .center-text {
@@ -179,8 +204,13 @@ a {
     width: 100%;
 }
 
+.owner-container div {
+    margin: 0 50px;
+}
+
 .reviews-container {
     width: 100%;
+    padding: 50px;
   
     display: flex;
     flex-direction: column;
