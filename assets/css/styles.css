@@ -213,7 +213,15 @@ a {
     padding: 0 20px;
 }
 
+.helper {
+    display: inline-block;
+    vertical-align: middle;
+    height: 30%;
+}
+
 .bartender-image {
+    display: inline-block;
+    vertical-align: middle;
     width: 100%;
     text-align: center;
     padding: 20px;
