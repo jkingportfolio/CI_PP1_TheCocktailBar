@@ -1,6 +1,6 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
 /* main styles */
 
 body {
@@ -147,8 +147,8 @@ a {
     box-sizing: border-box;
     padding-right: 15px;
     padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .index-sub-container {
@@ -201,32 +201,8 @@ a {
     justify-content: center;
 }
 
-/* the experience section */
-
-#the-experience-container {
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-    font-size: 20px;
-}
-
-.the-experience {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    margin: auto;
-}
-
-.the-experience p {
-    padding: 10px 10px 0 10px;
-}
-
-.the-experience-image {
-    flex: 1;
-    justify-content: center;
-    object-fit: contain;
-    width: 100%;
-    height: auto;
+.section-coloured {
+    background-color: rgba(255, 255, 255, 0.35);
 }
 
 /* video embedding code credits to
@@ -259,7 +235,7 @@ a {
 
 .owner-container {
     width: 100%;
-    height: 800px;
+    height: auto;
 
     display: inline-flex;
     flex-direction: column;
@@ -280,6 +256,11 @@ a {
     vertical-align: middle;
     height: 30%;
 } */
+
+.owner-signiture {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 30px;
+}
 
 .bartender-image {
     display: inline-block;
@@ -572,13 +553,13 @@ textarea:focus {
     }
 
     .index-flex-image {
-        flex: 0 0 40%;
+        flex: 0 0 50%;
         max-width: 50%;
     }
 
     .index-flex-image-left {
         order:2;
-        flex: 0 0 40%;
+        flex: 0 0 50%;
         max-width: 50%;
     }
 
