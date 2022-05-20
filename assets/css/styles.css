@@ -199,7 +199,7 @@ a {
     width: 100%;
     height: 800px;
 
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
     gap: 16px;
 
@@ -213,11 +213,11 @@ a {
     padding: 0 20px;
 }
 
-.helper {
+/* .helper {
     display: inline-block;
     vertical-align: middle;
     height: 30%;
-}
+} */
 
 .bartender-image {
     display: inline-block;
@@ -550,7 +550,7 @@ textarea:focus {
         vertical-align: middle;
     }
 
-    .owner-block {
+    .about-us-block {
         display: inline-flex;
     }
 
