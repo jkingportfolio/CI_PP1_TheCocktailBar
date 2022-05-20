@@ -205,6 +205,10 @@ a {
     max-width: 100%;
 }
 
+.index-message-h2 {
+    color: rgb(0, 0, 0)
+}
+
 .index-image {
     max-width: 100%;
     margin: auto;
@@ -217,9 +221,9 @@ a {
 }
 
 .index-p-text {
-    /* max-width: 360px; */
     box-sizing: border-box;
     text-align: center;
+    color: rgb(0, 0, 0);
 }
 
 .index-button {
@@ -227,7 +231,7 @@ a {
 }
 
 .section-coloured {
-    background-color: rgba(255, 255, 255, 0.35);
+    background-color: rgb(204, 204, 204);
 }
 
 /* video embedding code credits to
@@ -479,6 +483,10 @@ textarea:focus {
 /* hide this for mobile sizes */
 #contact-address {
     display: none !important;
+}
+
+#contact-address h2 {
+    margin-bottom: 35px;
 }
 
 /* find us */
