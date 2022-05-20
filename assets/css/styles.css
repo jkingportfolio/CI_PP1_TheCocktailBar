@@ -563,8 +563,18 @@ textarea:focus {
         flex-wrap: wrap;
     }
 
+    .index-row-left {
+        display: flex;
+    }
+
     .index-flex-image {
-        flex: 0 0 50%;
+        flex: 0 0 40%;
+        max-width: 50%;
+    }
+
+    .index-flex-image-left {
+        order:2;
+        flex: 0 0 40%;
         max-width: 50%;
     }
 
@@ -580,6 +590,15 @@ textarea:focus {
     }
 
     .index-message-left {
+        order: 1;
+        flex: 0 0 50%;
+        max-width: 50%;
+        text-align: left !important;
+        padding-top: 30px;
+    }
+
+    .index-p-container-left {
+        order: 1;
         flex: 0 0 50%;
         max-width: 50%;
         text-align: left !important;
