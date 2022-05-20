@@ -270,6 +270,7 @@ a {
     align-items: center;
 
     margin-top: 30px;
+    padding: 0 20px;
 }
 
 .owner-container p {
@@ -316,15 +317,20 @@ a {
     display: inline-flex;
     height: auto;
     width: 250px;
-    border: 1px solid white;
+    border: 1px solid rgb(214, 214, 214);
 }
 
 .review-card {
     border-radius: inherit;
-    height: 600px;
+    height: 525px;
     margin: 10px;
+    padding: 5px;
     color: rgb(0, 0, 0);
-    background-color: rgb(128, 128, 128)
+    background-color: rgb(255, 255, 255)
+}
+
+.review-card h3 {
+    margin-top: 10px;
 }
 
 .review-image {
@@ -333,6 +339,7 @@ a {
     padding: 10px;
     object-fit: cover;
     border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
 }
 
 .review-box p {
@@ -566,6 +573,10 @@ textarea:focus {
 @media only screen and (min-width: 700px) {
 
     /* code to help arrange index page */
+
+    .owner-container {
+        padding: 0 100px;
+    }
 
     .index-row {
         display: flex;
