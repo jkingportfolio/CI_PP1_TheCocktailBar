@@ -194,6 +194,7 @@ a {
 .index-p-text {
     /* max-width: 360px; */
     box-sizing: border-box;
+    text-align: center;
 }
 
 .index-button {
@@ -557,7 +558,9 @@ textarea:focus {
 /* media queries */
 
 @media only screen and (min-width: 700px) {
-    /* insert code here to flex row index items */
+
+    /* code to help arrange index page */
+
     .index-row {
         display: flex;
         flex-wrap: wrap;
@@ -565,6 +568,7 @@ textarea:focus {
 
     .index-row-left {
         display: flex;
+        padding: 20px;
     }
 
     .index-flex-image {
@@ -581,20 +585,15 @@ textarea:focus {
     .index-message {
         flex: 0 0 50%;
         max-width: 50%;
-        text-align: right !important;
-        padding-top: 60px;
-    }
-
-    .index-message h2 {
-        text-align: right !important;
+        /* text-align: right !important; */
+        padding-top: 30px;
     }
 
     .index-message-left {
-        order: 1;
         flex: 0 0 50%;
         max-width: 50%;
         text-align: left !important;
-        padding-top: 30px;
+        /* padding-top: 30px; */
     }
 
     .index-p-container-left {
