@@ -217,6 +217,7 @@ a {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 20px;
 }
 
 .index-row {
@@ -236,6 +237,7 @@ a {
 .index-message {
     flex: 0 0 100%;
     max-width: 100%;
+    margin: auto;
 }
 
 .index-message-h2 {
