@@ -418,16 +418,6 @@ a {
     padding: 10px;
 }
 
-/* credits to w3cschools.com for webkits */
-
-.news-div:hover {
-    -ms-transform: scale(1.1);
-    /* IE 9 */
-    -webkit-transform: scale(1.1);
-    /* Safari 3-8 */
-    transform: scale(1.1);
-}
-
 /* menu page */
 
 .menu {
@@ -784,6 +774,16 @@ textarea:focus {
         object-fit: fill;
 
     }
+
+    /* credits to w3cschools.com for webkits */
+
+    .news-div:hover {
+        -ms-transform: scale(1.1);
+        /* IE 9 */
+        -webkit-transform: scale(1.1);
+        /* Safari 3-8 */
+        transform: scale(1.1);
+}
 
     /* menu */
 
