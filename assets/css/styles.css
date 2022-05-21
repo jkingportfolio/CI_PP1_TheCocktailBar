@@ -416,6 +416,16 @@ a {
       border: 1px solid red;
       height: 150px;
       margin-bottom: 20px;
+      transition: transform .2s;
+      background-color: rgb(214, 214, 214);
+  }
+
+  /* credits to w3cschools.com for webkits */
+
+  .news-div:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
   }
 
 /* menu page */
@@ -694,7 +704,7 @@ textarea:focus {
         display: grid;
         grid-template-rows: repeat(2, 1fr);
         grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
+        gap: 25px;
       }
 
       .news-div {
