@@ -485,7 +485,7 @@ a {
     width: 100%;
     flex-direction: column;
     text-align: center;
-    margin: 20px 0;
+    margin: 20px 5px;
 }
 
 .form-input {
