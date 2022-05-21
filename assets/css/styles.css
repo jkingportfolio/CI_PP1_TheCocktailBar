@@ -69,6 +69,10 @@ a {
     background-color: rgb(128, 128, 128);
 }
 
+.navbar-padding-right {
+    padding-right: 10px;
+}
+
 /* misc */
 
 .list-style-none {
@@ -102,17 +106,6 @@ a {
     text-align: center;
     font-size: 30px;
     padding: 5vh 50px;
-}
-
-.home-button {
-    display: block;
-    text-decoration: none;
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    text-align: center;
-    padding: 10px 20px;
-    width: fit-content;
-    margin: 5vh auto;
 }
 
 /* button code from https://getcssscan.com/ */
