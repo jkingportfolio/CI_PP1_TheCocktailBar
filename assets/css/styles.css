@@ -141,7 +141,7 @@ a {
     letter-spacing: 2px;
     text-decoration: none;
     text-transform: uppercase;
-    color: rgb(204, 204, 204);
+    color: rgb(214, 214, 214);
     cursor: pointer;
     border: 3px solid;
     padding: 0.25em 0.75em;
@@ -239,7 +239,7 @@ a {
 }
 
 .index-message-h2-inverse {
-    color: rgb(204, 204, 204)
+    color: rgb(214, 214, 214)
 }
 
 .index-image {
@@ -269,7 +269,7 @@ a {
 .index-p-text-inverse {
     box-sizing: border-box;
     text-align: center;
-    color: rgb(204, 204, 204);
+    color: rgb(214, 214, 214);
 }
 
 .index-button {
@@ -283,7 +283,7 @@ a {
 }
 
 .section-coloured {
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(214, 214, 214);
 }
 
 /* about us page */
@@ -364,7 +364,7 @@ a {
     margin: 10px;
     padding: 5px;
     color: rgb(0, 0, 0);
-    background-color: rgb(223 195 116);
+    background-color: rgb(223 195 115);
 }
 
 .review-card h3 {
@@ -512,23 +512,23 @@ a {
 /* input field colors*/
 
 input[type=text]:focus {
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid rgb(223, 195, 115);
 }
 
 input[type=email]:focus {
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid rgb(223, 195, 115);
 }
 
 input[type=tel]:focus {
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid rgb(223, 195, 115);
 }
 
 input[type=datetime-local]:focus {
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid rgb(223, 195, 115);
 }
 
 textarea:focus {
-    border: 5px solid rgb(255, 0, 0);
+    border: 5px solid rgb(223, 195, 115);
 }
 
 #message {
@@ -574,7 +574,7 @@ textarea:focus {
 .footer-container {
     display: flex;
     flex-direction: column;
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(214, 214, 214);
     color: rgb(0, 0, 0);
     padding-top: 10px;
 }
@@ -715,33 +715,6 @@ textarea:focus {
         padding: 0.25em 0.75em;
     }
 
-    /* index page */
-
-    /* the experience */
-
-    /* #the-experience-container {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        padding: 10px;
-    }
-
-    #the-experience-container div {
-        width: 95%;
-        align-items: baseline;
-        margin-top: 10px;
-    }
-
-    #the-experience-container p {
-        margin: 0 10px;
-        text-align: center;
-    }
-
-    #the-experience-container img {
-        border-radius: 50%;
-        border: 2px solid rgba(255, 255, 255, 0.35);
-    } */
-
     /* to fit height to width ratio */
 
     .video-margins {
@@ -778,7 +751,7 @@ textarea:focus {
         -webkit-transform: scale(1.1);
         /* Safari 3-8 */
         transform: scale(1.1);
-}
+    }
 
     /* menu */
 
