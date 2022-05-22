@@ -880,3 +880,10 @@ textarea:focus {
         font-size: 20px;
     }
 }
+
+@media only screen and (min-width: 1200px) {
+
+    .owner-container {
+        padding: 0 200px;
+    }
+}
