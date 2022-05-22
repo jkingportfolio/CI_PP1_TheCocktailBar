@@ -810,31 +810,23 @@ textarea:focus {
 
     #contact-address {
         display: unset !important;
-        padding-top: 30px;
+        padding-top: 50px;
+        box-sizing: border-box;
+        line-height: normal;        
+        box-sizing: border-box;
         text-align: left;
-        box-sizing: border-box;
-        line-height: normal;
-
-        border: 35px solid rgb(0, 0, 0);
-        box-shadow: inset 0px 0px 0px 3px rgb(128, 128, 128);
-        box-sizing: border-box;
-    }
-
-    #map {
-        padding: 0;
     }
 
     #contact-address div {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: wrap;
         flex-grow: 0;
         justify-content: center;
     }
 
-    .block-newline {
-        display: block !important;
-        text-align: center;
+    #contact-address h4 {
+        text-align: left;
     }
 
     /* footer */
