@@ -1,6 +1,8 @@
 /* fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
 /* main styles */
 
 body {
@@ -75,27 +77,11 @@ a {
 
 /* misc */
 
-.list-style-none {
-    list-style: none;
-}
-
-.text-padding-top {
-    padding-top: 10px;
-}
-
-.auto-margin {
-    margin: auto;
-}
-
-.heading-bg-color {
-    background-color: rgb(128, 128, 128);
-}
-
 .empty-space-correction {
     min-height: calc(100vh - 270px);
 }
 
-/* error 404 page*/
+/* error 404 page */
 
 .error-container {
     display: block;
@@ -162,7 +148,7 @@ a {
 
 /* hero image */
 
-#hero-image-wrapper {
+.hero-image-wrapper {
     height: auto;
     width: 100%;
     overflow: hidden;
@@ -178,7 +164,7 @@ a {
     }
 }
 
-#hero-image {
+.hero-image {
     width: 100%;
 
     animation-name: hero-zoom;
@@ -190,16 +176,6 @@ a {
 
 .index-main-h2 {
     color: rgb(0, 0, 0);
-}
-
-.index-main-container {
-    display: block;
-    width: 100%;
-    box-sizing: border-box;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: 20px;
-    margin-left: 20px;
 }
 
 .index-sub-container {
@@ -466,6 +442,7 @@ a {
     width: 100%;
     padding: 5px;
     box-sizing: border-box;
+    padding: 5px;
 }
 
 /* contact us page */
@@ -530,14 +507,10 @@ textarea:focus {
     border: 5px solid rgb(223, 195, 115);
 }
 
-#message {
+.message {
     margin: 5px;
     box-sizing: border-box;
     width: 100%;
-}
-
-.submit-button {
-    margin: 0 0 15px 0;
 }
 
 /* hide this for mobile sizes */
@@ -560,12 +533,6 @@ textarea:focus {
 .map-display {
     width: 100%;
     padding: 0 35px;
-}
-
-#contact-address {
-    display: flex;
-    flex: 1;
-    width: 100%;
 }
 
 /* footer */
@@ -662,7 +629,6 @@ textarea:focus {
     .index-message {
         flex: 0 0 50%;
         max-width: 50%;
-        /* text-align: right !important; */
         padding-top: 30px;
     }
 
@@ -670,7 +636,6 @@ textarea:focus {
         flex: 0 0 50%;
         max-width: 50%;
         text-align: left !important;
-        /* padding-top: 30px; */
     }
 
     .index-p-text {
@@ -701,7 +666,7 @@ textarea:focus {
 
 @media only screen and (min-width: 768px) {
 
-    /* 404 error message */
+    /* error 404 page */
 
     .page-not-found {
         text-align: center;
@@ -722,7 +687,7 @@ textarea:focus {
         margin: 0 20vh;
     }
 
-    /* about */
+    /* about page */
 
     .reviews-container {
         flex-direction: row;
@@ -735,12 +700,6 @@ textarea:focus {
         display: inline-flex;
     }
 
-    .bartender-image {
-        text-align: center;
-        padding: 20px;
-        object-fit: fill;
-    }
-
     /* credits to w3cschools.com for webkits */
 
     .news-div:hover {
@@ -751,7 +710,7 @@ textarea:focus {
         transform: scale(1.1);
     }
 
-    /* menu */
+    /* menu page */
 
     .menu-sub-section {
         display: flex;
@@ -772,7 +731,7 @@ textarea:focus {
         padding: 20px;
     }
 
-    /* gallery */
+    /* gallery page */
 
     #gallery-container {
         display: block;
@@ -786,7 +745,7 @@ textarea:focus {
         width: 50%;
     }
 
-    /* contact */
+    /* contact-us page */
 
     #contact-container {
         display: flex;
@@ -812,7 +771,7 @@ textarea:focus {
         display: unset !important;
         padding-top: 50px;
         box-sizing: border-box;
-        line-height: normal;        
+        line-height: normal;
         box-sizing: border-box;
         text-align: left;
     }
