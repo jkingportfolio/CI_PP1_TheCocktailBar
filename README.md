@@ -186,9 +186,34 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 <img src="docs/validation-html-css/accessibility-validation-404.png">
 </details>
 
-
-
 ### Performance
+
+[Chrome dev tools lighthouse](https://developers.google.com/web/tools/lighthouse) was used to test all pages for performance, accessibility, best practices and SEO
+
+<details>
+<summary>Index</summary>
+<img src="docs/validation-lighthouse-performance/lighthouse-performance-index.png">
+</details>
+<details>
+<summary>About</summary>
+<img src="docs/validation-lighthouse-performance/lighthouse-performance-about.png">
+</details>
+<details>
+<summary>Menu</summary>
+<img src="docs/validation-lighthouse-performance/lighthouse-performance-menu.png">
+</details>
+<details>
+<summary>Gallery</summary>
+<img src="docs/validation-lighthouse-performance/lighthouse-performance-gallery.png">
+</details>
+<details>
+<summary>Contact</summary>
+<img src="docs/validation-lighthouse-performance/lighthouse-performance-contact-us.png">
+</details>
+<details>
+<summary>404 page</summary>
+<img src="docs/validation-lighthouse-performance/lighthouse-performance-404.png">
+</details>
 
 ### Device Testing
 
