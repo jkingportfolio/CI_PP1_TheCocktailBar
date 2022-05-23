@@ -81,6 +81,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ### HTML Validation
 
+<details HTML>
+<summary>Index page</summary>
+<img src="docs/validation-html-css/validation-index-html.png">
+</details>
+
 ### CSS Validation
 
 ### Accessibility
