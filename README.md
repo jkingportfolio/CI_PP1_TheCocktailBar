@@ -3,7 +3,7 @@
 
 ![Responsive image](docs/am-i-responsive.png)
 
-[The Cocktail Bar](https://jkingportfolio.github.io/CI_PP1_TheCocktailBar/index.html) website has been developed to provide potential and returning customers information regarding the menu, news, where to find us and the opportunity to book a table at The Cocktail Bar.
+[The Cocktail Bar](https://jkingportfolio.github.io/CI_PP1_TheCocktailBar/index.html) website has been developed to provide potential and returning customers information regarding the menu, news, where to find us and the opportunity to book a table at The Cocktail Bar. The bar itself is fictional.
 
 ## Table of Contents
 
@@ -107,7 +107,20 @@ All colours contrast was tested using [EightShapes contrast grid](http://eightsh
 
 ### Fonts
 
+There were 3 fonts used in this project, they are stated below:
+- BIZ UDmincho with a backup of serif is the main font used throughout the website
+- open sans with a backup of serif was used for the button styles
+- Reenie Beanie with a back up of cursive was used for the owners signiture, this is the only place this font is used
+
 ### Structure
+
+The websites structure was carefully constructed with making it recognizable, user friendly and simple kept in mind. On arrival to the website the user will be presented with a hero image and a navigation bar which is uniform across all pages. The website is made of five individual pages:
+
+- A homepage, with links to the key sections of the site
+- An about page, which describes a brief history of the buisness, has customer reviews and as news section
+- A menu page, which lists all drinks available
+- A gallery page, which consists of a showcase of images
+- A contact page, which consists of a booking form, map and where to find us area.
 
 ### Wireframes
 
