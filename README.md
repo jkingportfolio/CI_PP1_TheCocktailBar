@@ -54,7 +54,9 @@
 
 ### Site Owner Goals
 
-1. 
+1. Bring awareness to a broader audience of the existance of The Cocktail Bar thus increasing customer foot fall
+2. Provide a way for new and existing customers to engage with the buisness
+3. Provide a clear and hassle free method for customers to book a table via booking form.
 
 ## User Experience
 
