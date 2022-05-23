@@ -61,12 +61,12 @@
         </div>
         <div id="contact-container">
             <!-- contact form and inputs -->
-            <div id="contact-form">
+            <div id="contact-form-container">
                 <p>
                     Please fill out the form below to book a table with us.
                 </p>
                 <!-- credits to Code Institue for the from dump link-->
-                <form action="https://formdump.codeinstitute.net" method="POST" class="form-container">
+                <form id="contact-form" action="https://formdump.codeinstitute.net" method="POST" class="form-container">
                     <div class="form-input">
                         <label for="name" class="form-label">Name</label>
                         <input type="text" class="form-control" id="name" name="name" aria-describedby="name" required>
@@ -92,7 +92,7 @@
                             placeholder="Enter your message here"></textarea>
                     </div>
                     <!-- submit button -->
-                    <button type="submit" class="button-styled">Submit</button>
+                    <button type="submit" form="contact-form" class="button-styled">Submit</button>
                 </form>
             </div>
             <!-- find us-->

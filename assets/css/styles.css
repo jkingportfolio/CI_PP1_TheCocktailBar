@@ -456,7 +456,7 @@ a {
 
 /* contact form */
 
-#contact-form {
+#contact-form-container {
     display: flex;
     width: 100%;
     flex-direction: column;
@@ -760,7 +760,7 @@ textarea:focus {
         margin-left: 25px;
     }
 
-    #contact-form {
+    #contact-form-container {
         flex: 1;
         box-sizing: border-box;
         width: 50%;
