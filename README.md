@@ -101,6 +101,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 <summary>Contact</summary>
 <img src="docs/validation-html-css/validation-contact-us-html.png">
 </details>
+<details>
+<summary>404 page</summary>
+<img src="docs/validation-html-css/validation-404-html.png">
+</details>
 
 ### CSS Validation
 
@@ -115,6 +119,35 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 </details>
 
 ### Accessibility
+
+[The WAVE WebAIM](https://wave.webaim.org/) tool for evaluating accessibility of a webpage was used to verify that all pages of the site met the needs for users with disabilities.
+
+<details>
+<summary>Index</summary>
+<img src="docs/validation-html-css/accessibility-validation-index.png">
+</details>
+<details>
+<summary>About</summary>
+<img src="docs/validation-html-css/accessibility-validation-about.png">
+</details>
+<details>
+<summary>Menu</summary>
+<img src="docs/validation-html-css/accessibility-validation-menu.png">
+</details>
+<details>
+<summary>Gallery</summary>
+<img src="docs/validation-html-css/accessibility-validation-gallery.png">
+</details>
+<details>
+<summary>Contact</summary>
+<img src="docs/validation-html-css/accessibility-validation-contact-us.png">
+</details>
+<details>
+<summary>404 page</summary>
+<img src="docs/validation-html-css/accessibility-validation-404.png">
+</details>
+
+
 
 ### Performance
 
