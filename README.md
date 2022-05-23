@@ -146,4 +146,6 @@ The use of reference books were used throughout the creation of this project and
 
 ## Acknowledgements
 
-### Sub sections
+I would like to also thank the following:
+- My wife and family for their support and feedback whilst doing this project
+- My fellow Code Institute students whom i have bounced ideas and problems back and forth with via Slack
