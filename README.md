@@ -3,7 +3,7 @@
 
 ![Responsive image](docs/am-i-responsive.png)
 
-link to live webpage
+[The Cocktail Bar](https://jkingportfolio.github.io/CI_PP1_TheCocktailBar/index.html) website has been developed to provide potential and returning customers information regarding the menu, news, where to find us and the opportunity to book a table at The Cocktail Bar.
 
 ## Table of Contents
 
@@ -45,15 +45,29 @@ link to live webpage
 
 ## User Experience
 
-### Sub sections
+### Target Audience
+
+### User requirements and expectations
+
+### User stories
 
 ## Design
 
-### Sub sections
+### Design Choices
+
+### Colour
+
+### Fonts
+
+### Structure
+
+### Wireframes
 
 ## Technologies
 
-### Sub sections
+### Coding Languages
+
+### Frameworks and tools
 
 ## Features
 
@@ -62,6 +76,22 @@ link to live webpage
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
+
+## Testing
+
+### HTML Validation
+
+### CSS Validation
+
+### Accessibility
+
+### Performance
+
+### Device Testing
+
+### Browser Compatibility
+
+### Testing User Stories
 
 ## Bugs
 
@@ -94,7 +124,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 ### Video
 
 - The embedded video used on the index page was taken from Patrón Tequila Youtube Channel
-    - [Index page embedded video](https://www.youtube.com/watch?v=qH4Cge_ED-4) Make Any Cocktail Simply Perfect | Patrón Tequila
+    - <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
+" target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>ke Any Cocktail Simply Perfect | Patrón Tequila
 
 ### Code
 
