@@ -62,9 +62,25 @@
 
 ### Target Audience
 
+- People looking to have a casual drink
+- People looking to find a venue for an event such a birthday
+- People looking for a venue to relax with friends
+
 ### User requirements and expectations
 
+- Find information easy and quick
+- Navigate the pages easily
+- Links and website functions to act as expected
+- An easy way to book a table at the bar
+- Simple "too the point" content in which a user can quickly digest
+
 ### User stories
+
+#### First time user
+
+#### Returning user
+
+#### Site owner
 
 ## Design
 
