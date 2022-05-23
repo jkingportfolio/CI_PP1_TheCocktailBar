@@ -80,7 +80,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 ## Testing
 
 ### HTML Validation
-W3C Markup Validation website was used to validate the HTML code of The Cocktail Bar website. All pages passed and produced no errors.
+[W3C Markup Validation](https://validator.w3.org/) was used to validate the HTML code of The Cocktail Bar website. All pages passed and produced no errors.
 <details>
 <summary>Index</summary>
 <img src="docs/validation-html-css/validation-index-html.png">
@@ -103,6 +103,16 @@ W3C Markup Validation website was used to validate the HTML code of The Cocktail
 </details>
 
 ### CSS Validation
+
+[W3C Jigsaw CSS validation](https://jigsaw.w3.org/css-validator/) was used to validate the CSS used in the website. The file passed and produced no errors if testing my own CSS however it did produced some warnings which are related to bootstrap 5.0.2
+<details>
+<summary>CSS styles</summary>
+<img src="docs/validation-html-css/validation-css-style.png">
+</details>
+<details>
+<summary>Bootstrap warnings</summary>
+<img src="docs/validation-html-css/validation-bootstrap-css-warnings.png">
+</details>
 
 ### Accessibility
 
