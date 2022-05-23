@@ -80,10 +80,26 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 ## Testing
 
 ### HTML Validation
-
-<details HTML>
-<summary>Index page</summary>
+W3C Markup Validation website was used to validate the HTML code of The Cocktail Bar website. All pages passed and produced no errors.
+<details>
+<summary>Index</summary>
 <img src="docs/validation-html-css/validation-index-html.png">
+</details>
+<details>
+<summary>About</summary>
+<img src="docs/validation-html-css/validation-about-html.png">
+</details>
+<details>
+<summary>Menu</summary>
+<img src="docs/validation-html-css/validation-menu-html.png">
+</details>
+<details>
+<summary>Gallery</summary>
+<img src="docs/validation-html-css/validation-gallery-html.png">
+</details>
+<details>
+<summary>Contact</summary>
+<img src="docs/validation-html-css/validation-contact-us-html.png">
 </details>
 
 ### CSS Validation
