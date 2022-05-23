@@ -86,7 +86,24 @@
 
 ### Design Choices
 
+The website was designed with a simple monochromatic theme in mind. This represents the simplicity of the website and the black and white transparency of the buisness to its customers.
+
 ### Colour
+
+The colour palette for the website is made up of 4 main colours and an addition one for the owners signiture
+
+- #000000 (Black)
+- #FFFFFF (White)
+- #808080 (Dark Gray)
+- #D6D6D6 (Light Gray)
+- #DFC373 (Matte Gold)
+
+All colours contrast was tested using [EightShapes contrast grid](http://eightshapes.com/)
+
+<details>
+<summary>Colour Contrast Results</summary>
+<img src="docs/validation-colour-contrast.png">
+</details>
 
 ### Fonts
 
