@@ -43,7 +43,18 @@
 
 ### User Goals
 
+- #### First time users
+    1. A first time user would want to easily understand the main purpose of the site.
+    2. A first time user would want to easily navigate the website to explore the content.
+    3. A first time user would want to find the websites socials to be able to further connect and legitimise how well known and trusted they are.
+- #### Returning users
+    1. A returning user would want to be able to visit the news section to quickly be informed of any news whether it be on new drinks or announcements such as new events.
+    2. A returning user would like to use the contact form in order to book another table at the bar
+    3. A returning user would like to contact the site creator which can be done by using the easily found socials links on the footer of each page
+
 ### Site Owner Goals
+
+1. 
 
 ## User Experience
 
@@ -109,6 +120,10 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 - Microsoft Paint
 
 ## Features
+
+### Current features
+
+### Future implementations
 
 ### Youtube video
 
