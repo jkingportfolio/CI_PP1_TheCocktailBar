@@ -44,19 +44,19 @@
 ### User Goals
 
 - #### First time users
-    1. A first time user would want to easily understand the main purpose of the site.
-    2. A first time user would want to easily navigate the website to explore the content.
-    3. A first time user would want to find the websites socials to be able to further connect and legitimise how well known and trusted they are.
+    - A first time user would want to easily understand the main purpose of the site.
+    - A first time user would want to easily navigate the website to explore the content.
+    - A first time user would want to find the websites socials to be able to further connect and legitimise how well known and trusted they are.
 - #### Returning users
-    1. A returning user would want to be able to visit the news section to quickly be informed of any news whether it be on new drinks or announcements such as new events.
-    2. A returning user would like to use the contact form in order to book another table at the bar
-    3. A returning user would like to contact the site creator which can be done by using the easily found socials links on the footer of each page
+    - A returning user would want to be able to visit the news section to quickly be informed of any news whether it be on new drinks or announcements such as new events.
+    - A returning user would like to use the contact form in order to book another table at the bar
+    - A returning user would like to contact the site creator which can be done by using the easily found socials links on the footer of each page
 
 ### Site Owner Goals
 
-1. Bring awareness to a broader audience of the existance of The Cocktail Bar thus increasing customer foot fall
-2. Provide a way for new and existing customers to engage with the buisness
-3. Provide a clear and hassle free method for customers to book a table via booking form.
+- Bring awareness to a broader audience of the existance of The Cocktail Bar thus increasing customer foot fall
+- Provide a way for new and existing customers to engage with the buisness
+- Provide a clear and hassle free method for customers to book a table via booking form.
 
 ## User Experience
 
