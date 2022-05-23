@@ -824,7 +824,7 @@ textarea:focus {
 
     /* hero-image adjustment */
 
-    #hero-image-wrapper {
+    .hero-image-wrapper {
         height: 600px;
         width: 100%;
         overflow: hidden;
