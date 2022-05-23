@@ -91,7 +91,7 @@ a {
 .page-not-found {
     text-align: center;
     font-size: 30px;
-    padding: 5vh 50px;
+    padding: 0vh 50px 15vh 50px;
 }
 
 /* button code from https://getcssscan.com/ */
