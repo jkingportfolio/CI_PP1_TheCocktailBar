@@ -115,8 +115,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 - [gallery-5](assets/images/gallery-5.jpg): Helena Lopes (vpexels.com/@wildlittlethingsphoto/)
 - [hero-image-medium](assets/images/hero-image-medium.jpg): MART PRODUCTION (https://pexels.com/@mart-production)
 - [hero-image-small](assets/images/hero-image-small.jpg): MART PRODUCTION (https://pexels.com/@mart-production)
-- [jim-cropped](assets/images/jim-cropped.jpg): cottonbro (vpexels.com/@cottonbro/)
-- [lounge-with-drinks](assets/images/lounge-with-drinks.jpeg): Rachel Claire (vpexels.com/@rachel-claire/)
+- [jim-cropped](assets/images/jim-cropped.jpg): cottonbro (https://pexels.com/@cottonbro/)
+- [lounge-with-drinks](assets/images/lounge-with-drinks.jpeg): Rachel Claire (https://pexels.com/@rachel-claire/)
 - [menu-image-1](assets/images/menu-image-1.jpg): Anna Tis (https://pexels.com/@anna-tis-2762697/)
 - [menu-image-2](assets/images/menu-image-2.jpg): Anna Tis (https://pexels.com/@anna-tis-2762697/)
 - [menu-image-3](assets/images/menu-image-3.jpg): Ruslan Khmelevsky (https://pexels.com/@ruslanua/)
@@ -135,6 +135,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>ke Any Cocktail Simply P
 - Guidance on how to create a favicon was taken from [W3Schools](https://www.w3schools.com/html/html_favicon.asp)
 - Code to embed a video from YouTube was taken from [tipswithpunch](https://www.youtube.com/watch?v=9YffrCViTVk) YouTube Channel
 - Markdown cheat sheet used to help format my READme file by [adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Button style code used for all buttons bar the submit button on the contact page was taken from [cssscan.com](https://getcssscan.com/css-buttons-examples).
 
 ### Literature
 
