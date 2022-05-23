@@ -9,6 +9,8 @@
 
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
+        1. [First time users](#first-time-users)
+        2. [Returning users](returning-users)
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#tager-audience)
@@ -226,7 +228,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 ### Video
 
 - The embedded video used on the index page was taken from Patrón Tequila Youtube Channel. Make Any Cocktail Simply Perfect | Patrón Tequila
-    - <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
