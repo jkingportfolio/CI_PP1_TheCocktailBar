@@ -1,7 +1,7 @@
 # The Cocktail Bar
 (Developer: Jamie King)
 
-Mock up image
+![Responsive image](docs/am-i-responsive.png)
 
 link to live webpage
 
@@ -54,6 +54,14 @@ link to live webpage
 ## Technologies
 
 ### Sub sections
+
+## Features
+
+### Youtube video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
+" target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ## Bugs
 
