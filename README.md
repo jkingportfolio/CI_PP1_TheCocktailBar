@@ -90,12 +90,21 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 <img src="docs/wireframes/404-html.png">
 </details>
 
-
 ## Technologies
 
 ### Coding Languages
+- HTML
+- CSS
 
 ### Frameworks and tools
+- Balsamiq
+- Git
+- Github
+- Gitpod
+- Bootstrap v5.0
+- Google Fonts
+- Font Awesome
+- Microsoft Paint
 
 ## Features
 
