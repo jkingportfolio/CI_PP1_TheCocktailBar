@@ -101,7 +101,7 @@
 
 ### Design Choices
 
-The website was designed with a simple monochromatic theme in mind. This represents the simplicity of the website and the black and white transparency of the buisness to its customers.
+The website was designed with a simple monochrome theme in mind. This represents the simplicity of the website and the black and white transparency of the buisness to its customers.
 
 ### Colour
 
@@ -185,20 +185,28 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 
 ## Features
 
-### Current features
+### Existing features
 
 - Nav Bar 
     - Desktop
+    ![Nav Bar Desktop](docs/features/feature-nav-bar-tablet-desktop.png)
     - Mobile
+    ![Nav Bar Mobile](docs/features/feature-nav-bar-mobile.png)
 
 - Hero Image
 
+![Hero Image](docs/features/feature-hero-image.png)
+
 - Index page sections
     - Whats new
+    ![Whats new section](docs/features/feature-whats-new.png)
     - Our Menu
+    ![Our menu section](docs/features/feature-our-menu.png)
     - Visit us
+    ![Visit us section](docs/features/feature-visit-us.png)
 
 - Our Story
+![Our story section](docs/features/feature-our-story.png)
 
 - YouTube video
 
@@ -207,20 +215,28 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 - Customer reviews
+![Customer reviews](docs/features/feature-customer-reviews.png)
 
 - News
+![News](docs/features/feature-news.png)
 
 - Menu
+![Menu](docs/features/feature-menu.png)
 
 - Form
+![Form](docs/features/feature-form.png)
 
 - Google Map
+![Google Map](docs/features/feature-map.png)
 
 - Where to find us
+![where to find us](docs/features/feature-where-to-find-us.png)
 
 - Footer
     - Desktop
+    ![Footer Desktop](docs/features/feature-footer-tablet-desktop.png)
     - Mobile
+    ![Footer Desktop](docs/features/feature-footer-mobile.png)
 
 ### Future implementations
 
