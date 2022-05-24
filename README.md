@@ -473,6 +473,13 @@ The website was tested on the following web browsers:
 
 ## Bugs
 
+During the project i encountered a number of bugs some of which were solved some of which were not as stated below:
+
+| Bug           | Fix           |
+| ------------- | ------------- |
+| On smaller page lengths the footer would sit high and be very long  | Adding a div called error-container which states the min-height: calc(100vh-270px); where 270 is the height of the footer ensured the main div was big enough that the footer error would not occur |
+| I wanted to provide a link from the new drink on the news blocks to the menu however the sticky header would obstruct the drink name when directed to the menu | Currently i could not think of a fix for this so i decided to not proceed with this feature to ensure there is a fully functioning website at the expense of one extra feature  |
+
 ### Sub sections
 
 ## Deployment
