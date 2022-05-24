@@ -22,7 +22,7 @@
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
-4. [Technologies](#technologies)
+4. [Technologies Used](#technologies)
     1. [Languages](#languages)
     2. [Frameworks and Tools](#frameworks-tools)
 5. [Features](#features)
@@ -164,6 +164,7 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 - Gitpod
 - Bootstrap v5.0
 - Google Fonts
+- Google Chrome Dev Tools
 - Font Awesome
 - Microsoft Paint
 
@@ -249,6 +250,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 <img src="docs/validation-html-css/accessibility-validation-404.png">
 </details>
 
+- Icons from Font Awesome are used in the site. As they are for decorative purposes only, Font Awesome already populates the code to be copied with an aria-hidden="true" attribute to accomodate accessibility.
+
 ### Performance
 
 [Chrome dev tools lighthouse](https://developers.google.com/web/tools/lighthouse) was used to test all pages for performance, accessibility, best practices and SEO
@@ -290,7 +293,16 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ## Deployment
 
-### Sub sections
+### Github Pages
+
+This project was deployed to GitHub pages in the projects early stages to allow continual resposive testing. This was acheived via the following steps:
+
+1. Navigate to www.github.com and log in.
+2. Once logged in navigate to the [GitHub Repository](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar)
+3. Click on the settings button at the top right corner of the repository.
+4. Select Pages from the left hand side menu.
+5. For the source, select Branch:Master and click save
+6. The webpage will refresh automatically displaying a message at the top of the ribbon stating "Your site is publish at https://jkingportfolio.github.io/CI_PP1_TheCocktailBar/
 
 ## Credits
 
