@@ -210,7 +210,9 @@ In its entirety the website consists of five main pages, one 404 error page and 
 ##### Mobile
 
 <p align="center">
+
 ![Nav Bar Mobile](docs/features/feature-nav-bar-mobile.png)
+
 </p>
 
 #### Hero Image
@@ -270,19 +272,25 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 #### Form
 
 <p align="center">
+
 ![Form](docs/features/feature-form.png)
+
 </p>
 
 #### Google Map
 
 <p align="center">
+
 ![Google Map](docs/features/feature-map.png)
+
 </p>
 
 #### Where to find us
 
 <p align="center">
+
 ![where to find us](docs/features/feature-where-to-find-us.png)
+
 </p>
 
 #### Footer
@@ -292,7 +300,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 - Mobile
 
 <p align="center">
+
 ![Footer Desktop](docs/features/feature-footer-mobile.png)
+
 </p>
 
 ### Future implementations
