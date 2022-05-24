@@ -262,6 +262,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 #### Customer reviews
 
+There is a 
+
 ![Customer reviews](docs/features/feature-customer-reviews.png)
 
 #### News
@@ -333,6 +335,12 @@ The contact form provides a way for the user to book a table at the bar by provi
 </p>
 
 ### Future implementations
+
+In the future as my skills grow i would like to implement the following features:
+
+- A downloadable PDF version of the menu
+- Create a functioning newletter
+- Add a back up arrow button to the footer to provide the user with a quick and easy way to navigate back to the top of the page
 
 ## Testing
 
