@@ -245,18 +245,21 @@ The home page includes 3 sub sections in which each will lead the user to the ar
 
 #### Our Story
 
-The our story section gives a brief history of the bar and has a signiture in gold to give the user a feeling of prestige in regards to the owner.
+- The our story section gives a brief history of the bar 
+- At the bottom of the story is a signiture in gold to give the user a feeling of prestige in regards to the owner.
 
 ![Our story section](docs/features/feature-our-story.png)
 
 #### YouTube video
 
-There is an embedded video which is used to 
+- There is an embedded video which is used to bring more life to the page
+
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 </p>
+
 #### Customer reviews
 
 ![Customer reviews](docs/features/feature-customer-reviews.png)
@@ -271,6 +274,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 #### Form
 
+The contact form provides a way for the user to book a table at the bar by providing the following details
+- Name
+- Email
+- Phone number 
+- Date and time
+- A text area for additional comments or questions
+
 <p align="center">
 
 ![Form](docs/features/feature-form.png)
@@ -278,6 +288,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 </p>
 
 #### Google Map
+
+- An embedded google map is used to allow to use the find directions to the bar. (Please note due to this bar being fictional the location of the Bar has been generalised to be that of Aberdeen, Scotland)
 
 <p align="center">
 
@@ -287,6 +299,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 #### Where to find us
 
+- The where to find us feature condenses all information needed to get in contact with the bar or locate it. 
+- For the mobile version this section is not displayed, this decision was made due to the fact it would mean it would sit directly above the footer contact which would perhaps look odd to the user.
+
 <p align="center">
 
 ![where to find us](docs/features/feature-where-to-find-us.png)
@@ -294,6 +309,18 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 </p>
 
 #### Footer
+
+- The footer is featured on all five main pages and the error 404 page and includes 3 sections:
+
+    - Contact
+    - Opening Times
+    - Socials
+
+- There are three clickable links
+    - The email address in the contact section will open an email mailbox of the user in order for them to easily email the bar with any questions they may have
+- The GitHub icon which links to my own personal GitHub page for future showcasing of my projects
+- The linkedin icon which links to my own personal Linkedin page for networking with fellow coders or potential future employers
+
 - Desktop
 
 ![Footer Desktop](docs/features/feature-footer-tablet-desktop.png)
@@ -306,10 +333,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 </p>
 
 ### Future implementations
-
-### Youtube video
-
-
 
 ## Testing
 
