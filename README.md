@@ -72,15 +72,30 @@
 - Navigate the pages easily
 - Links and website functions to act as expected
 - An easy way to book a table at the bar
-- Simple "too the point" content in which a user can quickly digest
+- Simple "too the point" content that which a user can quickly digest
 
 ### User stories
 
 #### First time user
 
+- A first time user would want to know where the bar is located
+- A first time user would want to know the opening hours of the bar
+- A first time user would want to know the drinks available and their prices
+- A first time user would want to gain insight as to what type of establishment the bar is
+
 #### Returning user
 
+- A returning user would want to know of recent news related to the bar
+- A returning user would want to book a table via telephone
+- A returning user would want to book a table via an online booking system
+- A returning user would want to know of recently added drinks to the menu
+
 #### Site owner
+
+- The site owner would want to entice new and existing clients to the bar via an attractive website
+- The site owner would want to provide all information required by a client in a simple attractive fashion.
+- The site owner would want to be able to take bookings via an online form booking system
+- The site owner would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 ## Design
 
@@ -291,7 +306,9 @@ In addition to testing on physical devices, the site was also tested using Googl
 
 ### Browser Compatibility
 
-The website was tested on 
+The website was tested on the following web browsers:
+- Google Chrome Version 101.0.4951.67
+- DuckDuckGo
 
 ### Testing User Stories
 
