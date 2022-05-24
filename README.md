@@ -187,13 +187,46 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 
 ### Current features
 
-### Future implementations
+- Nav Bar 
+    - Desktop
+    - Mobile
 
-### Youtube video
+- Hero Image
+
+- Index page sections
+    - Whats new
+    - Our Menu
+    - Visit us
+
+- Our Story
+
+- YouTube video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
+
+- Customer reviews
+
+- News
+
+- Menu
+
+- Form
+
+- Google Map
+
+- Where to find us
+
+- Footer
+    - Desktop
+    - Mobile
+
+### Future implementations
+
+### Youtube video
+
+
 
 ## Testing
 
