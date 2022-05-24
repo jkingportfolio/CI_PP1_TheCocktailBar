@@ -298,11 +298,36 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 This project was deployed to GitHub pages in the projects early stages to allow continual resposive testing. This was acheived via the following steps:
 
 1. Navigate to www.github.com and log in.
-2. Once logged in navigate to the [GitHub Repository](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar)
+2. Once logged in navigate to the projects [GitHub Repository](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar)
 3. Click on the settings button at the top right corner of the repository.
 4. Select Pages from the left hand side menu.
-5. For the source, select Branch:Master and click save
+5. For the source, select Branch:Master and click save.
 6. The webpage will refresh automatically displaying a message at the top of the ribbon stating "Your site is publish at https://jkingportfolio.github.io/CI_PP1_TheCocktailBar/
+7. The site is now live online and can be viewed by anyone.
+
+### Forking the GitHub Repository
+
+We can make a copy of the original repository on our GitHub account to view or make changes too without affecting the original repository, this is known as forking. Forking in GitHub can be done via the following steps:
+
+1. Navigate to www.github.com and log in.
+2. Once logged in navigate to the desired [GitHub Repository](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar) that you would like to fork.
+3. At the top right corner of the page click on the fork icon.
+4. There should now be a copy of your original repository in your Github account.
+
+Please note if you are not a member of an organisation on GitHub then you will not be able to fork your own repository.
+
+### Clone a GitHub Repository
+
+You can make a local clone of a repository via the following steps: 
+
+1. Navigate to www.github.com and log in.
+2. Once logged in navigate to the desired [GitHub Repository](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar) that you would like to clone.
+3. Locate the code button at the top, above the repository file structure.
+4. Select the prefered clone method from HTTPS. SSH or GitHub CLI then click the copy button to copy the URL to your clipboard.
+5. Open Git Bash
+6. Update the current working direction to the location in which you would like the clone directory to be created.
+7. Type `git clone` and paste the previously copied URL at Step 4.
+8. `$ clone https://github.com/jkingportfolio/CI_PP1_TheCocktailBar`
 
 ## Credits
 
