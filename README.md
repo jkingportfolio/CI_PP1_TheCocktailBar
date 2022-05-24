@@ -203,7 +203,7 @@ In its entirety the website consists of five main pages, one 404 error page and 
 - The navigation bar is located at the top of every page in the same location and allows users to navigate seamlessly through the site.
 - A hover effect on the text of the navigation bar text allows the user to understand that it is a clickable link. Upon clicking the link the user will be taken to the desired page
 
-##### Desktop
+##### Desktop 
 
 ![Nav Bar Desktop](docs/features/feature-nav-bar-tablet-desktop.png)
 
@@ -213,22 +213,41 @@ In its entirety the website consists of five main pages, one 404 error page and 
 
 #### Hero Image
 
+When visiting the website and initially being directed to the home page the user is greeted by the hero image on both desktop and mobile.
+
+- The hero image sets the scene of the site indicating that the website is for a cocktail bar
+- The hero image also has a "zoom" effect to give the user a feeling of immersion into the website.
+
 ![Hero Image](docs/features/feature-hero-image.png)
 
 #### Index page sections
 
+The home page includes 3 sub sections in which each will lead the user to the area they wish to visit in a quick manner.
+
 - Whats new
+    - Includes an image, a text explanation and a button which will link directly to the news section on the about page. This was done by using an id link
+
 ![Whats new section](docs/features/feature-whats-new.png)
+
 - Our Menu
+    - Includes an image, a text explanation and a button which will link directly to the menu page.
+
 ![Our menu section](docs/features/feature-our-menu.png)
+
 - Visit us
+    - Includes an image, a text explanation and a button which will link directly to the menu page.
+
 ![Visit us section](docs/features/feature-visit-us.png)
 
 #### Our Story
 
+The our story section gives a brief history of the bar and has a signiture in gold to give the user a feeling of prestige in regards to the owner.
+
 ![Our story section](docs/features/feature-our-story.png)
 
 #### YouTube video
+
+There is an embedded video which is used to 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
