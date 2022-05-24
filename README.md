@@ -283,7 +283,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 ### Device Testing
 
+The website was tested on the following devices:
+- Xiaomi Redmi note 10 pro
+- Windows 10 PC with a 24" MSI Curved gaming monitor
+
+In addition to testing on physical devices, the site was also tested using Google Chrome Developer Tools pre defined devices and also the responsive mode in which i would slowly increase the width of the screen to ensure resposiveness worked across all display sizes.
+
 ### Browser Compatibility
+
+The website was tested on 
 
 ### Testing User Stories
 
@@ -353,7 +361,7 @@ You can make a local clone of a repository via the following steps:
 
 ### Video
 
-- The embedded video used on the index page was taken from Patrón Tequila Youtube Channel. Make Any Cocktail Simply Perfect | Patrón Tequila
+- The embedded video used on the index page was taken from [Patrón Tequila Youtube Channel](https://www.youtube.com/c/patrontequila). Make Any Cocktail Simply Perfect | Patrón Tequila
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
