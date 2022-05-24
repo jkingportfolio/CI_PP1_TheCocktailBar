@@ -185,58 +185,86 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 
 ## Features
 
+In its entirety the website consists of five main pages, one 404 error page and 16 features, two of which have a mobile version and tablet / desktop version. 
+
 ### Existing features
 
-- Nav Bar 
-    - Desktop
-    ![Nav Bar Desktop](docs/features/feature-nav-bar-tablet-desktop.png)
-    - Mobile
-    ![Nav Bar Mobile](docs/features/feature-nav-bar-mobile.png)
+#### Nav Bar 
 
-- Hero Image
+- The navigation bar is featured on all five main pages and the error 404 page and includes 5 clickable links:
+
+    - Home
+    - About
+    - Menu
+    - Gallery
+    - Contact
+
+- It is fully resposive due to using the Bootstrap v5.0.2 nav bar which then produces a toggler menu for smaller screens. 
+- The navigation bar is located at the top of every page in the same location and allows users to navigate seamlessly through the site.
+- A hover effect on the text of the navigation bar text allows the user to understand that it is a clickable link. Upon clicking the link the user will be taken to the desired page
+
+##### Desktop
+
+![Nav Bar Desktop](docs/features/feature-nav-bar-tablet-desktop.png)
+
+##### Mobile
+
+![Nav Bar Mobile](docs/features/feature-nav-bar-mobile.png)
+
+#### Hero Image
 
 ![Hero Image](docs/features/feature-hero-image.png)
 
-- Index page sections
-    - Whats new
-    ![Whats new section](docs/features/feature-whats-new.png)
-    - Our Menu
-    ![Our menu section](docs/features/feature-our-menu.png)
-    - Visit us
-    ![Visit us section](docs/features/feature-visit-us.png)
+#### Index page sections
 
-- Our Story
+- Whats new
+![Whats new section](docs/features/feature-whats-new.png)
+- Our Menu
+![Our menu section](docs/features/feature-our-menu.png)
+- Visit us
+![Visit us section](docs/features/feature-visit-us.png)
+
+#### Our Story
+
 ![Our story section](docs/features/feature-our-story.png)
 
-- YouTube video
+#### YouTube video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
-- Customer reviews
+#### Customer reviews
+
 ![Customer reviews](docs/features/feature-customer-reviews.png)
 
-- News
+#### News
+
 ![News](docs/features/feature-news.png)
 
-- Menu
+#### Menu
+
 ![Menu](docs/features/feature-menu.png)
 
-- Form
+#### Form
+
 ![Form](docs/features/feature-form.png)
 
-- Google Map
+#### Google Map
+
 ![Google Map](docs/features/feature-map.png)
 
-- Where to find us
+#### Where to find us
+
 ![where to find us](docs/features/feature-where-to-find-us.png)
 
-- Footer
-    - Desktop
-    ![Footer Desktop](docs/features/feature-footer-tablet-desktop.png)
-    - Mobile
-    ![Footer Desktop](docs/features/feature-footer-mobile.png)
+#### Footer
+- Desktop
+
+![Footer Desktop](docs/features/feature-footer-tablet-desktop.png)
+- Mobile
+
+![Footer Desktop](docs/features/feature-footer-mobile.png)
 
 ### Future implementations
 
