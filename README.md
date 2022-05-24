@@ -354,6 +354,7 @@ You can make a local clone of a repository via the following steps:
 ### Video
 
 - The embedded video used on the index page was taken from Patrón Tequila Youtube Channel. Make Any Cocktail Simply Perfect | Patrón Tequila
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
@@ -376,7 +377,7 @@ The use of reference books were used throughout the creation of this project and
 
 ### Misc
 
-The source of where i learned how to produce a GitHub fork and clone was from the following pages of the GitHub Documentation.
+The source of where i learned how to produce a GitHub fork and clone was from the following pages of the GitHub Documentation. Although i did not use a fork or clone in this project it is something i hope to implement to future projects now i have the knowledge to do so.
 
 - https://docs.github.com/en/get-started/quickstart/fork-a-repo
 - https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
