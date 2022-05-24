@@ -469,6 +469,75 @@ The website was tested on the following web browsers:
 
 ### Testing User Stories
 
+#### First time users
+
+1. A first time user would want to easily understand the main purpose of the site.
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+2. A first time user would want to easily navigate the website to explore the content.
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+3. A first time user would want to find the websites socials to be able to further connect and legitimise how well known and trusted they are.
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+#### Returning users
+
+4. A returning user would want to be able to visit the news section to quickly be informed of any news whether it be on new drinks or announcements such as new events.
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+5. A returning user would like to use the contact form in order to book another table at the bar
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+6. A returning user would like to contact the site creator which can be done by using the easily found socials links on the footer of each page
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+#### Site owner
+
+7. Bring awareness to a broader audience of the existance of The Cocktail Bar thus increasing customer foot fall
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+8. Provide a way for new and existing customers to engage with the buisness
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+9. Provide a clear and hassle free method for customers to book a table via booking form.
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
 ## Bugs
 
 During the project i encountered a number of bugs some of which were solved some of which were not as stated below:
