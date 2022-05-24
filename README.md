@@ -328,6 +328,7 @@ You can make a local clone of a repository via the following steps:
 6. Update the current working direction to the location in which you would like the clone directory to be created.
 7. Type `git clone` and paste the previously copied URL at Step 4.
 8. `$ clone https://github.com/jkingportfolio/CI_PP1_TheCocktailBar`
+9. Now press enter and the local clone will be created at the desired local location
 
 ## Credits
 
@@ -372,6 +373,13 @@ The use of reference books were used throughout the creation of this project and
 
 - The use of "CSS Pocket Reference" written by Eric A. Meyer, Published by O'Reilly
 - The use "HTML5 Pocket Reference" written by Jennifer Niederst Robbins, Published by O'Reilly
+
+### Misc
+
+The source of where i learned how to produce a GitHub fork and clone was from the following pages of the GitHub Documentation.
+
+- https://docs.github.com/en/get-started/quickstart/fork-a-repo
+- https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 
 ## Acknowledgements
