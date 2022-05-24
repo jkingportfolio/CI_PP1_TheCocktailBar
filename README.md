@@ -262,15 +262,27 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
 #### Customer reviews
 
-There is a 
+There is a customer review section.
+
+- This provides feedback for not only potential customers but also the bar itself to further improve
+- By having customers faces here shows that the bar has real clients
 
 ![Customer reviews](docs/features/feature-customer-reviews.png)
 
 #### News
 
+The news section is made up of 6 blocks
+- Each block communicates one of several updates to the user
+- Each block has a hover over effect
+
 ![News](docs/features/feature-news.png)
 
 #### Menu
+
+The menu section is split into 3 categories and provides the user with the following:
+- The name of the cocktail
+- The price of the cocktail
+- The use of a sticky header allows the user to know what category the current cocktails are even when scrolling down the page until the point in which the next category is reached.
 
 ![Menu](docs/features/feature-menu.png)
 
