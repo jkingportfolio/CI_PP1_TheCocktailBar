@@ -78,25 +78,26 @@ Developer: Jamie King
 
 #### First time user
 
-- As a first time user i would want to gain insight as to what type of establishment the bar is
-- As a first time user i would want to know where the bar is located
-- As a first time user i would want to know the opening hours of the bar
-- As a first time user i would want to know the drinks available and their prices
+1. As a first time user i would want to gain insight as to what type of establishment the bar is
+2. As a first time user i would want to know more about the bar	
+3. As a first time user i would want to know where the bar is located
+4. As a first time user i would want to know the opening hours of the bar
+5. As a first time user i would want to know the drinks available and their prices
 
 #### Returning user
 
-- As a returning user i would want to know of recent news related to the bar
-- As a returning user i would want to see the menu
-- As a returning user i would want to find the phone number to book a table via telephone
-- As a returning use i would want to see the opening times
-- As a returning user i would want to book a table via an online booking system
-- As a returning user i would want to find the owners social media accounts
+6. As a returning user i would want to know of recent news related to the bar
+7. As a returning user i would want to see the menu
+8. As a returning user i would want to find the phone number to book a table via telephone
+9. As a returning use i would want to see the opening times
+10. As a returning user i would want to book a table via an online booking system
+11. As a returning user i would want to find the owners social media accounts
 
 #### Site owner
 
-- As a site owner i would like to introduce the bar to potential clients
-- As the site owner i would want to be able to take bookings via an online form booking system
-- As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
+12. As a site owner i would like to introduce the bar to potential clients
+13. As the site owner i would want to be able to take bookings via an online form booking system
+14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 ## Design
 
@@ -480,28 +481,35 @@ The website was tested on the following web browsers:
 
 #### First time users
 
-1. As a first time user would want to know where the bar is located
+1. As a first time user i would want to gain insight as to what type of establishment the bar is
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-2. As a first time user would want to know the opening hours of the bar
+2. As a first time user i would want to know more about the bar	
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-3. As a first time user would want to know the drinks available and their prices
+3. As a first time user i would want to know where the bar is located
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-4. As a first time user would want to gain insight as to what type of establishment the bar is
+4. As a first time user i would want to know the opening hours of the bar
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+5. As a first time user i would want to know the drinks available and their prices
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -510,44 +518,69 @@ The website was tested on the following web browsers:
 
 #### Returning users
 
-5. As a returning user would want to know of recent news related to the bar
+6. As a returning user i would want to know of recent news related to the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-6. As a returning user would want to find the phone number to book a table via telephone
+7. As a returning user i would want to see the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-7. As a returning user would want to book a table via an online booking system
+8. As a returning user i would want to find the phone number to book a table via telephone
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+
+9. As a returning use i would want to see the opening times
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+
+10. As a returning user i would want to book a table via an online booking system
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+
+11. As a returning user i would want to find the owners social media accounts
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
 
 #### Site owner
 
-8. As the site owner i would want to be able to take bookings via an online form booking system
+12. As a site owner i would like to introduce the bar to potential clients
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-9. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
+13. As the site owner i would want to be able to take bookings via an online form booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-10. Provide a clear and hassle free method for customers to book a table via booking form.
+14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
