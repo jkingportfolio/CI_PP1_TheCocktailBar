@@ -78,20 +78,23 @@ Developer: Jamie King
 
 #### First time user
 
-- As a first time user would want to know where the bar is located
-- As a first time user would want to know the opening hours of the bar
-- As a first time user would want to know the drinks available and their prices
-- As a first time user would want to gain insight as to what type of establishment the bar is
+- As a first time user i would want to gain insight as to what type of establishment the bar is
+- As a first time user i would want to know where the bar is located
+- As a first time user i would want to know the opening hours of the bar
+- As a first time user i would want to know the drinks available and their prices
 
 #### Returning user
 
-- As a returning user would want to know of recent news related to the bar
-- As a returning user would want to find the phone number to book a table via telephone
-- As a returning user would want to book a table via an online booking system
+- As a returning user i would want to know of recent news related to the bar
+- As a returning user i would want to see the menu
+- As a returning user i would want to find the phone number to book a table via telephone
+- As a returning use i would want to see the opening times
+- As a returning user i would want to book a table via an online booking system
+- As a returning user i would want to find the owners social media accounts
 
 #### Site owner
 
-- As the site owner i would want to know who we are
+- As a site owner i would like to introduce the bar to potential clients
 - As the site owner i would want to be able to take bookings via an online form booking system
 - As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
@@ -284,6 +287,12 @@ The menu section is split into 3 categories and provides the user with the follo
 
 ![Menu](docs/features/feature-menu.png)
 
+#### Gallery
+
+The Gallery page is a page that consists of a collection of images from the bar to give users a sense of what to expect
+
+![Gallery](docs/features/feautre-gallery.png)
+
 #### Form
 
 The contact form provides a way for the user to book a table at the bar by providing the following details
@@ -471,21 +480,28 @@ The website was tested on the following web browsers:
 
 #### First time users
 
-1. A first time user would want to easily understand the main purpose of the site.
+1. As a first time user would want to know where the bar is located
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-2. A first time user would want to easily navigate the website to explore the content.
+2. As a first time user would want to know the opening hours of the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-3. A first time user would want to find the websites socials to be able to further connect and legitimise how well known and trusted they are.
+3. As a first time user would want to know the drinks available and their prices
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+
+4. As a first time user would want to gain insight as to what type of establishment the bar is
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -494,21 +510,21 @@ The website was tested on the following web browsers:
 
 #### Returning users
 
-4. A returning user would want to be able to visit the news section to quickly be informed of any news whether it be on new drinks or announcements such as new events.
+5. As a returning user would want to know of recent news related to the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-5. A returning user would like to use the contact form in order to book another table at the bar
+6. As a returning user would want to find the phone number to book a table via telephone
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-6. A returning user would like to contact the site creator which can be done by using the easily found socials links on the footer of each page
+7. As a returning user would want to book a table via an online booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -517,21 +533,21 @@ The website was tested on the following web browsers:
 
 #### Site owner
 
-7. Bring awareness to a broader audience of the existance of The Cocktail Bar thus increasing customer foot fall
+8. As the site owner i would want to be able to take bookings via an online form booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-8. Provide a way for new and existing customers to engage with the buisness
+9. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell     | Content Cell  |
 
-9. Provide a clear and hassle free method for customers to book a table via booking form.
+10. Provide a clear and hassle free method for customers to book a table via booking form.
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
