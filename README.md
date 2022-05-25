@@ -1,5 +1,5 @@
 # The Cocktail Bar
-(Developer: Jamie King)
+Developer: Jamie King
 
 ![Responsive image](docs/am-i-responsive.png)
 
@@ -399,27 +399,27 @@ In the future as my skills grow i would like to implement the following features
 
 <details>
 <summary>Index</summary>
-<img src="docs/validation-html-css/accessibility-validation-index.png">
+<img src="docs/validation-accessibility/accessibility-validation-index.png">
 </details>
 <details>
 <summary>About</summary>
-<img src="docs/validation-html-css/accessibility-validation-about.png">
+<img src="docs/validation-accessibility/accessibility-validation-about.png">
 </details>
 <details>
 <summary>Menu</summary>
-<img src="docs/validation-html-css/accessibility-validation-menu.png">
+<img src="docs/validation-accessibility/accessibility-validation-menu.png">
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="docs/validation-html-css/accessibility-validation-gallery.png">
+<img src="docs/validation-accessibility/accessibility-validation-gallery.png">
 </details>
 <details>
 <summary>Contact</summary>
-<img src="docs/validation-html-css/accessibility-validation-contact-us.png">
+<img src="docs/validation-accessibility/accessibility-validation-contact-us.png">
 </details>
 <details>
 <summary>404 page</summary>
-<img src="docs/validation-html-css/accessibility-validation-404.png">
+<img src="docs/validation-accessibility/accessibility-validation-404.png">
 </details>
 
 - Icons from Font Awesome are used in the site. As they are for decorative purposes only, Font Awesome already populates the code to be copied with an aria-hidden="true" attribute to accomodate accessibility.
