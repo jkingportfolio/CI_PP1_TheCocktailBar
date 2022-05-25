@@ -514,30 +514,30 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Gallery  | Using the Nav Bar navigate to the Gallery page  | Gallery page opens and displays all images     | Worked as intended  |
-| Video  | Navigate to the About page, scroll down to video  | Video is displayed on page ready to play, this will not autoplay     | Worked as intended  |
+| Gallery  | Using the Nav Bar navigate to the Gallery page  | Gallery page opens and displays all images     | Works as intended  |
+| Video  | Navigate to the About page, scroll down to video  | Video is displayed on page ready to play, this will not autoplay     | Works as intended  |
 
 2. As a first time user i would want to know more about the bar	
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Our Story  | Content Cell  | Content Cell     | Content Cell  |
-| Customer reviews | Content Cell  | Content Cell     | Content Cell  |
+| Our Story  | Navigate to the About page, Our story is located at the top of the page  | To be presented with information about the bar    | Works as intended  |
+| Customer reviews | Navigate to the About page, scroll down to customer views section  | To be presented with customer reviews of the bar     | Works as intended  |
 
 3. As a first time user i would want to know where the bar is located
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-|Visit us  | Content Cell  | Content Cell     | Content Cell  |
-| Map  | Content Cell  | Content Cell     | Content Cell  |
-| Footer - contact section  | Scroll down to the footer section on any page   | Content Cell     | Content Cell  |
-| Where to find us  | Content Cell  | Content Cell     | Content Cell  |
+|Visit us  | On Home page scroll down to Visit us section and click on the Visit us button  | To be taken to the contact page to see the map and address of the bar     | Works as intended  |
+| Map  | Navigate to the Contact page  | To be presented with a map of the bar location    | Works as intended  |
+| Footer - contact section  | Scroll down to the footer section on any page   | To be provided with bar location details     | Works as intended  |
+| Where to find us  | Navigate to the Contact page to view the where to find us section on the   | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
 
 4. As a first time user i would want to know the opening hours of the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Footer - Opening times section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
+| Footer - Opening times section  | Scroll down to the footer section on any page  | To be provided with opening times     | Content Cell  |
 
 5. As a first time user i would want to know the drinks available and their prices
 
