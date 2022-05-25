@@ -291,9 +291,9 @@ The menu section is split into 3 categories and provides the user with the follo
 
 The Gallery page is a page that consists of a collection of images from the bar to give users a sense of what to expect
 
-![Gallery](docs/features/feautre-gallery.png)
+![Gallery](docs/features/feature-gallery.png)
 
-#### Form
+#### Contact Form
 
 The contact form provides a way for the user to book a table at the bar by providing the following details
 - Name
