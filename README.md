@@ -514,36 +514,36 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Gallery  | Using the Nav Bar navigate to the Gallery page  | Gallery page opens and displays all images     | Worked as intended  |
+| Video  | Navigate to the About page, scroll down to video  | Video is displayed on page ready to play, this will not autoplay     | Worked as intended  |
 
 2. As a first time user i would want to know more about the bar	
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Our Story  | Content Cell  | Content Cell     | Content Cell  |
+| Customer reviews | Content Cell  | Content Cell     | Content Cell  |
 
 3. As a first time user i would want to know where the bar is located
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+|Visit us  | Content Cell  | Content Cell     | Content Cell  |
+| Map  | Content Cell  | Content Cell     | Content Cell  |
+| Footer - contact section  | Scroll down to the footer section on any page   | Content Cell     | Content Cell  |
+| Where to find us  | Content Cell  | Content Cell     | Content Cell  |
 
 4. As a first time user i would want to know the opening hours of the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Footer - Opening times section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
 
 5. As a first time user i would want to know the drinks available and their prices
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Menu  | Content Cell  | Content Cell     | Content Cell  |
 
 #### Returning users
 
@@ -551,47 +551,44 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Whats new  | Content Cell  | Content Cell     | Content Cell  |
+| News  | Content Cell  | Content Cell     | Content Cell  |
 
 7. As a returning user i would want to see the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Our Menu  | Content Cell  | Content Cell     | Content Cell  |
+| Menu  | Content Cell  | Content Cell     | Content Cell  |
 
 8. As a returning user i would want to find the phone number to book a table via telephone
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Footer - Contact section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
+| Where to find us  | Content Cell  | Content Cell     | Content Cell  |
 
 
 9. As a returning use i would want to see the opening times
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Footer - Opening times section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
+| Where to find us  | Content Cell  | Content Cell     | Content Cell  |
 
 
 10. As a returning user i would want to book a table via an online booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Contact form  | Content Cell  | Content Cell     | Content Cell  |
 
 
 11. As a returning user i would want to find the owners social media accounts
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-
+| Footer - Socials section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
 
 #### Site owner
 
@@ -599,22 +596,22 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Our story  | Content Cell  | Content Cell     | Content Cell  |
+
 
 13. As the site owner i would want to be able to take bookings via an online form booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| Contact form  | Content Cell  | Content Cell     | Content Cell  |
+
 
 14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell     | Content Cell  |
+| News  | Content Cell  | Content Cell     | Content Cell  |
+
 
 ## Bugs
 
