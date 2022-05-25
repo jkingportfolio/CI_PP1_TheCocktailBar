@@ -517,12 +517,20 @@ The website was tested on the following web browsers:
 | Gallery  | Using the Nav Bar navigate to the Gallery page  | Gallery page opens and displays all images     | Works as intended  |
 | Video  | Navigate to the About page, scroll down to video  | Video is displayed on page ready to play, this will not autoplay     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 2. As a first time user i would want to know more about the bar	
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Our Story  | Navigate to the About page, Our story is located at the top of the page  | To be presented with information about the bar    | Works as intended  |
 | Customer reviews | Navigate to the About page, scroll down to customer views section  | To be presented with customer reviews of the bar     | Works as intended  |
+
+<summary>Screenshots</summary>
+<img src="">
+</details>
 
 3. As a first time user i would want to know where the bar is located
 
@@ -532,6 +540,10 @@ The website was tested on the following web browsers:
 | Map  | Navigate to the Contact page  | To be presented with a map of the bar location    | Works as intended  |
 | Footer - contact section  | Scroll down to the footer section on any page   | To be provided with bar location details     | Works as intended  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
+
+<summary>Screenshots</summary>
+<img src="">
+</details>
 
 4. As a first time user i would want to know the opening hours of the bar
 
@@ -545,6 +557,10 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 #### Returning users
 
 6. As a returning user i would want to know of recent news related to the bar
@@ -554,6 +570,10 @@ The website was tested on the following web browsers:
 | Whats new  | On the home page scroll down to the whats new section and click on the whats new button  | To be taken to the News section on the About page     | Works as intended  |
 | News  | Navigate to the About page, scroll down to the news section  | To view the news section at the bottom of the page     | works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 7. As a returning user i would want to see the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
@@ -561,12 +581,20 @@ The website was tested on the following web browsers:
 | Our Menu  | On the home page scroll down to the Our menu section  | To arrive at the menu page and be presented with information on drink types and prices      | Works as intended  |
 | Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 8. As a returning user i would want to find the phone number to book a table via telephone
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Footer - Contact section  | Scroll down to the footer section on any page  | To be presented with the phone number for the bar     | Works as intedned  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the phone number for the bar     | Works as intended  |
+
+<summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 9. As a returning use i would want to see the opening times
@@ -576,6 +604,10 @@ The website was tested on the following web browsers:
 | Footer - Opening times section  | Scroll down to the footer section on any page  | To be presented with the opening times for the bar     | Works as intended  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the opening time for the bar     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 10. As a returning user i would want to book a table via an online booking system
 
@@ -583,12 +615,20 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Contact form  | Navigate to the contact page and fill in the fields and click submit  | For the codeinstitute form dump page to display with all information that was entered     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 11. As a returning user i would want to find the owners social media accounts
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Footer - Socials section  | Scroll down to the footer section on any page  | To be provided with the icons for the relevant social channels which open in a new window upon clicking     | Works as intended  |
+
+<summary>Screenshots</summary>
+<img src="">
+</details>
 
 #### Site owner
 
@@ -598,6 +638,10 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Our story  | Navigate to the About page, Our story is located at the top of the page  | To be presented with information and background of the bar     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 13. As the site owner i would want to be able to take bookings via an online form booking system
 
@@ -605,12 +649,20 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Contact form  | Navigate to the contact page and fill in the fields and click submit  | For the codeinstitute form dump page to display with all information that was entered     | Works as intended  |
 
+<summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | News  | Navigate to the About page, scroll down to the news section  | To be presented with various updates and news related to the bar     | Works as intended  |
+
+<summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 ## Bugs
