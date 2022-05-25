@@ -531,19 +531,19 @@ The website was tested on the following web browsers:
 |Visit us  | On Home page scroll down to Visit us section and click on the Visit us button  | To be taken to the contact page to see the map and address of the bar     | Works as intended  |
 | Map  | Navigate to the Contact page  | To be presented with a map of the bar location    | Works as intended  |
 | Footer - contact section  | Scroll down to the footer section on any page   | To be provided with bar location details     | Works as intended  |
-| Where to find us  | Navigate to the Contact page to view the where to find us section on the   | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
+| Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
 
 4. As a first time user i would want to know the opening hours of the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Footer - Opening times section  | Scroll down to the footer section on any page  | To be provided with opening times     | Content Cell  |
+| Footer - Opening times section  | Scroll down to the footer section on any page  | To be provided with opening times     | Works as intended  |
 
 5. As a first time user i would want to know the drinks available and their prices
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Menu  | Content Cell  | Content Cell     | Content Cell  |
+| Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
 #### Returning users
 
@@ -551,44 +551,44 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Whats new  | Content Cell  | Content Cell     | Content Cell  |
-| News  | Content Cell  | Content Cell     | Content Cell  |
+| Whats new  | On the home page scroll down to the whats new section and click on the whats new button  | To be taken to the News section on the About page     | Works as intended  |
+| News  | Navigate to the About page, scroll down to the news section  | To view the news section at the bottom of the page     | works as intended  |
 
 7. As a returning user i would want to see the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Our Menu  | Content Cell  | Content Cell     | Content Cell  |
-| Menu  | Content Cell  | Content Cell     | Content Cell  |
+| Our Menu  | On the home page scroll down to the Our menu section  | To arrive at the menu page and be presented with information on drink types and prices      | Works as intended  |
+| Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
 8. As a returning user i would want to find the phone number to book a table via telephone
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Footer - Contact section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
-| Where to find us  | Content Cell  | Content Cell     | Content Cell  |
+| Footer - Contact section  | Scroll down to the footer section on any page  | To be presented with the phone number for the bar     | Works as intedned  |
+| Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the phone number for the bar     | Works as intended  |
 
 
 9. As a returning use i would want to see the opening times
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Footer - Opening times section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
-| Where to find us  | Content Cell  | Content Cell     | Content Cell  |
+| Footer - Opening times section  | Scroll down to the footer section on any page  | To be presented with the opening times for the bar     | Works as intended  |
+| Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the opening time for the bar     | Works as intended  |
 
 
 10. As a returning user i would want to book a table via an online booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Contact form  | Content Cell  | Content Cell     | Content Cell  |
+| Contact form  | Navigate to the contact page and fill in the fields and click submit  | For the codeinstitute form dump page to display with all information that was entered     | Works as intended  |
 
 
 11. As a returning user i would want to find the owners social media accounts
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Footer - Socials section  | Scroll down to the footer section on any page  | Content Cell     | Content Cell  |
+| Footer - Socials section  | Scroll down to the footer section on any page  | To be provided with the icons for the relevant social channels which open in a new window upon clicking     | Works as intended  |
 
 #### Site owner
 
@@ -596,21 +596,21 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Our story  | Content Cell  | Content Cell     | Content Cell  |
+| Our story  | Navigate to the About page, Our story is located at the top of the page  | To be presented with information and background of the bar     | Works as intended  |
 
 
 13. As the site owner i would want to be able to take bookings via an online form booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Contact form  | Content Cell  | Content Cell     | Content Cell  |
+| Contact form  | Navigate to the contact page and fill in the fields and click submit  | For the codeinstitute form dump page to display with all information that was entered     | Works as intended  |
 
 
 14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| News  | Content Cell  | Content Cell     | Content Cell  |
+| News  | Navigate to the About page, scroll down to the news section  | To be presented with various updates and news related to the bar     | Works as intended  |
 
 
 ## Bugs
