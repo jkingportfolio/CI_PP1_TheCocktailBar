@@ -193,13 +193,13 @@ In its entirety the website consists of five main pages, one 404 error page and 
 
 #### Nav Bar 
 
-- The navigation bar is featured on all five main pages and the error 404 page and includes 5 clickable links:
+The navigation bar is featured on all five main pages and the error 404 page and includes 5 clickable links:
 
-    - Home
-    - About
-    - Menu
-    - Gallery
-    - Contact
+- Home
+- About
+- Menu
+- Gallery
+- Contact
 
 - It is fully resposive due to using the Bootstrap v5.0.2 nav bar which then produces a toggler menu for smaller screens. 
 - The navigation bar is located at the top of every page in the same location and allows users to navigate seamlessly through the site.
@@ -222,7 +222,7 @@ In its entirety the website consists of five main pages, one 404 error page and 
 When visiting the website and initially being directed to the home page the user is greeted by the hero image on both desktop and mobile.
 
 - The hero image sets the scene of the site indicating that the website is for a cocktail bar
-- The hero image also has a "zoom" effect to give the user a feeling of immersion into the website.
+- The hero image also has a "zoom" effect to give the user a feeling of immersion into the website. 
 
 ![Hero Image](docs/features/feature-hero-image.png)
 
@@ -233,15 +233,21 @@ The home page includes 3 sub sections in which each will lead the user to the ar
 - Whats new
     - Includes an image, a text explanation and a button which will link directly to the news section on the about page. This was done by using an id link
 
+- Covered in user stories: 6
+
 ![Whats new section](docs/features/feature-whats-new.png)
 
 - Our Menu
     - Includes an image, a text explanation and a button which will link directly to the menu page.
 
+- Covered in user stories: 7
+
 ![Our menu section](docs/features/feature-our-menu.png)
 
 - Visit us
     - Includes an image, a text explanation and a button which will link directly to the menu page.
+
+- Covered in user stories: 3
 
 ![Visit us section](docs/features/feature-visit-us.png)
 
@@ -250,11 +256,15 @@ The home page includes 3 sub sections in which each will lead the user to the ar
 - The our story section gives a brief history of the bar 
 - At the bottom of the story is a signiture in gold to give the user a feeling of prestige in regards to the owner.
 
+- Covered in user stories: 2 & 12
+
 ![Our story section](docs/features/feature-our-story.png)
 
 #### YouTube video
 
-- There is an embedded video which is used to bring more life to the page
+There is an embedded video which is used to bring more life to the page
+
+- Covered in user stories: 1
 
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
@@ -269,22 +279,30 @@ There is a customer review section.
 - This provides feedback for not only potential customers but also the bar itself to further improve
 - By having customers faces here shows that the bar has real clients
 
+- Covered in user stories: 2
+
 ![Customer reviews](docs/features/feature-customer-reviews.png)
 
 #### News
 
 The news section is made up of 6 blocks
+
 - Each block communicates one of several updates to the user
 - Each block has a hover over effect
+
+- Covered in user stories: 6 & 14
 
 ![News](docs/features/feature-news.png)
 
 #### Menu
 
 The menu section is split into 3 categories and provides the user with the following:
+
 - The name of the cocktail
 - The price of the cocktail
 - The use of a sticky header allows the user to know what category the current cocktails are even when scrolling down the page until the point in which the next category is reached.
+
+- Covered in user stories: 5 & 7
 
 ![Menu](docs/features/feature-menu.png)
 
@@ -292,16 +310,21 @@ The menu section is split into 3 categories and provides the user with the follo
 
 The Gallery page is a page that consists of a collection of images from the bar to give users a sense of what to expect
 
+- Covered in user stories: 1
+
 ![Gallery](docs/features/feature-gallery.png)
 
 #### Contact Form
 
 The contact form provides a way for the user to book a table at the bar by providing the following details
+
 - Name
 - Email
 - Phone number 
 - Date and time
 - A text area for additional comments or questions
+
+- Covered in user stories: 10 & 13
 
 <p align="center">
 
@@ -311,7 +334,9 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 #### Google Map
 
-- An embedded google map is used to allow to use the find directions to the bar. (Please note due to this bar being fictional the location of the Bar has been generalised to be that of Aberdeen, Scotland)
+ An embedded google map is used to allow to use the find directions to the bar. (Please note due to this bar being fictional the location of the Bar has been generalised to be that of Aberdeen, Scotland)
+
+ - Covered in user stories: 3
 
 <p align="center">
 
@@ -323,6 +348,8 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 - The where to find us feature condenses all information needed to get in contact with the bar or locate it. 
 - For the mobile version this section is not displayed, this decision was made due to the fact it would mean it would sit directly above the footer contact which would perhaps look odd to the user.
+
+- Covered in user stories: 3 & 8
 
 <p align="center">
 
@@ -340,8 +367,10 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 - There are three clickable links
     - The email address in the contact section will open an email mailbox of the user in order for them to easily email the bar with any questions they may have
-- The GitHub icon which links to my own personal GitHub page for future showcasing of my projects
-- The linkedin icon which links to my own personal Linkedin page for networking with fellow coders or potential future employers
+    - The GitHub icon which links to my own personal GitHub page for future showcasing of my projects
+    - The linkedin icon which links to my own personal Linkedin page for networking with fellow coders or potential future employers
+
+- Covered in user stories: 3, 4, 8, 9 & 11
 
 - Desktop
 
