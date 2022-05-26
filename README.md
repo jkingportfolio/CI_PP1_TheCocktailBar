@@ -627,7 +627,7 @@ The website was tested on the following web browsers:
 <details>
 <summary>Screenshots</summary>
 <img src="docs/testing-user-stories/testing-user-stories-footer-opening-times.png">
-<img src="docs/testing-user-stories/testing-user-stories-whre-to-find-us.png">
+<img src="docs/testing-user-stories/testing-user-stories-where-to-find-us.png">
 </details>
 
 
@@ -637,8 +637,9 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Contact form  | Navigate to the contact page and fill in the fields and click submit  | For the codeinstitute form dump page to display with all information that was entered     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-contact-form-entered.png">
 </details>
 
 
@@ -648,9 +649,11 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Footer - Socials section  | Scroll down to the footer section on any page  | To be provided with the icons for the relevant social channels which open in a new window upon clicking     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-footer-socials.png">
 </details>
+
 
 #### Site owner
 
@@ -660,9 +663,11 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Our story  | Navigate to the About page, Our story is located at the top of the page  | To be presented with information and background of the bar     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-our-story.png">
 </details>
+
 
 
 13. As the site owner i would want to be able to take bookings via an online form booking system
@@ -671,9 +676,11 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Contact form  | Navigate to the contact page and fill in the fields and click submit  | For the codeinstitute form dump page to display with all information that was entered     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-contact-form-entered.png">
 </details>
+
 
 
 14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
@@ -682,9 +689,11 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | News  | Navigate to the About page, scroll down to the news section  | To be presented with various updates and news related to the bar     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-news.png">
 </details>
+
 
 
 ## Bugs
