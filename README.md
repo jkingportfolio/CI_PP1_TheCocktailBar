@@ -549,7 +549,7 @@ The website was tested on the following web browsers:
 <summary>Screenshots</summary>
 <img src="docs/testing-user-stories/testing-user-stories-visit-us.png">
 <img src="docs/testing-user-stories/testing-user-stories-map.png">
-<img src="docs/testing-user-stories/testing-user-stories-footer.png">
+<img src="docs/testing-user-stories/testing-user-stories-footer-contact.png">
 <img src="docs/testing-user-stories/testing-user-stories-where-to-find-us.png">
 </details>
 
@@ -559,14 +559,20 @@ The website was tested on the following web browsers:
 | ------------- | ------------- | -------------    | ------------- |
 | Footer - Opening times section  | Scroll down to the footer section on any page  | To be provided with opening times     | Works as intended  |
 
+<details>
+<summary>Screenshots</summary>
+<img src="docs/testing-user-stories/testing-user-stories-footer-opening-times.png">
+</details>
+
 5. As a first time user i would want to know the drinks available and their prices
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 | Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-menu.png">
 </details>
 
 #### Returning users
@@ -578,8 +584,10 @@ The website was tested on the following web browsers:
 | Whats new  | On the home page scroll down to the whats new section and click on the whats new button  | To be taken to the News section on the About page     | Works as intended  |
 | News  | Navigate to the About page, scroll down to the news section  | To view the news section at the bottom of the page     | works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-whats-new.png">
+<img src="docs/testing-user-stories/testing-user-stories-news.png">
 </details>
 
 7. As a returning user i would want to see the menu
@@ -589,8 +597,10 @@ The website was tested on the following web browsers:
 | Our Menu  | On the home page scroll down to the Our menu section  | To arrive at the menu page and be presented with information on drink types and prices      | Works as intended  |
 | Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-our-menu.png">
+<img src="docs/testing-user-stories/testing-user-stories-menu.png">
 </details>
 
 8. As a returning user i would want to find the phone number to book a table via telephone
@@ -600,8 +610,10 @@ The website was tested on the following web browsers:
 | Footer - Contact section  | Scroll down to the footer section on any page  | To be presented with the phone number for the bar     | Works as intedned  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the phone number for the bar     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-footer-contact.png">
+<img src="docs/testing-user-stories/testing-user-stories-whre-to-find-us.png">
 </details>
 
 
@@ -612,8 +624,10 @@ The website was tested on the following web browsers:
 | Footer - Opening times section  | Scroll down to the footer section on any page  | To be presented with the opening times for the bar     | Works as intended  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the opening time for the bar     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-footer-opening-times.png">
+<img src="docs/testing-user-stories/testing-user-stories-whre-to-find-us.png">
 </details>
 
 
