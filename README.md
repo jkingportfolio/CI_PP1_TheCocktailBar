@@ -517,6 +517,7 @@ The website was tested on the following web browsers:
 | Gallery  | Using the Nav Bar navigate to the Gallery page  | Gallery page opens and displays all images     | Works as intended  |
 | Video  | Navigate to the About page, scroll down to video  | Video is displayed on page ready to play, this will not autoplay     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
 <img src="docs/testing-user-stories/testing-user-stories-gallery.png">
 <img src="docs/testing-user-stories/testing-user-stories-video.png">
@@ -529,6 +530,7 @@ The website was tested on the following web browsers:
 | Our Story  | Navigate to the About page, Our story is located at the top of the page  | To be presented with information about the bar    | Works as intended  |
 | Customer reviews | Navigate to the About page, scroll down to customer views section  | To be presented with customer reviews of the bar     | Works as intended  |
 
+<details>
 <summary>Screenshots</summary>
 <img src="docs/testing-user-stories/testing-user-stories-our-story.png">
 <img src="docs/testing-user-stories/testing-user-stories-customer-reviews.png">
@@ -543,6 +545,7 @@ The website was tested on the following web browsers:
 | Footer - contact section  | Scroll down to the footer section on any page   | To be provided with bar location details     | Works as intended  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
 
+<details>
 <summary>Screenshots</summary>
 <img src="docs/testing-user-stories/testing-user-stories-visit-us.png">
 <img src="docs/testing-user-stories/testing-user-stories-map.png">
