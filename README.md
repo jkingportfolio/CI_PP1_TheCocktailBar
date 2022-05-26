@@ -518,7 +518,8 @@ The website was tested on the following web browsers:
 | Video  | Navigate to the About page, scroll down to video  | Video is displayed on page ready to play, this will not autoplay     | Works as intended  |
 
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-gallery.png">
+<img src="docs/testing-user-stories/testing-user-stories-video.png">
 </details>
 
 2. As a first time user i would want to know more about the bar	
@@ -529,7 +530,8 @@ The website was tested on the following web browsers:
 | Customer reviews | Navigate to the About page, scroll down to customer views section  | To be presented with customer reviews of the bar     | Works as intended  |
 
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-our-story.png">
+<img src="docs/testing-user-stories/testing-user-stories-customer-reviews.png">
 </details>
 
 3. As a first time user i would want to know where the bar is located
@@ -542,7 +544,10 @@ The website was tested on the following web browsers:
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
 
 <summary>Screenshots</summary>
-<img src="">
+<img src="docs/testing-user-stories/testing-user-stories-visit-us.png">
+<img src="docs/testing-user-stories/testing-user-stories-map.png">
+<img src="docs/testing-user-stories/testing-user-stories-footer.png">
+<img src="docs/testing-user-stories/testing-user-stories-where-to-find-us.png">
 </details>
 
 4. As a first time user i would want to know the opening hours of the bar
