@@ -689,6 +689,39 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-news.png">
 </details>
 
+15. As a site owner i would like users to be able to easily navigate the site, creating a nice user experience
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Nav Bar  | Scroll to the top of any page and use the Nav bar to navigate to any page on the site  | To have the ability to easily navigate to each page of the site     | Works as intended  |
+
+<details>
+<summary>Screenshots</summary>
+<img src="docs/testing-user-stories/testing-user-stories-.png">
+</details>
+
+16. As a site owner i would like the user to intially be presented with a striking image to generate excitement about the site and the bar itself
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| Hero image  | Navigate to the Home page and at the top of the page you will be presented with the Hero image  | To be presented with an image that draws the users interest into the website     | Works as intended  |
+
+<details>
+<summary>Screenshots</summary>
+<img src="docs/testing-user-stories/testing-user-stories-.png">
+</details>
+
+17. As a site owner i would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
+
+| Feature       | Action        | Expected Result  | Actual Result |
+| ------------- | ------------- | -------------    | ------------- |
+| 404 error page  | Navigate to a page on the site that does not exist  | To be presented with 404 error page in which a user can navigate back to the home page via the return home button or use the bav bar to go to their desired page     | Works as intended  |
+
+<details>
+<summary>Screenshots</summary>
+<img src="docs/testing-user-stories/testing-user-stories-.png">
+</details>
+
 
 
 ## Bugs
