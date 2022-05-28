@@ -272,7 +272,7 @@ There is an embedded video which is used to bring more life to the page
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
+alt="Cinematic video of a Cocktail batender making a cocktail" width="240" height="180"/></a>
 </p>
 
 #### Customer reviews
@@ -781,7 +781,7 @@ You can make a local clone of a repository via the following steps:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
 " target="_blank"><img src="http://img.youtube.com/vi/qH4Cge_ED-4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
+alt="Cinematic video of a Cocktail batender making a cocktail" width="240" height="180"/></a>
 
 ### Code
 
