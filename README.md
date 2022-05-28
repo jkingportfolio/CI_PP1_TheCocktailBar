@@ -10,21 +10,21 @@ Developer: Jamie King
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
         1. [First time users](#first-time-users)
-        2. [Returning users](returning-users)
+        2. [Returning users](#returning-users)
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
-    1. [Target Audience](#tager-audience)
-    2. [User Requirements / Expectations](#user-requirements-expectations)
+    1. [Target Audience](#target-audience)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colour](#colour)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies)
-    1. [Languages](#languages)
-    2. [Frameworks and Tools](#frameworks-tools)
+    1. [Coding Languages](#coding-languages)
+    2. [Frameworks and Tools](#frameworks-and-tools)
 5. [Features](#features)
 6. [Testing](#testing)
     1. [HTML Valiadation](#html-validation)
@@ -66,7 +66,7 @@ Developer: Jamie King
 - People looking to find a venue for an event such a birthday
 - People looking for a venue to relax with friends
 
-### User requirements and expectations
+### User Requirements and Expectations
 
 - Find information easy and quick
 - Navigate the pages easily
@@ -177,7 +177,7 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 - HTML
 - CSS
 
-### Frameworks and tools
+### Frameworks and Tools
 - Balsamiq
 - Git
 - Github
