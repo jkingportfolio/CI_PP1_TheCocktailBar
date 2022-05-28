@@ -214,11 +214,7 @@ The navigation bar is featured on all five main pages and the error 404 page and
 
 ##### Mobile
 
-<p align="center">
-
 ![Nav Bar Mobile](docs/features/feature-nav-bar-mobile.png)
-
-</p>
 
 #### Hero Image
 
@@ -329,11 +325,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 - Covered in user stories: 10 & 13
 
-<p align="center">
-
 ![Form](docs/features/feature-form.png)
-
-</p>
 
 #### Google Map
 
@@ -341,11 +333,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 
  - Covered in user stories: 3
 
-<p align="center">
-
 ![Google Map](docs/features/feature-map.png)
-
-</p>
 
 #### Where to find us
 
@@ -354,11 +342,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 - Covered in user stories: 3 & 8
 
-<p align="center">
-
 ![where to find us](docs/features/feature-where-to-find-us.png)
-
-</p>
 
 #### Footer
 
@@ -380,11 +364,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 ![Footer Desktop](docs/features/feature-footer-tablet-desktop.png)
 - Mobile
 
-<p align="center">
-
 ![Footer Desktop](docs/features/feature-footer-mobile.png)
-
-</p>
 
 #### 404 error page
 
