@@ -831,3 +831,4 @@ The source of where i learned how to produce a GitHub fork and clone was from th
 I would like to also thank the following:
 - My wife and family for their support and feedback whilst doing this project
 - My fellow Code Institute students whom i have bounced ideas and problems back and forth with via Slack
+- My course mentor Mo Shami for the help on the readme file layout
