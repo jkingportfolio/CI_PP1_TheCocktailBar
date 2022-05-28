@@ -208,6 +208,8 @@ The navigation bar is featured on all five main pages and the error 404 page and
 - The navigation bar is located at the top of every page in the same location and allows users to navigate seamlessly through the site.
 - A hover effect on the text of the navigation bar text allows the user to understand that it is a clickable link. Upon clicking the link the user will be taken to the desired page
 
+- Covered in user story: 15
+
 ##### Desktop 
 
 ![Nav Bar Desktop](docs/features/feature-nav-bar-tablet-desktop.png)
@@ -223,6 +225,8 @@ When visiting the website and initially being directed to the home page the user
 - The hero image sets the scene of the site indicating that the website is for a cocktail bar
 - The hero image also has a "zoom" effect to give the user a feeling of immersion into the website. 
 
+- Covered in user story: 16
+
 ![Hero Image](docs/features/feature-hero-image.png)
 
 #### Index page sections
@@ -232,21 +236,21 @@ The home page includes 3 sub sections in which each will lead the user to the ar
 - Whats new
     - Includes an image, a text explanation and a button which will link directly to the news section on the about page. This was done by using an id link
 
-- Covered in user stories: 6
+- Covered in user story: 6
 
 ![Whats new section](docs/features/feature-whats-new.png)
 
 - Our Menu
     - Includes an image, a text explanation and a button which will link directly to the menu page.
 
-- Covered in user stories: 7
+- Covered in user story: 7
 
 ![Our menu section](docs/features/feature-our-menu.png)
 
 - Visit us
     - Includes an image, a text explanation and a button which will link directly to the menu page.
 
-- Covered in user stories: 3
+- Covered in user story: 3
 
 ![Visit us section](docs/features/feature-visit-us.png)
 
@@ -263,7 +267,7 @@ The home page includes 3 sub sections in which each will lead the user to the ar
 
 There is an embedded video which is used to bring more life to the page
 
-- Covered in user stories: 1
+- Covered in user story: 1
 
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qH4Cge_ED-4
@@ -278,7 +282,7 @@ There is a customer review section.
 - This provides feedback for not only potential customers but also the bar itself to further improve
 - By having customers faces here shows that the bar has real clients
 
-- Covered in user stories: 2
+- Covered in user story: 2
 
 ![Customer reviews](docs/features/feature-customer-reviews.png)
 
@@ -309,7 +313,7 @@ The menu section is split into 3 categories and provides the user with the follo
 
 The Gallery page is a page that consists of a collection of images from the bar to give users a sense of what to expect
 
-- Covered in user stories: 1
+- Covered in user story: 1
 
 ![Gallery](docs/features/feature-gallery.png)
 
@@ -331,7 +335,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 
  An embedded google map is used to allow to use the find directions to the bar. (Please note due to this bar being fictional the location of the Bar has been generalised to be that of Aberdeen, Scotland)
 
- - Covered in user stories: 3
+ - Covered in user story: 3
 
 ![Google Map](docs/features/feature-map.png)
 
@@ -369,6 +373,8 @@ The contact form provides a way for the user to book a table at the bar by provi
 #### 404 error page
 
 - The 404 error page features is used when a user tries to navigate to a page that does not exist. This page will allow users to navigate back to the home page via the return home button or by clicking on any of the nav bar links creating a good user experience that does not require the use of the browser back button.
+
+- Covered in user story: 17
 
 ![where to find us](docs/features/feature-404-page.png)
 
