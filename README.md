@@ -608,7 +608,7 @@ The website was tested on the following web browsers:
 <details>
 <summary>Screenshots</summary>
 <img src="docs/testing-user-stories/testing-user-stories-footer-contact.png">
-<img src="docs/testing-user-stories/testing-user-stories-whre-to-find-us.png">
+<img src="docs/testing-user-stories/testing-user-stories-where-to-find-us.png">
 </details>
 
 
