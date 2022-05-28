@@ -697,7 +697,7 @@ The website was tested on the following web browsers:
 
 <details>
 <summary>Screenshots</summary>
-<img src="docs/testing-user-stories/testing-user-stories-.png">
+<img src="docs/testing-user-stories/testing-user-stories-nav-bar.png">
 </details>
 
 16. As a site owner i would like the user to intially be presented with a striking image to generate excitement about the site and the bar itself
@@ -708,7 +708,7 @@ The website was tested on the following web browsers:
 
 <details>
 <summary>Screenshots</summary>
-<img src="docs/testing-user-stories/testing-user-stories-.png">
+<img src="docs/testing-user-stories/testing-user-stories-hero-image.png">
 </details>
 
 17. As a site owner i would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
@@ -719,7 +719,7 @@ The website was tested on the following web browsers:
 
 <details>
 <summary>Screenshots</summary>
-<img src="docs/testing-user-stories/testing-user-stories-.png">
+<img src="docs/testing-user-stories/testing-user-stories-404-page.png">
 </details>
 
 
