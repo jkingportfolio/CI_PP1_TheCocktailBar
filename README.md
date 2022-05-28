@@ -386,6 +386,12 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 </p>
 
+#### 404 error page
+
+- The 404 error page features is used when a user tries to navigate to a page that does not exist. This page will allow users to navigate back to the home page via the return home button or by clicking on any of the nav bar links creating a good user experience that does not require the use of the browser back button.
+
+![where to find us](docs/features/feature-404-page.png)
+
 ### Future implementations
 
 In the future as my skills grow i would like to implement the following features:
