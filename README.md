@@ -730,7 +730,7 @@ During the project i encountered a number of bugs some of which were solved some
 
 | Bug           | Fix           |
 | ------------- | ------------- |
-| On the 404 error page the footer would sit high and be very long due to there not being much content on the page  | Adding a div called empty-space-container which states the min-height: 80vh; ensured the main div was big enough that the footer error would not occur |
+| On the 404 error page the footer would sit high and obstruct the return home button  | Adding a class to the main div called empty-space-container which states the min-height: 80vh; ensured the main div was big enough that the footer error would not occur |
 | I wanted to provide a link from the new drink on the news blocks to the menu however the sticky header would obstruct the drink name when directed to the menu | Currently i could not think of a fix for this so i decided to not proceed with this feature to ensure there is a fully functioning website at the expense of one extra feature  
 |  On the contact section of the footer from 768px to 830px width the email text sits below the at sign icon |  The only fix i could think of for this was to reduce the font size however that would either involve having one piece of text smaller than the rest of the site which would not be go UI and the other option was to reduce the font size on all text which i didnt think looked good so it was kept as is for that small distance of pixel width
 
