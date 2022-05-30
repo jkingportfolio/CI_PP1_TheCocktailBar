@@ -204,6 +204,8 @@ The navigation bar is featured on all five main pages and the error 404 page. It
 - Gallery
 - Contact
 
+Other features of the Nav Bar include:
+
 - It is fully responsive due to using the Bootstrap v5.0.2 nav bar which then produces a toggler menu for smaller screens. 
 - The navigation bar is located at the top of every page in the same location and allows users to navigate seamlessly through the site.
 - A hover effect on the text of the navigation bar text allows the user to understand that it is a clickable link. Upon clicking the link the user will be taken to the desired page
