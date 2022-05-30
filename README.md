@@ -589,7 +589,7 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Our Menu  | On the home page scroll down to the Our menu section  | To arrive at the menu page and be presented with information on drink types and prices      | Works as intended  |
+| Our Menu  | On the home page scroll down to the Our menu section and click on the Our Menu button  | To arrive at the menu page and be presented with information on drink types and prices      | Works as intended  |
 | Menu  | Navigate to the Menu page  | To arrive at the menu page and be presented with information on drink types and prices     | Works as intended  |
 
 <details>
@@ -715,7 +715,7 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| 404 error page  | Navigate to a page on the site that does not exist  | To be presented with 404 error page in which a user can navigate back to the home page via the return home button or use the bav bar to go to their desired page     | Works as intended  |
+| 404 error page  | Navigate to a page on the site that does not exist, use the return home button or any links on the nav bar to navigate away from the error page  | To be presented with 404 error page in which a user can navigate back to the home page via the return home button or use the bav bar to go to their desired page     | Works as intended  |
 
 <details>
 <summary>Screenshots</summary>
