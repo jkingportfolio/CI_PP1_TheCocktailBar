@@ -154,6 +154,8 @@ a {
     overflow: hidden;
 }
 
+/* hero zoom code from CI love running project */
+
 @keyframes hero-zoom {
     from {
         transform: scale(1);
