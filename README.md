@@ -346,7 +346,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 - The where to find us feature condenses all information needed to get in contact with the bar or locate it. 
 - For the mobile version this section is not displayed. This decision was made due to the fact it would mean it would sit directly above the footer contact which would perhaps look odd to the user.
 
-- Covered in user stories: 3 & 8
+- Covered in user stories: 3, 8 & 9
 
 ![where to find us](docs/features/feature-where-to-find-us.png)
 
