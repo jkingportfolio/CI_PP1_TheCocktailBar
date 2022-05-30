@@ -89,18 +89,18 @@ Developer: Jamie King
 6. As a returning user I would want to know of recent news related to the bar
 7. As a returning user I would want to see the menu
 8. As a returning user I would want to find the phone number to book a table via telephone
-9. As a returning use I would want to see the opening times
+9. As a returning user I would want to see the opening times
 10. As a returning user I would want to book a table via an online booking system
-11. As a returning user I would want to find the owners social media accounts
+11. As a returning user I would want to find the owner's social media accounts
 
 #### Site owner
 
-12. As a site owner I would like to introduce the bar to potential clients
+12. As the site owner I would like to introduce the bar to potential clients
 13. As the site owner I would want to be able to take bookings via an online form booking system
-14. As the site owner I would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
-15. As a site owner I would like users to be able to easily navigate the site, creating a nice user experience
-16. As a site owner I would like the user to intially be presented with a striking image to generate excitement about the site and the bar itself
-17. As a site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
+14. As the site owner I would want to have the ability to let my customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
+15. As the site owner I would like users to be able to easily navigate the site, creating a nice user experience
+16. As the site owner I would like the user to initially be presented with a striking image to generate excitement about the site and the bar itself
+17. As the site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
 
 ## Design
 
@@ -538,7 +538,7 @@ The website was tested on the following web browsers:
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
 |Visit us  | On Home page scroll down to Visit us section and click on the Visit us button  | To be taken to the contact page to see the map and address of the bar     | Works as intended  |
-| Map  | Navigate to the Contact page  | To be presented with a map of the bar location    | Works as intended  |
+| Google Map  | Navigate to the Contact page  | To be presented with a map of the bar location    | Works as intended  |
 | Footer - contact section  | Scroll down to the footer section on any page   | To be provided with bar location details     | Works as intended  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be provided with bar location details     | Works as intended when on desktop, this will not work on mobile as it is a feature that is not display on displays smaller than 768px |
 
@@ -574,7 +574,7 @@ The website was tested on the following web browsers:
 
 #### Returning users
 
-6. As a returning user i would want to know of recent news related to the bar
+6. As a returning user I would want to know of recent news related to the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -614,7 +614,7 @@ The website was tested on the following web browsers:
 </details>
 
 
-9. As a returning use I would want to see the opening times
+9. As a returning user I would want to see the opening times
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -654,7 +654,7 @@ The website was tested on the following web browsers:
 
 #### Site owner
 
-12. As a site owner I would like to introduce the bar to potential clients
+12. As the site owner I would like to introduce the bar to potential clients
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -691,7 +691,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-news.png">
 </details>
 
-15. As a site owner I would like users to be able to easily navigate the site, creating a nice user experience
+15. As the site owner I would like users to be able to easily navigate the site, creating a nice user experience
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -702,7 +702,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-nav-bar.png">
 </details>
 
-16. As a site owner I would like the user to initially be presented with a striking image to generate excitement about the site and the bar itself
+16. As the site owner I would like the user to initially be presented with a striking image to generate excitement about the site and the bar itself
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -713,7 +713,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-hero-image.png">
 </details>
 
-17. As a site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
+17. As the site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
