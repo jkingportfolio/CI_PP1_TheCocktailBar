@@ -97,7 +97,7 @@ Developer: Jamie King
 
 12. As the site owner I would like to introduce the bar to potential clients
 13. As the site owner I would want to be able to take bookings via an online form booking system
-14. As the site owner I would want to have the ability to let my customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
+14. As the site owner I would want to have the ability to let my customers be aware of recent news such as cocktail tasting events, changes to opening hours and additions to the menu
 15. As the site owner I would like users to be able to easily navigate the site, creating a nice user experience
 16. As the site owner I would like the user to initially be presented with a striking image to generate excitement about the site and the bar itself
 17. As the site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
