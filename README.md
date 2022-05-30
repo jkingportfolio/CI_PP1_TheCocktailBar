@@ -46,7 +46,7 @@ Developer: Jamie King
 - #### First time users
     - A first time user would want to easily understand the main purpose of the site.
     - A first time user would want to easily navigate the website to explore the content.
-    - A first time user would want to find the websites socials to be able to further connect and legitimise how well known and trusted they are.
+    - A first time user would want to find the website's socials to be able to further connect and legitimise how well known and trusted they are.
 - #### Returning users
     - A returning user would want to be able to visit the news section to quickly be informed of any news whether it be on new drinks or announcements such as new events.
     - A returning user would like to use the contact form in order to book another table at the bar
@@ -54,63 +54,63 @@ Developer: Jamie King
 
 ### Site Owner Goals
 
-- Bring awareness to a broader audience of the existance of The Cocktail Bar thus increasing customer foot fall
-- Provide a way for new and existing customers to engage with the buisness
-- Provide a clear and hassle free method for customers to book a table via booking form.
+- Bring awareness to a broader audience of the existence of The Cocktail Bar thus increasing customer foot fall
+- Provide a way for new and existing customers to engage with the business
+- Provide a clear and hassle-free method for customers to book a table via booking form.
 
 ## User Experience
 
 ### Target Audience
 
 - People looking to have a casual drink
-- People looking to find a venue for an event such a birthday
+- People looking to find a venue for an event, such a birthday party
 - People looking for a venue to relax with friends
 
 ### User Requirements and Expectations
 
-- Find information easy and quick
-- Navigate the pages easily
+- Find information easily and quickly
+- Navigate the pages seamlessly
 - Links and website functions to act as expected
 - An easy way to book a table at the bar
-- Simple "too the point" content that which a user can quickly digest
+- Simple "to the point" content that a user can quickly digest
 
 ### User stories
 
 #### First time user
 
-1. As a first time user i would want to gain insight as to what type of establishment the bar is
-2. As a first time user i would want to know more about the bar	
-3. As a first time user i would want to know where the bar is located
-4. As a first time user i would want to know the opening hours of the bar
-5. As a first time user i would want to know the drinks available and their prices
+1. As a first time user I would want to gain insight as to what type of establishment the bar is
+2. As a first time user I would want to know more about the bar	
+3. As a first time user I would want to know where the bar is located
+4. As a first time user I would want to know the opening hours of the bar
+5. As a first time user I would want to know the drinks available and their prices
 
 #### Returning user
 
-6. As a returning user i would want to know of recent news related to the bar
-7. As a returning user i would want to see the menu
-8. As a returning user i would want to find the phone number to book a table via telephone
-9. As a returning use i would want to see the opening times
-10. As a returning user i would want to book a table via an online booking system
-11. As a returning user i would want to find the owners social media accounts
+6. As a returning user I would want to know of recent news related to the bar
+7. As a returning user I would want to see the menu
+8. As a returning user I would want to find the phone number to book a table via telephone
+9. As a returning use I would want to see the opening times
+10. As a returning user I would want to book a table via an online booking system
+11. As a returning user I would want to find the owners social media accounts
 
 #### Site owner
 
-12. As a site owner i would like to introduce the bar to potential clients
-13. As the site owner i would want to be able to take bookings via an online form booking system
-14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
-15. As a site owner i would like users to be able to easily navigate the site, creating a nice user experience
-16. As a site owner i would like the user to intially be presented with a striking image to generate excitement about the site and the bar itself
-17. As a site owner i would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
+12. As a site owner I would like to introduce the bar to potential clients
+13. As the site owner I would want to be able to take bookings via an online form booking system
+14. As the site owner I would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
+15. As a site owner I would like users to be able to easily navigate the site, creating a nice user experience
+16. As a site owner I would like the user to intially be presented with a striking image to generate excitement about the site and the bar itself
+17. As a site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
 
 ## Design
 
 ### Design Choices
 
-The website was designed with a simple monochrome theme in mind. This represents the simplicity of the website and the black and white transparency of the buisness to its customers.
+The website was designed with a simple monochrome theme in mind. This represents the simplicity of the website and the black and white transparency of the business to its customers.
 
 ### Colour
 
-The colour palette for the website is made up of 4 main colours and an addition one for the owners signiture
+The colour palette for the website is made up of 4 main colours and an additional one for the owner's signature
 
 - #000000 (Black)
 - #FFFFFF (White)
@@ -127,24 +127,24 @@ All colours contrast was tested using [EightShapes contrast grid](http://eightsh
 
 ### Fonts
 
-There were 3 fonts used in this project, they are stated below:
+There were 3 fonts used in this project, as stated below:
 - BIZ UDmincho with a backup of serif is the main font used throughout the website
-- open sans with a backup of serif was used for the button styles
-- Reenie Beanie with a back up of cursive was used for the owners signiture, this is the only place this font is used
+- Open Sans with a backup of serif was used for the button styles
+- Reenie Beanie with a backup of cursive was used for the owner's signature, this is the only place this font is used
 
 ### Structure
 
-The websites structure was carefully constructed with making it recognizable, user friendly and simple kept in mind. On arrival to the website the user will be presented with a hero image and a navigation bar which is uniform across all pages. The website is made of five individual pages:
+The website's structure was carefully constructed with making it recognizable, user friendly and simple kept in mind. On arrival to the website the user will be presented with a hero image and a navigation bar which is uniform across all pages. The website is made of five individual pages:
 
 - A homepage, with links to the key sections of the site
-- An about page, which describes a brief history of the buisness, has customer reviews and as news section
+- An about page, which describes a brief history of the business, has customer reviews and as news section
 - A menu page, which lists all drinks available
 - A gallery page, which consists of a showcase of images
-- A contact page, which consists of a booking form, map and where to find us area.
+- A contact page, which consists of a booking form, map and a "where to find us" area.
 
 ### Wireframes
 
-Balsamiq was used in the intial design stage to layout sketches of each page and its design intent
+Balsamiq was used in the initial design stage to layout sketches of each page and its design intent
 
 <details>
 <summary>Index</summary>
@@ -190,13 +190,13 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 
 ## Features
 
-In its entirety the website consists of five main pages, one 404 error page and 16 features, two of which have a mobile version and tablet / desktop version. 
+In its entirety the website consists of five main pages, one 404 error page and 16 features, two of which have a mobile version and tablet/desktop version. 
 
 ### Existing features
 
 #### Nav Bar 
 
-The navigation bar is featured on all five main pages and the error 404 page and includes 5 clickable links:
+The navigation bar is featured on all five main pages and the error 404 page. It includes 5 clickable links:
 
 - Home
 - About
@@ -204,7 +204,7 @@ The navigation bar is featured on all five main pages and the error 404 page and
 - Gallery
 - Contact
 
-- It is fully resposive due to using the Bootstrap v5.0.2 nav bar which then produces a toggler menu for smaller screens. 
+- It is fully responsive due to using the Bootstrap v5.0.2 nav bar which then produces a toggler menu for smaller screens. 
 - The navigation bar is located at the top of every page in the same location and allows users to navigate seamlessly through the site.
 - A hover effect on the text of the navigation bar text allows the user to understand that it is a clickable link. Upon clicking the link the user will be taken to the desired page
 
@@ -233,22 +233,22 @@ When visiting the website and initially being directed to the home page the user
 
 The home page includes 3 sub sections in which each will lead the user to the area they wish to visit in a quick manner.
 
-- Whats new
-    - Includes an image, a text explanation and a button which will link directly to the news section on the about page. This was done by using an id link
+- What's new
+    - Includes an image, a text explanation and a button which will link directly to the News section on the About page. This was done by using an id link
 
 - Covered in user story: 6
 
 ![Whats new section](docs/features/feature-whats-new.png)
 
 - Our Menu
-    - Includes an image, a text explanation and a button which will link directly to the menu page.
+    - Includes an image, a text explanation and a button which will link directly to the Menu page.
 
 - Covered in user story: 7
 
 ![Our menu section](docs/features/feature-our-menu.png)
 
 - Visit us
-    - Includes an image, a text explanation and a button which will link directly to the menu page.
+    - Includes an image, a text explanation and a button which will link directly to the Menu page.
 
 - Covered in user story: 3
 
@@ -256,8 +256,8 @@ The home page includes 3 sub sections in which each will lead the user to the ar
 
 #### Our Story
 
-- The our story section gives a brief history of the bar 
-- At the bottom of the story is a signiture in gold to give the user a feeling of prestige in regards to the owner.
+- The Our Story section gives a brief history of the bar 
+- At the bottom of the story is a signature in gold to give the user a feeling of prestige in regards to the owner.
 
 - Covered in user stories: 2 & 12
 
@@ -277,10 +277,10 @@ alt="Cinematic video of a Cocktail batender making a cocktail" width="240" heigh
 
 #### Customer reviews
 
-There is a customer review section.
+There is a Customer Reviews section.
 
 - This provides feedback for not only potential customers but also the bar itself to further improve
-- By having customers faces here shows that the bar has real clients
+- Having customers' faces here shows that the bar has real clients
 
 - Covered in user story: 2
 
@@ -288,7 +288,7 @@ There is a customer review section.
 
 #### News
 
-The news section is made up of 6 blocks
+The News section is made up of 6 blocks
 
 - Each block communicates one of several updates to the user
 - Each block has a hover over effect
@@ -299,7 +299,7 @@ The news section is made up of 6 blocks
 
 #### Menu
 
-The menu section is split into 3 categories and provides the user with the following:
+The Menu section is split into 3 categories and provides the user with the following:
 
 - The name of the cocktail
 - The price of the cocktail
@@ -319,7 +319,7 @@ The Gallery page is a page that consists of a collection of images from the bar 
 
 #### Contact Form
 
-The contact form provides a way for the user to book a table at the bar by providing the following details
+The contact form provides a way for the user to book a table at the bar by providing the following details:
 
 - Name
 - Email
@@ -333,7 +333,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 #### Google Map
 
- An embedded google map is used to allow to use the find directions to the bar. (Please note due to this bar being fictional the location of the Bar has been generalised to be that of Aberdeen, Scotland)
+ An embedded Google Map is used to allow the user to find directions to the bar. (Please note due to this bar being fictional the location of the bar has been generalised to be that of Aberdeen, Scotland)
 
  - Covered in user story: 3
 
@@ -342,7 +342,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 #### Where to find us
 
 - The where to find us feature condenses all information needed to get in contact with the bar or locate it. 
-- For the mobile version this section is not displayed, this decision was made due to the fact it would mean it would sit directly above the footer contact which would perhaps look odd to the user.
+- For the mobile version this section is not displayed. This decision was made due to the fact it would mean it would sit directly above the footer contact which would perhaps look odd to the user.
 
 - Covered in user stories: 3 & 8
 
@@ -359,7 +359,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 - There are three clickable links
     - The email address in the contact section will open an email mailbox of the user in order for them to easily email the bar with any questions they may have
     - The GitHub icon which links to my own personal GitHub page for future showcasing of my projects
-    - The linkedin icon which links to my own personal Linkedin page for networking with fellow coders or potential future employers
+    - The LinkedIn icon which links to my own personal LinkedIn page for networking with fellow coders or potential future employers
 
 - Covered in user stories: 3, 4, 8, 9 & 11
 
@@ -372,7 +372,7 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 #### 404 error page
 
-- The 404 error page features is used when a user tries to navigate to a page that does not exist. This page will allow users to navigate back to the home page via the return home button or by clicking on any of the nav bar links creating a good user experience that does not require the use of the browser back button.
+- The 404 error page feature is used when a user tries to navigate to a page that does not exist. This page will allow users to navigate back to the home page via the return home button or by clicking on any of the nav bar links creating a good user experience that does not require the use of the browser back button.
 
 - Covered in user story: 17
 
@@ -380,10 +380,10 @@ The contact form provides a way for the user to book a table at the bar by provi
 
 ### Future implementations
 
-In the future as my skills grow i would like to implement the following features:
+In the future as my skills grow I would like to implement the following features:
 
 - A downloadable PDF version of the menu
-- Create a functioning newletter
+- Create a functioning newsletter
 - Add a back up arrow button to the footer to provide the user with a quick and easy way to navigate back to the top of the page
 
 ## Testing
@@ -417,7 +417,7 @@ In the future as my skills grow i would like to implement the following features
 
 ### CSS Validation
 
-[W3C Jigsaw CSS validation](https://jigsaw.w3.org/css-validator/) was used to validate the CSS used in the website. The file passed and produced no errors if testing my own CSS however it did produced some warnings which are related to bootstrap 5.0.2
+[W3C Jigsaw CSS validation](https://jigsaw.w3.org/css-validator/) was used to validate the CSS used in the website. The file passed and produced no errors if testing my own CSS however it did produce some warnings which are related to Bootstrap 5.0.2
 <details>
 <summary>CSS styles</summary>
 <img src="docs/validation-html-css/validation-css-style.png">
@@ -456,7 +456,7 @@ In the future as my skills grow i would like to implement the following features
 <img src="docs/validation-accessibility/accessibility-validation-404.png">
 </details>
 
-- Icons from Font Awesome are used in the site. As they are for decorative purposes only, Font Awesome already populates the code to be copied with an aria-hidden="true" attribute to accomodate accessibility.
+- Icons from Font Awesome are used in the site. As they are for decorative purposes only, Font Awesome already populates the code to be copied with an aria-hidden="true" attribute to accommodate accessibility.
 
 ### Performance
 
@@ -490,10 +490,10 @@ In the future as my skills grow i would like to implement the following features
 ### Device Testing
 
 The website was tested on the following devices:
-- Xiaomi Redmi note 10 pro
+- Xiaomi Redmi Note 10 Pro
 - Windows 10 PC with a 24" MSI Curved gaming monitor
 
-In addition to testing on physical devices, the site was also tested using Google Chrome Developer Tools pre defined devices and also the responsive mode in which i would slowly increase the width of the screen to ensure resposiveness worked across all display sizes.
+In addition to testing on physical devices, the site was also tested using Google Chrome Developer Tools pre-defined devices and also the responsive mode in which I would slowly increase the width of the screen to ensure responsiveness worked across all display sizes.
 
 ### Browser Compatibility
 
@@ -505,7 +505,7 @@ The website was tested on the following web browsers:
 
 #### First time users
 
-1. As a first time user i would want to gain insight as to what type of establishment the bar is
+1. As a first time user I would want to gain insight as to what type of establishment the bar is
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -518,7 +518,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-video.png">
 </details>
 
-2. As a first time user i would want to know more about the bar	
+2. As a first time user I would want to know more about the bar	
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -531,7 +531,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-customer-reviews.png">
 </details>
 
-3. As a first time user i would want to know where the bar is located
+3. As a first time user I would want to know where the bar is located
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -548,7 +548,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-where-to-find-us.png">
 </details>
 
-4. As a first time user i would want to know the opening hours of the bar
+4. As a first time user I would want to know the opening hours of the bar
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -559,7 +559,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-footer-opening-times.png">
 </details>
 
-5. As a first time user i would want to know the drinks available and their prices
+5. As a first time user I would want to know the drinks available and their prices
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -576,8 +576,8 @@ The website was tested on the following web browsers:
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Whats new  | On the home page scroll down to the whats new section and click on the whats new button  | To be taken to the News section on the About page     | Works as intended  |
-| News  | Navigate to the About page, scroll down to the news section  | To view the news section at the bottom of the page     | works as intended  |
+| What's new  | On the home page scroll down to the What's new section and click on the Whats new button  | To be taken to the News section on the About page     | Works as intended  |
+| News  | Navigate to the About page, scroll down to the News section  | To view the news section at the bottom of the page     | works as intended  |
 
 <details>
 <summary>Screenshots</summary>
@@ -585,7 +585,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-news.png">
 </details>
 
-7. As a returning user i would want to see the menu
+7. As a returning user I would want to see the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -598,11 +598,11 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-menu.png">
 </details>
 
-8. As a returning user i would want to find the phone number to book a table via telephone
+8. As a returning user I would want to find the phone number to book a table via telephone
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
-| Footer - Contact section  | Scroll down to the footer section on any page  | To be presented with the phone number for the bar     | Works as intedned  |
+| Footer - Contact section  | Scroll down to the footer section on any page  | To be presented with the phone number for the bar     | Works as intended  |
 | Where to find us  | Navigate to the Contact page to view the where to find us section on the right hand side  | To be presented with the phone number for the bar     | Works as intended  |
 
 <details>
@@ -612,7 +612,7 @@ The website was tested on the following web browsers:
 </details>
 
 
-9. As a returning use i would want to see the opening times
+9. As a returning use I would want to see the opening times
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -626,7 +626,7 @@ The website was tested on the following web browsers:
 </details>
 
 
-10. As a returning user i would want to book a table via an online booking system
+10. As a returning user I would want to book a table via an online booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -638,7 +638,7 @@ The website was tested on the following web browsers:
 </details>
 
 
-11. As a returning user i would want to find the owners social media accounts
+11. As a returning user I would want to find the owner's social media accounts
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -652,7 +652,7 @@ The website was tested on the following web browsers:
 
 #### Site owner
 
-12. As a site owner i would like to introduce the bar to potential clients
+12. As a site owner I would like to introduce the bar to potential clients
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -665,7 +665,7 @@ The website was tested on the following web browsers:
 
 
 
-13. As the site owner i would want to be able to take bookings via an online form booking system
+13. As the site owner I would want to be able to take bookings via an online form booking system
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -678,7 +678,7 @@ The website was tested on the following web browsers:
 
 
 
-14. As the site owner i would want to have the ability to let its customers be aware of recent news such a Cocktail tasting events, changes to opening hours and additions to the menu
+14. As the site owner I would want to have the ability to let my customers be aware of recent news such as cocktail tasting events, changes to opening hours and additions to the menu
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -689,7 +689,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-news.png">
 </details>
 
-15. As a site owner i would like users to be able to easily navigate the site, creating a nice user experience
+15. As a site owner I would like users to be able to easily navigate the site, creating a nice user experience
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -700,7 +700,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-nav-bar.png">
 </details>
 
-16. As a site owner i would like the user to intially be presented with a striking image to generate excitement about the site and the bar itself
+16. As a site owner I would like the user to initially be presented with a striking image to generate excitement about the site and the bar itself
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -711,7 +711,7 @@ The website was tested on the following web browsers:
 <img src="docs/testing-user-stories/testing-user-stories-hero-image.png">
 </details>
 
-17. As a site owner i would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
+17. As a site owner I would not want the user to have to result in using the browser back button to navigate back to the site if a 404 error occurs
 
 | Feature       | Action        | Expected Result  | Actual Result |
 | ------------- | ------------- | -------------    | ------------- |
@@ -732,13 +732,13 @@ During the project i encountered a number of bugs some of which were solved some
 | ------------- | ------------- |
 | On the 404 error page the footer would sit high and obstruct the return home button  | Adding a class to the main div called empty-space-container which states the min-height: 80vh; ensured the main div was big enough that the footer error would not occur |
 | I wanted to provide a link from the new drink on the news blocks to the menu however the sticky header would obstruct the drink name when directed to the menu | Currently i could not think of a fix for this so i decided to not proceed with this feature to ensure there is a fully functioning website at the expense of one extra feature  
-|  On the contact section of the footer from 768px to 830px width the email text sits below the at sign icon |  The only fix i could think of for this was to reduce the font size however that would either involve having one piece of text smaller than the rest of the site which would not be go UI and the other option was to reduce the font size on all text which i didnt think looked good so it was kept as is for that small distance of pixel width
+|  On the contact section of the footer from 768px to 830px width the email text sits below the at sign icon |  The only fix I could think of for this was to reduce the font size however that would either involve having one piece of text smaller than the rest of the site which would not be goood UI and the other option was to reduce the font size on all text which I didn't think looked good so it was kept as is for that small distance of pixel width
 
 ## Deployment
 
 ### Github Pages
 
-This project was deployed to GitHub pages in the projects early stages to allow continual resposive testing. This was acheived via the following steps:
+This project was deployed to GitHub pages in the project's early stages to allow continual responsive testing. This was achieved via the following steps:
 
 1. Navigate to www.github.com and log in.
 2. Once logged in navigate to the projects [GitHub Repository](https://github.com/jkingportfolio/CI_PP1_TheCocktailBar)
@@ -821,7 +821,7 @@ The use of reference books were used throughout the creation of this project and
 
 ### Misc
 
-The source of where i learned how to produce a GitHub fork and clone was from the following pages of the GitHub Documentation. Although i did not use a fork or clone in this project it is something i hope to implement to future projects now i have the knowledge to do so.
+The source of where I learned how to produce a GitHub fork and clone was from the following pages of the GitHub Documentation. Although I did not use a fork or clone in this project it is something I hope to implement to future projects now I have the knowledge to do so.
 
 - https://docs.github.com/en/get-started/quickstart/fork-a-repo
 - https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
