@@ -148,27 +148,27 @@ Balsamiq was used in the intial design stage to layout sketches of each page and
 
 <details>
 <summary>Index</summary>
-<img src="docs/wireframes/index-html.png">
+<img src="docs/wireframes/wireframe-index-html.png">
 </details>
 <details>
 <summary>About</summary>
-<img src="docs/wireframes/about-html.png">
+<img src="docs/wireframes/wireframe-about-html.png">
 </details>
 <details>
 <summary>Menu</summary>
-<img src="docs/wireframes/menu-html.png">
+<img src="docs/wireframes/wireframe-menu-html.png">
 </details>
 <details>
 <summary>Gallery</summary>
-<img src="docs/wireframes/gallery-html.png">
+<img src="docs/wireframes/wireframe-gallery-html.png">
 </details>
 <details>
 <summary>Contact</summary>
-<img src="docs/wireframes/contact-html.png">
+<img src="docs/wireframes/wireframe-contact-html.png">
 </details>
 <details>
 <summary>404 page</summary>
-<img src="docs/wireframes/404-html.png">
+<img src="docs/wireframes/wireframe-404-html.png">
 </details>
 
 ## Technologies
